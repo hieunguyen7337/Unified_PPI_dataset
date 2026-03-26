@@ -73,6 +73,13 @@ Build-output folders:
 
 These intentionally keep only `derived/`, `reports/`, and `archive/`.
 
+## Dataset Sources
+
+- `5_PPI_dataset/`: legacy five-corpus PPI bundle assembled from commonly used benchmark corpora. Reference links: [comparative overview](https://link.springer.com/article/10.1186/1471-2105-9-S3-S6), [AImed source reference](ftp://ftp.cs.utexas.edu/pub/mooney/bio-data/), [BioInfer corpus paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-8-50), [LLL challenge reference](https://huggingface.co/datasets/bigbio/lll)
+- `Biocreative_VI/`: [BioCreative VI Precision Medicine Track](https://biocreative.bioinformatics.udel.edu/tasks/biocreative-vi/track-4/) and [track overview paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC6348314/)
+- `BioRED/`: [NCBI BioRED FTP release](https://ftp.ncbi.nlm.nih.gov/pub/lu/BioRED/), [BioRED GitHub repository](https://github.com/ncbi/BioRED), and [dataset paper](https://arxiv.org/abs/2204.04263)
+- `Typed_PPI_dataset/`: source link to be filled in later
+
 ## Documentation
 
 - `docs/pipeline.md`: stage-by-stage build and analysis flow
