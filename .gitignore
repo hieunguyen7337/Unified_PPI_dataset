@@ -18,16 +18,3 @@ Unified_PPI_dataset/derived/*.tsv
 
 # Large legacy intermediate outputs
 5_PPI_dataset/archive/legacy_combined_datasets/*.json
-
-# Large raw/source payloads
-5_PPI_dataset/raw/**/*.json
-Typed_PPI_dataset/raw/**/*.json
-Biocreative_VI/raw/*.json
-Biocreative_VI/raw/*.xml
-BioRED/raw/*.JSON
-BioRED/raw/*.XML
-BioRED/raw/*.PubTator
-BioRED/raw/*.pdf
-
-# Keep small metadata files that help document provenance
-!5_PPI_dataset/raw/**/relation_types.json

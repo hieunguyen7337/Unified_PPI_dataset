@@ -7,6 +7,8 @@ This repository builds and analyzes a unified protein-protein interaction datase
 
 ## Dataset Sources
 
+The source dataset files used by this pipeline are already included in this repository under the dataset `raw/` folders. The links below point to the original upstream sources for provenance and future refreshes.
+
 - `5_PPI_dataset/`: legacy five-corpus PPI bundle assembled by BNLNLP/PPI-Relation-Extraction. [All 5 dataset and typed PPI dataset](https://github.com/BNLNLP/PPI-Relation-Extraction/tree/main/datasets/PPI).
 - `Biocreative_VI/`: [BioCreative VI Directory](https://ftp.ncbi.nlm.nih.gov/pub/lu/BC6PPIm/)
 - `BioRED/`: [Full BioRED directory](https://ftp.ncbi.nlm.nih.gov/pub/lu/BioRED/). Download BIORED.zip for the dataset 
