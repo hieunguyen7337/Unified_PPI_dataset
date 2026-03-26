@@ -1,0 +1,14 @@
+File: biored_train_ppi_converted.json
+Total Rows: 784
+Positive Relations: 784
+Negative Relations: 0
+
+File: biored_dev_ppi_converted.json
+Total Rows: 194
+Positive Relations: 194
+Negative Relations: 0
+
+File: biored_test_ppi_converted.json
+Total Rows: 240
+Positive Relations: 240
+Negative Relations: 0

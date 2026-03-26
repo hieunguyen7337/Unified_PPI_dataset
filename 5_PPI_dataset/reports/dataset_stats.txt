@@ -1,0 +1,15 @@
+File: combined_train_0.json
+Positive: 3743
+Negative: 11595
+Total Entries: 15338
+
+File: combined_test_0.json
+Positive: 453
+Negative: 1289
+Total Entries: 1742
+
+File: combined_all_ppi_dataset_0.json
+Positive: 4196
+Negative: 12884
+Total Entries: 17080
+

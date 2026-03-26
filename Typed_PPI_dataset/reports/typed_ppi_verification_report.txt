@@ -1,0 +1,44 @@
+================================================================================
+10-FOLD CROSS-VALIDATION VERIFICATION FOR TYPED_PPI
+================================================================================
+
+Checking Typed_PPI dataset...
+================================================================================
+10-Fold Cross-Validation Verification Report: Typed_PPI
+================================================================================
+
+Number of folds detected: 10
+Total unique samples in dataset: 8146
+Valid 10-fold CV structure: [PASS] YES
+
+----------------------------------------
+Fold Details:
+----------------------------------------
+Fold   Test       Train      Total      Overlap   
+----------------------------------------------
+0      836        7310       8146       0         
+1      862        7284       8146       0         
+2      753        7393       8146       0         
+3      765        7381       8146       0         
+4      861        7285       8146       0         
+5      975        7171       8146       0         
+6      817        7329       8146       0         
+7      822        7324       8146       0         
+8      681        7465       8146       0         
+9      774        7372       8146       0         
+
+[PASS] All folds have the same total count: 8146
+
+----------------------------------------
+Test Set Coverage Analysis:
+----------------------------------------
+[PASS] All test sets combined cover the entire dataset
+[PASS] Each sample appears in exactly one test set (proper 10-fold CV)
+
+[PASS] No issues found - dataset is properly structured for 10-fold CV
+
+================================================================================
+
+================================================================================
+SUMMARY: Typed_PPI dataset is properly structured for 10-fold cross-validation!
+================================================================================

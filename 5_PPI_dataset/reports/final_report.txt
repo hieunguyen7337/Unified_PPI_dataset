@@ -1,0 +1,27 @@
+Analyzing: combined_train_0.json
+  Total Data Points (rows): 15338
+  Total Unique Sentences: 2718
+  Positive Relations: 3743
+  Negative Relations: 11595
+  [E1] before [E2]: 15138
+  [E2] before [E1]: 0
+  Rows with missing markers: 200
+------------------------------
+Analyzing: combined_test_0.json
+  Total Data Points (rows): 1742
+  Total Unique Sentences: 370
+  Positive Relations: 453
+  Negative Relations: 1289
+  [E1] before [E2]: 1728
+  [E2] before [E1]: 0
+  Rows with missing markers: 14
+------------------------------
+Analyzing: combined_all_ppi_dataset_0.json
+  Total Data Points (rows): 17080
+  Total Unique Sentences: 2962
+  Positive Relations: 4196
+  Negative Relations: 12884
+  [E1] before [E2]: 16866
+  [E2] before [E1]: 0
+  Rows with missing markers: 214
+------------------------------

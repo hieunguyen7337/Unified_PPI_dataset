@@ -1,0 +1,1283 @@
+Duplicate Analysis Report
+Total Duplicate Groups: 419
+
+Source Combinations:
+  - Biocreative & Biocreative: 120
+  - Biocreative & Biocreative & Biocreative: 67
+  - BioInfer & BioInfer: 46
+  - Biocreative & Biocreative & Biocreative & Biocreative: 39
+  - AIMed & BioInfer: 36
+  - Biocreative & Biocreative & Biocreative & Biocreative & Biocreative: 31
+  - Biocreative & Biocreative & Biocreative & Biocreative & Biocreative & Biocreative: 13
+  - BioInfer & BioInfer & BioInfer & BioInfer & BioInfer & BioInfer: 11
+  - Biocreative & Biocreative & Biocreative & Biocreative & Biocreative & Biocreative & Biocreative & Biocreative: 10
+  - BioRED & BioRED: 10
+  - BioInfer & Biocreative: 9
+  - Biocreative & Biocreative & Biocreative & Biocreative & Biocreative & Biocreative & Biocreative: 7
+  - BioRED & BioRED & BioRED: 6
+  - Biocreative & Biocreative & Biocreative & Biocreative & Biocreative & Biocreative & Biocreative & Biocreative & Biocreative: 5
+  - BioInfer & BioInfer & BioInfer: 4
+  - AIMed & Biocreative: 3
+  - BioInfer & BioInfer & BioInfer & BioInfer & BioInfer & BioInfer & BioInfer & BioInfer & BioInfer & BioInfer & BioInfer & BioInfer & BioInfer & BioInfer & BioInfer: 1
+  - IEPA & IEPA: 1
+
+==================================================
+
+Detailed Duplicate Entries:
+Text with Marker: Finally, we used in vitro translated proteins in an immunoprecipitation assay to show that, like [E1]beta 1-syntrophin[/E1], both beta 2- and [E2]alpha 1-syntrophin[/E2] interact with peptides encoding the syntrophin-binding region of dystrophin, utrophin/dystrophin related protein, and the Torpedo 87K protein.
+Found in IDs: AIMed.d154.s1314_AIMed.d154.s1314.p0, BioInfer.d211.s0_BioInfer.d211.s0.p0
+--------------------
+Text with Marker: Finally, we used in vitro translated proteins in an immunoprecipitation assay to show that, like [E1]beta 1-syntrophin[/E1], both beta 2- and alpha 1-syntrophin interact with peptides encoding the syntrophin-binding region of [E2]dystrophin[/E2], utrophin/dystrophin related protein, and the Torpedo 87K protein.
+Found in IDs: AIMed.d154.s1314_AIMed.d154.s1314.p1, BioInfer.d211.s0_BioInfer.d211.s0.p10
+--------------------
+Text with Marker: Finally, we used in vitro translated proteins in an immunoprecipitation assay to show that, like [E1]beta 1-syntrophin[/E1], both beta 2- and alpha 1-syntrophin interact with peptides encoding the syntrophin-binding region of dystrophin, [E2]utrophin[/E2]/dystrophin related protein, and the Torpedo 87K protein.
+Found in IDs: AIMed.d154.s1314_AIMed.d154.s1314.p2, BioInfer.d211.s0_BioInfer.d211.s0.p7
+--------------------
+Text with Marker: Finally, we used in vitro translated proteins in an immunoprecipitation assay to show that, like [E1]beta 1-syntrophin[/E1], both beta 2- and alpha 1-syntrophin interact with peptides encoding the syntrophin-binding region of dystrophin, utrophin/[E2]dystrophin related protein[/E2], and the Torpedo 87K protein.
+Found in IDs: AIMed.d154.s1314_AIMed.d154.s1314.p4, BioInfer.d211.s0_BioInfer.d211.s0.p9
+--------------------
+Text with Marker: Finally, we used in vitro translated proteins in an immunoprecipitation assay to show that, like beta 1-syntrophin, both beta 2- and [E1]alpha 1-syntrophin[/E1] interact with peptides encoding the syntrophin-binding region of [E2]dystrophin[/E2], utrophin/dystrophin related protein, and the Torpedo 87K protein.
+Found in IDs: AIMed.d154.s1314_AIMed.d154.s1314.p6, BioInfer.d211.s0_BioInfer.d211.s0.p4
+--------------------
+Text with Marker: Finally, we used in vitro translated proteins in an immunoprecipitation assay to show that, like beta 1-syntrophin, both beta 2- and [E1]alpha 1-syntrophin[/E1] interact with peptides encoding the syntrophin-binding region of dystrophin, [E2]utrophin[/E2]/dystrophin related protein, and the Torpedo 87K protein.
+Found in IDs: AIMed.d154.s1314_AIMed.d154.s1314.p7, BioInfer.d211.s0_BioInfer.d211.s0.p1
+--------------------
+Text with Marker: Finally, we used in vitro translated proteins in an immunoprecipitation assay to show that, like beta 1-syntrophin, both beta 2- and [E1]alpha 1-syntrophin[/E1] interact with peptides encoding the syntrophin-binding region of dystrophin, utrophin/[E2]dystrophin related protein[/E2], and the Torpedo 87K protein.
+Found in IDs: AIMed.d154.s1314_AIMed.d154.s1314.p9, BioInfer.d211.s0_BioInfer.d211.s0.p3
+--------------------
+Text with Marker: Finally, we used in vitro translated proteins in an immunoprecipitation assay to show that, like beta 1-syntrophin, both beta 2- and alpha 1-syntrophin interact with peptides encoding the syntrophin-binding region of [E1]dystrophin[/E1], [E2]utrophin[/E2]/dystrophin related protein, and the Torpedo 87K protein.
+Found in IDs: AIMed.d154.s1314_AIMed.d154.s1314.p11, BioInfer.d211.s0_BioInfer.d211.s0.p15
+--------------------
+Text with Marker: Finally, we used in vitro translated proteins in an immunoprecipitation assay to show that, like beta 1-syntrophin, both beta 2- and alpha 1-syntrophin interact with peptides encoding the syntrophin-binding region of [E1]dystrophin[/E1], utrophin/[E2]dystrophin related protein[/E2], and the Torpedo 87K protein.
+Found in IDs: AIMed.d154.s1314_AIMed.d154.s1314.p13, BioInfer.d211.s0_BioInfer.d211.s0.p22
+--------------------
+Text with Marker: Finally, we used in vitro translated proteins in an immunoprecipitation assay to show that, like beta 1-syntrophin, both beta 2- and alpha 1-syntrophin interact with peptides encoding the syntrophin-binding region of dystrophin, [E1]utrophin[/E1]/[E2]dystrophin related protein[/E2], and the Torpedo 87K protein.
+Found in IDs: AIMed.d154.s1314_AIMed.d154.s1314.p16, BioInfer.d211.s0_BioInfer.d211.s0.p14
+--------------------
+Text with Marker: Associations of [E1]UBE2I[/E1] with [E2]RAD52[/E2], UBL1, p53, and RAD51 proteins in a yeast two-hybrid system.
+Found in IDs: AIMed.d189.s1603_AIMed.d189.s1603.p0, BioInfer.d85.s0_BioInfer.d85.s0.p7
+--------------------
+Text with Marker: Associations of [E1]UBE2I[/E1] with RAD52, [E2]UBL1[/E2], p53, and RAD51 proteins in a yeast two-hybrid system.
+Found in IDs: AIMed.d189.s1603_AIMed.d189.s1603.p1, BioInfer.d85.s0_BioInfer.d85.s0.p2
+--------------------
+Text with Marker: Associations of [E1]UBE2I[/E1] with RAD52, UBL1, [E2]p53[/E2], and RAD51 proteins in a yeast two-hybrid system.
+Found in IDs: AIMed.d189.s1603_AIMed.d189.s1603.p2, BioInfer.d85.s0_BioInfer.d85.s0.p9
+--------------------
+Text with Marker: Associations of [E1]UBE2I[/E1] with RAD52, UBL1, p53, and [E2]RAD51[/E2] proteins in a yeast two-hybrid system.
+Found in IDs: AIMed.d189.s1603_AIMed.d189.s1603.p3, BioInfer.d85.s0_BioInfer.d85.s0.p5
+--------------------
+Text with Marker: Associations of UBE2I with [E1]RAD52[/E1], [E2]UBL1[/E2], p53, and RAD51 proteins in a yeast two-hybrid system.
+Found in IDs: AIMed.d189.s1603_AIMed.d189.s1603.p4, BioInfer.d85.s0_BioInfer.d85.s0.p1
+--------------------
+Text with Marker: Associations of UBE2I with [E1]RAD52[/E1], UBL1, [E2]p53[/E2], and RAD51 proteins in a yeast two-hybrid system.
+Found in IDs: AIMed.d189.s1603_AIMed.d189.s1603.p5, BioInfer.d85.s0_BioInfer.d85.s0.p8
+--------------------
+Text with Marker: Associations of UBE2I with [E1]RAD52[/E1], UBL1, p53, and [E2]RAD51[/E2] proteins in a yeast two-hybrid system.
+Found in IDs: AIMed.d189.s1603_AIMed.d189.s1603.p6, BioInfer.d85.s0_BioInfer.d85.s0.p4
+--------------------
+Text with Marker: Associations of UBE2I with RAD52, [E1]UBL1[/E1], [E2]p53[/E2], and RAD51 proteins in a yeast two-hybrid system.
+Found in IDs: AIMed.d189.s1603_AIMed.d189.s1603.p7, BioInfer.d85.s0_BioInfer.d85.s0.p3
+--------------------
+Text with Marker: Associations of UBE2I with RAD52, [E1]UBL1[/E1], p53, and [E2]RAD51[/E2] proteins in a yeast two-hybrid system.
+Found in IDs: AIMed.d189.s1603_AIMed.d189.s1603.p8, BioInfer.d85.s0_BioInfer.d85.s0.p0
+--------------------
+Text with Marker: Associations of UBE2I with RAD52, UBL1, [E1]p53[/E1], and [E2]RAD51[/E2] proteins in a yeast two-hybrid system.
+Found in IDs: AIMed.d189.s1603_AIMed.d189.s1603.p9, BioInfer.d85.s0_BioInfer.d85.s0.p6
+--------------------
+Text with Marker: In this recombinant expression system, the [E1]dystrophin[/E1] relatives, human [E2]dystrophin related protein[/E2] (DRP or utrophin) and the 87K postsynaptic protein from Torpedo electric organ, also bind to translated beta 1-syntrophin.
+Found in IDs: AIMed.d114.s968_AIMed.d114.s968.p1, BioInfer.d376.s0_BioInfer.d376.s0.p8
+--------------------
+Text with Marker: In this recombinant expression system, the [E1]dystrophin[/E1] relatives, human dystrophin related protein ([E2]DRP[/E2] or utrophin) and the 87K postsynaptic protein from Torpedo electric organ, also bind to translated beta 1-syntrophin.
+Found in IDs: AIMed.d114.s968_AIMed.d114.s968.p2, BioInfer.d376.s0_BioInfer.d376.s0.p4
+--------------------
+Text with Marker: In this recombinant expression system, the [E1]dystrophin[/E1] relatives, human dystrophin related protein (DRP or [E2]utrophin[/E2]) and the 87K postsynaptic protein from Torpedo electric organ, also bind to translated beta 1-syntrophin.
+Found in IDs: AIMed.d114.s968_AIMed.d114.s968.p3, BioInfer.d376.s0_BioInfer.d376.s0.p13
+--------------------
+Text with Marker: In this recombinant expression system, the [E1]dystrophin[/E1] relatives, human dystrophin related protein (DRP or utrophin) and the [E2]87K postsynaptic protein[/E2] from Torpedo electric organ, also bind to translated beta 1-syntrophin.
+Found in IDs: AIMed.d114.s968_AIMed.d114.s968.p4, BioInfer.d376.s0_BioInfer.d376.s0.p11
+--------------------
+Text with Marker: In this recombinant expression system, the [E1]dystrophin[/E1] relatives, human dystrophin related protein (DRP or utrophin) and the 87K postsynaptic protein from Torpedo electric organ, also bind to translated [E2]beta 1-syntrophin[/E2].
+Found in IDs: AIMed.d114.s968_AIMed.d114.s968.p5, BioInfer.d376.s0_BioInfer.d376.s0.p14
+--------------------
+Text with Marker: In this recombinant expression system, the dystrophin relatives, human [E1]dystrophin related protein[/E1] ([E2]DRP[/E2] or utrophin) and the 87K postsynaptic protein from Torpedo electric organ, also bind to translated beta 1-syntrophin.
+Found in IDs: AIMed.d114.s968_AIMed.d114.s968.p11, BioInfer.d376.s0_BioInfer.d376.s0.p0
+--------------------
+Text with Marker: In this recombinant expression system, the dystrophin relatives, human [E1]dystrophin related protein[/E1] (DRP or [E2]utrophin[/E2]) and the 87K postsynaptic protein from Torpedo electric organ, also bind to translated beta 1-syntrophin.
+Found in IDs: AIMed.d114.s968_AIMed.d114.s968.p12, BioInfer.d376.s0_BioInfer.d376.s0.p6
+--------------------
+Text with Marker: In this recombinant expression system, the dystrophin relatives, human [E1]dystrophin related protein[/E1] (DRP or utrophin) and the [E2]87K postsynaptic protein[/E2] from Torpedo electric organ, also bind to translated beta 1-syntrophin.
+Found in IDs: AIMed.d114.s968_AIMed.d114.s968.p13, BioInfer.d376.s0_BioInfer.d376.s0.p5
+--------------------
+Text with Marker: In this recombinant expression system, the dystrophin relatives, human [E1]dystrophin related protein[/E1] (DRP or utrophin) and the 87K postsynaptic protein from Torpedo electric organ, also bind to translated [E2]beta 1-syntrophin[/E2].
+Found in IDs: AIMed.d114.s968_AIMed.d114.s968.p14, BioInfer.d376.s0_BioInfer.d376.s0.p7
+--------------------
+Text with Marker: In this recombinant expression system, the dystrophin relatives, human dystrophin related protein ([E1]DRP[/E1] or [E2]utrophin[/E2]) and the 87K postsynaptic protein from Torpedo electric organ, also bind to translated beta 1-syntrophin.
+Found in IDs: AIMed.d114.s968_AIMed.d114.s968.p15, BioInfer.d376.s0_BioInfer.d376.s0.p2
+--------------------
+Text with Marker: In this recombinant expression system, the dystrophin relatives, human dystrophin related protein ([E1]DRP[/E1] or utrophin) and the [E2]87K postsynaptic protein[/E2] from Torpedo electric organ, also bind to translated beta 1-syntrophin.
+Found in IDs: AIMed.d114.s968_AIMed.d114.s968.p16, BioInfer.d376.s0_BioInfer.d376.s0.p1
+--------------------
+Text with Marker: In this recombinant expression system, the dystrophin relatives, human dystrophin related protein ([E1]DRP[/E1] or utrophin) and the 87K postsynaptic protein from Torpedo electric organ, also bind to translated [E2]beta 1-syntrophin[/E2].
+Found in IDs: AIMed.d114.s968_AIMed.d114.s968.p17, BioInfer.d376.s0_BioInfer.d376.s0.p3
+--------------------
+Text with Marker: In this recombinant expression system, the dystrophin relatives, human dystrophin related protein (DRP or [E1]utrophin[/E1]) and the [E2]87K postsynaptic protein[/E2] from Torpedo electric organ, also bind to translated beta 1-syntrophin.
+Found in IDs: AIMed.d114.s968_AIMed.d114.s968.p18, BioInfer.d376.s0_BioInfer.d376.s0.p9
+--------------------
+Text with Marker: In this recombinant expression system, the dystrophin relatives, human dystrophin related protein (DRP or [E1]utrophin[/E1]) and the 87K postsynaptic protein from Torpedo electric organ, also bind to translated [E2]beta 1-syntrophin[/E2].
+Found in IDs: AIMed.d114.s968_AIMed.d114.s968.p19, BioInfer.d376.s0_BioInfer.d376.s0.p12
+--------------------
+Text with Marker: In this recombinant expression system, the dystrophin relatives, human dystrophin related protein (DRP or utrophin) and the [E1]87K postsynaptic protein[/E1] from Torpedo electric organ, also bind to translated [E2]beta 1-syntrophin[/E2].
+Found in IDs: AIMed.d114.s968_AIMed.d114.s968.p20, BioInfer.d376.s0_BioInfer.d376.s0.p10
+--------------------
+Text with Marker: Isolation of human [E1]delta-catenin[/E1] and its binding specificity with [E2]presenilin 1[/E2].
+Found in IDs: AIMed.d30.s250_AIMed.d30.s250.p0, BioInfer.d392.s0_BioInfer.d392.s0.p0
+--------------------
+Text with Marker: Insulin receptor substrate 1 ([E1]IRS-1[/E1]) is a major substrate of the [E2]insulin receptor[/E2] and has been implicated in insulin signaling.
+Found in IDs: AIMed.d123.s1044_AIMed.d123.s1044.p3, Biocreative.d7935368.s53746_Biocreative.d7935368.s53746.p2
+--------------------
+Text with Marker: We demonstrate that [E1]IRS-1[/E1] forms a specific complex with the cytoplasmic domain of the [E2]insulin receptor[/E2] when both are expressed as hybrid proteins in yeast cells.
+Found in IDs: AIMed.d123.s1047_AIMed.d123.s1047.p0, Biocreative.d7935368.s65338_Biocreative.d7935368.s65338.p0
+--------------------
+Text with Marker: Lastly, in agreement with our findings for yeast cells, we show that the [E1]insulin receptor[/E1] is unable to phosphorylate an [E2]IRS-1[/E2] protein containing a deletion of amino acids 45 to 516 when expressed in COS cells.
+Found in IDs: AIMed.d123.s1052_AIMed.d123.s1052.p0, Biocreative.d7935368.s50318_Biocreative.d7935368.s50318.p0
+--------------------
+Text with Marker: Here we have now identified the reciprocal complementary binding site in [E1]alpha-catenin[/E1] which mediates its interaction with [E2]beta-catenin[/E2] and plakoglobin.
+Found in IDs: BioInfer.d245.s0_BioInfer.d245.s0.p0, Biocreative.d9264463.s47357_Biocreative.d9264463.s47357.p0
+--------------------
+Text with Marker: Here we have now identified the reciprocal complementary binding site in [E1]alpha-catenin[/E1] which mediates its interaction with beta-catenin and [E2]plakoglobin[/E2].
+Found in IDs: BioInfer.d245.s0_BioInfer.d245.s0.p1, Biocreative.d9264463.s47357_Biocreative.d9264463.s47357.p1
+--------------------
+Text with Marker: Here we have now identified the reciprocal complementary binding site in alpha-catenin which mediates its interaction with [E1]beta-catenin[/E1] and [E2]plakoglobin[/E2].
+Found in IDs: BioInfer.d245.s0_BioInfer.d245.s0.p2, Biocreative.d9264463.s47357_Biocreative.d9264463.s47357.p2
+--------------------
+Text with Marker: It is well established that the cytoplasmic domain of E-cadherin binds either beta-catenin or [E1]plakoglobin[/E1], which both can assemble [E2]alpha-catenin[/E2] into the complex.
+Found in IDs: BioInfer.d245.s1_BioInfer.d245.s1.p0, Biocreative.d9264463.s70691_Biocreative.d9264463.s70691.p2
+--------------------
+Text with Marker: It is well established that the cytoplasmic domain of E-cadherin binds either [E1]beta-catenin[/E1] or [E2]plakoglobin[/E2], which both can assemble alpha-catenin into the complex.
+Found in IDs: BioInfer.d245.s1_BioInfer.d245.s1.p1, Biocreative.d9264463.s70691_Biocreative.d9264463.s70691.p0
+--------------------
+Text with Marker: It is well established that the cytoplasmic domain of E-cadherin binds either [E1]beta-catenin[/E1] or plakoglobin, which both can assemble [E2]alpha-catenin[/E2] into the complex.
+Found in IDs: BioInfer.d245.s1_BioInfer.d245.s1.p3, Biocreative.d9264463.s70691_Biocreative.d9264463.s70691.p1
+--------------------
+Text with Marker: Recently we have identified an [E1]alpha-catenin[/E1] binding site in [E2]beta-catenin[/E2] and plakoglobin and postulated, based on sequence analysis, that these protein-protein interactions are mediated by a hydrophobic interaction mechanism.
+Found in IDs: BioInfer.d245.s2_BioInfer.d245.s2.p0, Biocreative.d9264463.s73174_Biocreative.d9264463.s73174.p0
+--------------------
+Text with Marker: Recently we have identified an [E1]alpha-catenin[/E1] binding site in beta-catenin and [E2]plakoglobin[/E2] and postulated, based on sequence analysis, that these protein-protein interactions are mediated by a hydrophobic interaction mechanism.
+Found in IDs: BioInfer.d245.s2_BioInfer.d245.s2.p1, Biocreative.d9264463.s73174_Biocreative.d9264463.s73174.p1
+--------------------
+Text with Marker: Recently we have identified an alpha-catenin binding site in [E1]beta-catenin[/E1] and [E2]plakoglobin[/E2] and postulated, based on sequence analysis, that these protein-protein interactions are mediated by a hydrophobic interaction mechanism.
+Found in IDs: BioInfer.d245.s2_BioInfer.d245.s2.p2, Biocreative.d9264463.s73174_Biocreative.d9264463.s73174.p2
+--------------------
+Text with Marker: Immunohistochemistry for a variety of [E1-E2]cytokeratins[/E1-E2] (CKs) (8/18, 1/10, 7, and 20), epithelial membrane antigen (EMA), S-100 protein, vimentin CD34, type IV collagen, smooth muscle actin, smooth muscle myosin heavy chain, calponin, and glial fibrillary acid protein was performed.
+Found in IDs: BioInfer.d294.s0_BioInfer.d294.s0.p0, BioInfer.d294.s0_BioInfer.d294.s0.p10, BioInfer.d294.s0_BioInfer.d294.s0.p11, BioInfer.d294.s0_BioInfer.d294.s0.p14, BioInfer.d294.s0_BioInfer.d294.s0.p15, BioInfer.d294.s0_BioInfer.d294.s0.p25, BioInfer.d294.s0_BioInfer.d294.s0.p26, BioInfer.d294.s0_BioInfer.d294.s0.p29, BioInfer.d294.s0_BioInfer.d294.s0.p30, BioInfer.d294.s0_BioInfer.d294.s0.p121, BioInfer.d294.s0_BioInfer.d294.s0.p124, BioInfer.d294.s0_BioInfer.d294.s0.p125, BioInfer.d294.s0_BioInfer.d294.s0.p128, BioInfer.d294.s0_BioInfer.d294.s0.p129, BioInfer.d294.s0_BioInfer.d294.s0.p135
+--------------------
+Text with Marker: Immunohistochemistry for a variety of [E1]cytokeratins[/E1] (CKs) (8/18, 1/10, 7, and 20), epithelial membrane antigen (EMA), [E2]S-100[/E2] protein, vimentin CD34, type IV collagen, smooth muscle actin, smooth muscle myosin heavy chain, calponin, and glial fibrillary acid protein was performed.
+Found in IDs: BioInfer.d294.s0_BioInfer.d294.s0.p1, BioInfer.d294.s0_BioInfer.d294.s0.p16, BioInfer.d294.s0_BioInfer.d294.s0.p39, BioInfer.d294.s0_BioInfer.d294.s0.p40, BioInfer.d294.s0_BioInfer.d294.s0.p43, BioInfer.d294.s0_BioInfer.d294.s0.p44
+--------------------
+Text with Marker: Immunohistochemistry for a variety of [E1]cytokeratins[/E1] (CKs) (8/18, 1/10, 7, and 20), epithelial membrane antigen (EMA), S-100 protein, vimentin CD34, type IV collagen, smooth muscle actin, smooth muscle myosin heavy chain, calponin, and [E2]glial fibrillary acid protein[/E2] was performed.
+Found in IDs: BioInfer.d294.s0_BioInfer.d294.s0.p2, BioInfer.d294.s0_BioInfer.d294.s0.p17, BioInfer.d294.s0_BioInfer.d294.s0.p52, BioInfer.d294.s0_BioInfer.d294.s0.p53, BioInfer.d294.s0_BioInfer.d294.s0.p56, BioInfer.d294.s0_BioInfer.d294.s0.p57
+--------------------
+Text with Marker: Immunohistochemistry for a variety of [E1]cytokeratins[/E1] (CKs) (8/18, 1/10, 7, and 20), epithelial membrane antigen ([E2]EMA[/E2]), S-100 protein, vimentin CD34, type IV collagen, smooth muscle actin, smooth muscle myosin heavy chain, calponin, and glial fibrillary acid protein was performed.
+Found in IDs: BioInfer.d294.s0_BioInfer.d294.s0.p3, BioInfer.d294.s0_BioInfer.d294.s0.p18, BioInfer.d294.s0_BioInfer.d294.s0.p64, BioInfer.d294.s0_BioInfer.d294.s0.p65, BioInfer.d294.s0_BioInfer.d294.s0.p68, BioInfer.d294.s0_BioInfer.d294.s0.p69
+--------------------
+Text with Marker: Immunohistochemistry for a variety of [E1]cytokeratins[/E1] (CKs) (8/18, 1/10, 7, and 20), [E2]epithelial membrane antigen[/E2] (EMA), S-100 protein, vimentin CD34, type IV collagen, smooth muscle actin, smooth muscle myosin heavy chain, calponin, and glial fibrillary acid protein was performed.
+Found in IDs: BioInfer.d294.s0_BioInfer.d294.s0.p4, BioInfer.d294.s0_BioInfer.d294.s0.p19, BioInfer.d294.s0_BioInfer.d294.s0.p75, BioInfer.d294.s0_BioInfer.d294.s0.p76, BioInfer.d294.s0_BioInfer.d294.s0.p79, BioInfer.d294.s0_BioInfer.d294.s0.p80
+--------------------
+Text with Marker: Immunohistochemistry for a variety of [E1]cytokeratins[/E1] (CKs) (8/18, 1/10, 7, and 20), epithelial membrane antigen (EMA), S-100 protein, vimentin CD34, [E2]type IV collagen[/E2], smooth muscle actin, smooth muscle myosin heavy chain, calponin, and glial fibrillary acid protein was performed.
+Found in IDs: BioInfer.d294.s0_BioInfer.d294.s0.p5, BioInfer.d294.s0_BioInfer.d294.s0.p20, BioInfer.d294.s0_BioInfer.d294.s0.p85, BioInfer.d294.s0_BioInfer.d294.s0.p86, BioInfer.d294.s0_BioInfer.d294.s0.p89, BioInfer.d294.s0_BioInfer.d294.s0.p90
+--------------------
+Text with Marker: Immunohistochemistry for a variety of [E1]cytokeratins[/E1] (CKs) (8/18, 1/10, 7, and 20), epithelial membrane antigen (EMA), S-100 protein, [E2]vimentin[/E2] CD34, type IV collagen, smooth muscle actin, smooth muscle myosin heavy chain, calponin, and glial fibrillary acid protein was performed.
+Found in IDs: BioInfer.d294.s0_BioInfer.d294.s0.p6, BioInfer.d294.s0_BioInfer.d294.s0.p21, BioInfer.d294.s0_BioInfer.d294.s0.p94, BioInfer.d294.s0_BioInfer.d294.s0.p95, BioInfer.d294.s0_BioInfer.d294.s0.p98, BioInfer.d294.s0_BioInfer.d294.s0.p99
+--------------------
+Text with Marker: Immunohistochemistry for a variety of [E1]cytokeratins[/E1] (CKs) (8/18, 1/10, 7, and 20), epithelial membrane antigen (EMA), S-100 protein, vimentin CD34, type IV collagen, smooth muscle actin, [E2]smooth muscle myosin heavy chain[/E2], calponin, and glial fibrillary acid protein was performed.
+Found in IDs: BioInfer.d294.s0_BioInfer.d294.s0.p7, BioInfer.d294.s0_BioInfer.d294.s0.p22, BioInfer.d294.s0_BioInfer.d294.s0.p102, BioInfer.d294.s0_BioInfer.d294.s0.p103, BioInfer.d294.s0_BioInfer.d294.s0.p106, BioInfer.d294.s0_BioInfer.d294.s0.p107
+--------------------
+Text with Marker: Immunohistochemistry for a variety of [E1]cytokeratins[/E1] (CKs) (8/18, 1/10, 7, and 20), epithelial membrane antigen (EMA), S-100 protein, vimentin CD34, type IV collagen, [E2]smooth muscle actin[/E2], smooth muscle myosin heavy chain, calponin, and glial fibrillary acid protein was performed.
+Found in IDs: BioInfer.d294.s0_BioInfer.d294.s0.p8, BioInfer.d294.s0_BioInfer.d294.s0.p23, BioInfer.d294.s0_BioInfer.d294.s0.p109, BioInfer.d294.s0_BioInfer.d294.s0.p110, BioInfer.d294.s0_BioInfer.d294.s0.p113, BioInfer.d294.s0_BioInfer.d294.s0.p114
+--------------------
+Text with Marker: Immunohistochemistry for a variety of [E1]cytokeratins[/E1] (CKs) (8/18, 1/10, 7, and 20), epithelial membrane antigen (EMA), S-100 protein, vimentin [E2]CD34[/E2], type IV collagen, smooth muscle actin, smooth muscle myosin heavy chain, calponin, and glial fibrillary acid protein was performed.
+Found in IDs: BioInfer.d294.s0_BioInfer.d294.s0.p9, BioInfer.d294.s0_BioInfer.d294.s0.p24, BioInfer.d294.s0_BioInfer.d294.s0.p115, BioInfer.d294.s0_BioInfer.d294.s0.p116, BioInfer.d294.s0_BioInfer.d294.s0.p119, BioInfer.d294.s0_BioInfer.d294.s0.p120
+--------------------
+Text with Marker: Immunohistochemistry for a variety of [E1]cytokeratins[/E1] (CKs) (8/18, 1/10, 7, and 20), epithelial membrane antigen (EMA), S-100 protein, vimentin CD34, type IV collagen, smooth muscle actin, smooth muscle myosin heavy chain, [E2]calponin[/E2], and glial fibrillary acid protein was performed.
+Found in IDs: BioInfer.d294.s0_BioInfer.d294.s0.p12, BioInfer.d294.s0_BioInfer.d294.s0.p27, BioInfer.d294.s0_BioInfer.d294.s0.p122, BioInfer.d294.s0_BioInfer.d294.s0.p126, BioInfer.d294.s0_BioInfer.d294.s0.p131, BioInfer.d294.s0_BioInfer.d294.s0.p132
+--------------------
+Text with Marker: Immunohistochemistry for a variety of [E1]cytokeratins[/E1] ([E2]CKs[/E2]) (8/18, 1/10, 7, and 20), epithelial membrane antigen (EMA), S-100 protein, vimentin CD34, type IV collagen, smooth muscle actin, smooth muscle myosin heavy chain, calponin, and glial fibrillary acid protein was performed.
+Found in IDs: BioInfer.d294.s0_BioInfer.d294.s0.p13, BioInfer.d294.s0_BioInfer.d294.s0.p28, BioInfer.d294.s0_BioInfer.d294.s0.p123, BioInfer.d294.s0_BioInfer.d294.s0.p127, BioInfer.d294.s0_BioInfer.d294.s0.p133, BioInfer.d294.s0_BioInfer.d294.s0.p134
+--------------------
+Text with Marker: Saccharomyces cerevisiae [E1]PAC2[/E1] functions with [E2]CIN[/E2]1, 2 and 4 in a pathway leading to normal microtubule stability.
+Found in IDs: BioInfer.d526.s0_BioInfer.d526.s0.p1, BioInfer.d526.s0_BioInfer.d526.s0.p2
+--------------------
+Text with Marker: Saccharomyces cerevisiae PAC2 functions with [E1-E2]CIN[/E1]1[/E2], 2 and 4 in a pathway leading to normal microtubule stability.
+Found in IDs: BioInfer.d526.s0_BioInfer.d526.s0.p3, BioInfer.d526.s0_BioInfer.d526.s0.p4
+--------------------
+Text with Marker: Newly disclosed interactions between gephyrin, exchange factors for [E1]G proteins[/E1] of the [E2]Rho[/E2] and Rac families, the translational regulator RAFT1, and actin-binding proteins like profilin might integrate activity-dependent and trophic-factor-mediated signals at developing postsynaptic sites.
+Found in IDs: BioInfer.d451.s0_BioInfer.d451.s0.p0, BioInfer.d451.s0_BioInfer.d451.s0.p1
+--------------------
+Text with Marker: Newly disclosed interactions between gephyrin, exchange factors for [E1]G proteins[/E1] of the Rho and Rac families, the translational regulator [E2]RAFT1[/E2], and actin-binding proteins like profilin might integrate activity-dependent and trophic-factor-mediated signals at developing postsynaptic sites.
+Found in IDs: BioInfer.d451.s0_BioInfer.d451.s0.p8, BioInfer.d451.s0_BioInfer.d451.s0.p13
+--------------------
+Text with Marker: Newly disclosed interactions between gephyrin, exchange factors for [E1]G proteins[/E1] of the Rho and Rac families, the translational regulator RAFT1, and actin-binding proteins like [E2]profilin[/E2] might integrate activity-dependent and trophic-factor-mediated signals at developing postsynaptic sites.
+Found in IDs: BioInfer.d451.s0_BioInfer.d451.s0.p9, BioInfer.d451.s0_BioInfer.d451.s0.p14
+--------------------
+Text with Marker: Newly disclosed interactions between gephyrin, exchange factors for [E1]G proteins[/E1] of the Rho and Rac families, the translational regulator RAFT1, and [E2]actin-binding proteins[/E2] like profilin might integrate activity-dependent and trophic-factor-mediated signals at developing postsynaptic sites.
+Found in IDs: BioInfer.d451.s0_BioInfer.d451.s0.p10, BioInfer.d451.s0_BioInfer.d451.s0.p15
+--------------------
+Text with Marker: Newly disclosed interactions between [E1]gephyrin[/E1], exchange factors for [E2]G proteins[/E2] of the Rho and Rac families, the translational regulator RAFT1, and actin-binding proteins like profilin might integrate activity-dependent and trophic-factor-mediated signals at developing postsynaptic sites.
+Found in IDs: BioInfer.d451.s0_BioInfer.d451.s0.p11, BioInfer.d451.s0_BioInfer.d451.s0.p16
+--------------------
+Text with Marker: Newly disclosed interactions between gephyrin, exchange factors for [E1]G proteins[/E1] of the Rho and [E2]Rac[/E2] families, the translational regulator RAFT1, and actin-binding proteins like profilin might integrate activity-dependent and trophic-factor-mediated signals at developing postsynaptic sites.
+Found in IDs: BioInfer.d451.s0_BioInfer.d451.s0.p12, BioInfer.d451.s0_BioInfer.d451.s0.p17
+--------------------
+Text with Marker: Electrical stimulation of cardiocyte contraction did not enhance [E1]alpha-cardiac actin[/E1] or [E2]myosin heavy chain[/E2] (alpha+beta) mRNA transcript levels relative to 28S rRNA during the period of rapid growth that occurred over the first 48 hours.
+Found in IDs: BioInfer.d188.s0_BioInfer.d188.s0.p1, BioInfer.d188.s0_BioInfer.d188.s0.p3
+--------------------
+Text with Marker: Electrical stimulation of cardiocyte contraction did not enhance alpha-cardiac actin or [E1]myosin heavy chain[/E1] (alpha+beta) mRNA transcript levels relative to [E2]28S rRNA[/E2] during the period of rapid growth that occurred over the first 48 hours.
+Found in IDs: BioInfer.d188.s0_BioInfer.d188.s0.p2, BioInfer.d188.s0_BioInfer.d188.s0.p4
+--------------------
+Text with Marker: Expressions of [E1]cyclin[/E1] E, A, and B1 in Hodgkin and Reed-Sternberg cells: not suppressed by [E2]cyclin-dependent kinase inhibitor[/E2] p21 expression.
+Found in IDs: BioInfer.d206.s0_BioInfer.d206.s0.p0, BioInfer.d206.s0_BioInfer.d206.s0.p2
+--------------------
+Text with Marker: Expressions of [E1-E2]cyclin[/E1] E[/E2], A, and B1 in Hodgkin and Reed-Sternberg cells: not suppressed by cyclin-dependent kinase inhibitor p21 expression.
+Found in IDs: BioInfer.d206.s0_BioInfer.d206.s0.p4, BioInfer.d206.s0_BioInfer.d206.s0.p7
+--------------------
+Text with Marker: Expressions of [E1]cyclin[/E1] E, A, and B1 in Hodgkin and Reed-Sternberg cells: not suppressed by cyclin-dependent kinase inhibitor [E2]p21[/E2] expression.
+Found in IDs: BioInfer.d206.s0_BioInfer.d206.s0.p6, BioInfer.d206.s0_BioInfer.d206.s0.p9
+--------------------
+Text with Marker: A 2.2-kb truncated NRP1 cDNA was cloned that encodes a 644-aa [E1]soluble NRP1[/E1] (sNRP1) isoform containing just the a/CUB and b/coagulation factor homology extracellular domains of [E2]NRP1[/E2].
+Found in IDs: BioInfer.d109.s1_BioInfer.d109.s1.p3, BioInfer.d109.s1_BioInfer.d109.s1.p5
+--------------------
+Text with Marker: A 2.2-kb truncated NRP1 cDNA was cloned that encodes a 644-aa soluble NRP1 (sNRP1) isoform containing just the a/[E1]CUB[/E1] and b/coagulation factor homology extracellular domains of [E2]NRP1[/E2].
+Found in IDs: BioInfer.d109.s1_BioInfer.d109.s1.p8, BioInfer.d109.s1_BioInfer.d109.s1.p10
+--------------------
+Text with Marker: A 2.2-kb truncated NRP1 cDNA was cloned that encodes a 644-aa soluble NRP1 ([E1]sNRP1[/E1]) isoform containing just the a/CUB and b/coagulation factor homology extracellular domains of [E2]NRP1[/E2].
+Found in IDs: BioInfer.d109.s1_BioInfer.d109.s1.p12, BioInfer.d109.s1_BioInfer.d109.s1.p14
+--------------------
+Text with Marker: A 2.2-kb truncated NRP1 cDNA was cloned that encodes a 644-aa soluble NRP1 (sNRP1) isoform containing just the a/CUB and b/[E1]coagulation factor[/E1] homology extracellular domains of [E2]NRP1[/E2].
+Found in IDs: BioInfer.d109.s1_BioInfer.d109.s1.p15, BioInfer.d109.s1_BioInfer.d109.s1.p17
+--------------------
+Text with Marker: A 2.2-kb truncated [E1]NRP1[/E1] cDNA was cloned that encodes a 644-aa soluble NRP1 (sNRP1) isoform containing just the a/CUB and b/coagulation factor homology extracellular domains of [E2]NRP1[/E2].
+Found in IDs: BioInfer.d109.s1_BioInfer.d109.s1.p18, BioInfer.d109.s1_BioInfer.d109.s1.p20
+--------------------
+Text with Marker: The two [E1]cardiac myosin heavy chain[/E1] isoforms, alpha and beta, differ functionally, alpha Myosin exhibits higher actin-activated [E2]ATPase[/E2] than does beta myosin, and hearts expressing alpha myosin exhibit increased contractility relative to hearts expressing beta myosin.
+Found in IDs: BioInfer.d728.s0_BioInfer.d728.s0.p4, BioInfer.d728.s0_BioInfer.d728.s0.p6
+--------------------
+Text with Marker: The two [E1]cardiac myosin heavy chain[/E1] isoforms, alpha and beta, differ functionally, alpha Myosin exhibits higher actin-activated ATPase than does [E2]beta myosin[/E2], and hearts expressing alpha myosin exhibit increased contractility relative to hearts expressing beta myosin.
+Found in IDs: BioInfer.d728.s0_BioInfer.d728.s0.p10, BioInfer.d728.s0_BioInfer.d728.s0.p12
+--------------------
+Text with Marker: The two [E1]cardiac myosin heavy chain[/E1] isoforms, alpha and beta, differ functionally, [E2]alpha Myosin[/E2] exhibits higher actin-activated ATPase than does beta myosin, and hearts expressing alpha myosin exhibit increased contractility relative to hearts expressing beta myosin.
+Found in IDs: BioInfer.d728.s0_BioInfer.d728.s0.p15, BioInfer.d728.s0_BioInfer.d728.s0.p17
+--------------------
+Text with Marker: The two [E1]cardiac myosin heavy chain[/E1] isoforms, alpha and beta, differ functionally, alpha Myosin exhibits higher actin-activated ATPase than does beta myosin, and hearts expressing [E2]alpha myosin[/E2] exhibit increased contractility relative to hearts expressing beta myosin.
+Found in IDs: BioInfer.d728.s0_BioInfer.d728.s0.p19, BioInfer.d728.s0_BioInfer.d728.s0.p21
+--------------------
+Text with Marker: The two [E1]cardiac myosin heavy chain[/E1] isoforms, alpha and beta, differ functionally, alpha Myosin exhibits higher actin-activated ATPase than does beta myosin, and hearts expressing alpha myosin exhibit increased contractility relative to hearts expressing [E2]beta myosin[/E2].
+Found in IDs: BioInfer.d728.s0_BioInfer.d728.s0.p22, BioInfer.d728.s0_BioInfer.d728.s0.p24
+--------------------
+Text with Marker: The two [E1]cardiac myosin heavy chain[/E1] isoforms, alpha and beta, differ functionally, alpha Myosin exhibits higher [E2]actin[/E2]-activated ATPase than does beta myosin, and hearts expressing alpha myosin exhibit increased contractility relative to hearts expressing beta myosin.
+Found in IDs: BioInfer.d728.s0_BioInfer.d728.s0.p25, BioInfer.d728.s0_BioInfer.d728.s0.p27
+--------------------
+Text with Marker: The genes considered are those for 5S, [E1]5.8S[/E1] and 18S rRNA, actin I, profilins Ia/b and II, [E2]myosins[/E2] IB, IC and II, and calmodulin.
+Found in IDs: BioInfer.d616.s0_BioInfer.d616.s0.p3, BioInfer.d616.s0_BioInfer.d616.s0.p6
+--------------------
+Text with Marker: The genes considered are those for [E1]5S[/E1], 5.8S and 18S rRNA, actin I, profilins Ia/b and II, [E2]myosins[/E2] IB, IC and II, and calmodulin.
+Found in IDs: BioInfer.d616.s0_BioInfer.d616.s0.p12, BioInfer.d616.s0_BioInfer.d616.s0.p15
+--------------------
+Text with Marker: The genes considered are those for 5S, 5.8S and [E1]18S rRNA[/E1], actin I, profilins Ia/b and II, [E2]myosins[/E2] IB, IC and II, and calmodulin.
+Found in IDs: BioInfer.d616.s0_BioInfer.d616.s0.p20, BioInfer.d616.s0_BioInfer.d616.s0.p23
+--------------------
+Text with Marker: The genes considered are those for 5S, 5.8S and 18S rRNA, actin I, [E1]profilins Ia[/E1]/b and II, [E2]myosins[/E2] IB, IC and II, and calmodulin.
+Found in IDs: BioInfer.d616.s0_BioInfer.d616.s0.p27, BioInfer.d616.s0_BioInfer.d616.s0.p30
+--------------------
+Text with Marker: The genes considered are those for 5S, 5.8S and 18S rRNA, [E1]actin I[/E1], profilins Ia/b and II, [E2]myosins[/E2] IB, IC and II, and calmodulin.
+Found in IDs: BioInfer.d616.s0_BioInfer.d616.s0.p34, BioInfer.d616.s0_BioInfer.d616.s0.p41
+--------------------
+Text with Marker: The genes considered are those for 5S, 5.8S and 18S rRNA, actin I, [E1]profilins[/E1] Ia/b and II, [E2]myosins[/E2] IB, IC and II, and calmodulin.
+Found in IDs: BioInfer.d616.s0_BioInfer.d616.s0.p35, BioInfer.d616.s0_BioInfer.d616.s0.p45
+--------------------
+Text with Marker: The genes considered are those for 5S, 5.8S and 18S rRNA, actin I, [E1]profilins I[/E1]a/b and II, [E2]myosins[/E2] IB, IC and II, and calmodulin.
+Found in IDs: BioInfer.d616.s0_BioInfer.d616.s0.p37, BioInfer.d616.s0_BioInfer.d616.s0.p49
+--------------------
+Text with Marker: The genes considered are those for 5S, 5.8S and 18S rRNA, actin I, profilins Ia/b and II, [E1-E2]myosins[/E1] IB[/E2], IC and II, and calmodulin.
+Found in IDs: BioInfer.d616.s0_BioInfer.d616.s0.p38, BioInfer.d616.s0_BioInfer.d616.s0.p50
+--------------------
+Text with Marker: The genes considered are those for 5S, 5.8S and 18S rRNA, actin I, profilins Ia/b and II, [E1]myosins[/E1] IB, IC and II, and [E2]calmodulin[/E2].
+Found in IDs: BioInfer.d616.s0_BioInfer.d616.s0.p39, BioInfer.d616.s0_BioInfer.d616.s0.p51
+--------------------
+Text with Marker: However, once initiated, the synthesis of [E1]muscle tropomyosin[/E1] mRNA continued in the presence of cycloheximide, while the expression of [E2]muscle[/E2] actin, myosin heavy chain, and myogenin mRNA was abolished.
+Found in IDs: BioInfer.d272.s0_BioInfer.d272.s0.p0, BioInfer.d272.s0_BioInfer.d272.s0.p3
+--------------------
+Text with Marker: However, once initiated, the synthesis of muscle tropomyosin mRNA continued in the presence of cycloheximide, while the expression of [E1-E2]muscle[/E1] actin[/E2], myosin heavy chain, and myogenin mRNA was abolished.
+Found in IDs: BioInfer.d272.s0_BioInfer.d272.s0.p2, BioInfer.d272.s0_BioInfer.d272.s0.p5
+--------------------
+Text with Marker: To determine the relative importance of protein degradation in the development of starvation-induced cardiac atrophy, in vivo fractional synthetic rates of total cardiac protein, [E1]myosin[/E1] heavy chain, [E2]actin[/E2], light chain 1, and light chain 2 were measured in fed and fasted rabbits by continuous infusion of [3H] leucine.
+Found in IDs: BioInfer.d766.s0_BioInfer.d766.s0.p0, BioInfer.d766.s0_BioInfer.d766.s0.p3
+--------------------
+Text with Marker: To determine the relative importance of protein degradation in the development of starvation-induced cardiac atrophy, in vivo fractional synthetic rates of total cardiac protein, [E1-E2]myosin[/E1] heavy chain[/E2], actin, light chain 1, and light chain 2 were measured in fed and fasted rabbits by continuous infusion of [3H] leucine.
+Found in IDs: BioInfer.d766.s0_BioInfer.d766.s0.p2, BioInfer.d766.s0_BioInfer.d766.s0.p5
+--------------------
+Text with Marker: Porcine arterial SMCs in culture not only express high levels of alpha-smooth muscle (SM) actin but, contrary to rodent SMCs, also maintain an appreciable expression of [E1]SM myosin heavy chain[/E1] isoforms 1 and 2, [E2]desmin[/E2], and smoothelin, a recently described late differentiation marker of vascular SMCs.
+Found in IDs: BioInfer.d491.s0_BioInfer.d491.s0.p1, BioInfer.d491.s0_BioInfer.d491.s0.p2
+--------------------
+Text with Marker: Porcine arterial SMCs in culture not only express high levels of alpha-smooth muscle (SM) actin but, contrary to rodent SMCs, also maintain an appreciable expression of [E1]SM myosin heavy chain[/E1] isoforms 1 and 2, desmin, and [E2]smoothelin[/E2], a recently described late differentiation marker of vascular SMCs.
+Found in IDs: BioInfer.d491.s0_BioInfer.d491.s0.p4, BioInfer.d491.s0_BioInfer.d491.s0.p5
+--------------------
+Text with Marker: Porcine arterial SMCs in culture not only express high levels of [E1]alpha-smooth muscle[/E1] (SM) actin but, contrary to rodent SMCs, also maintain an appreciable expression of [E2]SM myosin heavy chain[/E2] isoforms 1 and 2, desmin, and smoothelin, a recently described late differentiation marker of vascular SMCs.
+Found in IDs: BioInfer.d491.s0_BioInfer.d491.s0.p8, BioInfer.d491.s0_BioInfer.d491.s0.p9
+--------------------
+Text with Marker: Full-length beta-catenin, [E1]beta-catenin[/E1] mutant proteins with NH2-terminal deletions before (deltaN90) or after (deltaN131, deltaN151) the alpha-catenin binding site, or a mutant [E2]beta-catenin[/E2] with a COOH-terminal deletion (delta C) were expressed in MDCK cells under the control of the tetracycline-repressible transactivator.
+Found in IDs: BioInfer.d134.s1_BioInfer.d134.s1.p0, BioInfer.d134.s1_BioInfer.d134.s1.p1, BioInfer.d134.s1_BioInfer.d134.s1.p2
+--------------------
+Text with Marker: Full-length beta-catenin, [E1-E2]beta-catenin[/E1-E2] mutant proteins with NH2-terminal deletions before (deltaN90) or after (deltaN131, deltaN151) the alpha-catenin binding site, or a mutant beta-catenin with a COOH-terminal deletion (delta C) were expressed in MDCK cells under the control of the tetracycline-repressible transactivator.
+Found in IDs: BioInfer.d134.s1_BioInfer.d134.s1.p5, BioInfer.d134.s1_BioInfer.d134.s1.p6, BioInfer.d134.s1_BioInfer.d134.s1.p9
+--------------------
+Text with Marker: Full-length [E1]beta-catenin[/E1], [E2]beta-catenin[/E2] mutant proteins with NH2-terminal deletions before (deltaN90) or after (deltaN131, deltaN151) the alpha-catenin binding site, or a mutant beta-catenin with a COOH-terminal deletion (delta C) were expressed in MDCK cells under the control of the tetracycline-repressible transactivator.
+Found in IDs: BioInfer.d134.s1_BioInfer.d134.s1.p7, BioInfer.d134.s1_BioInfer.d134.s1.p10, BioInfer.d134.s1_BioInfer.d134.s1.p12
+--------------------
+Text with Marker: Full-length beta-catenin, [E1]beta-catenin[/E1] mutant proteins with NH2-terminal deletions before (deltaN90) or after (deltaN131, deltaN151) the [E2]alpha-catenin[/E2] binding site, or a mutant beta-catenin with a COOH-terminal deletion (delta C) were expressed in MDCK cells under the control of the tetracycline-repressible transactivator.
+Found in IDs: BioInfer.d134.s1_BioInfer.d134.s1.p8, BioInfer.d134.s1_BioInfer.d134.s1.p11, BioInfer.d134.s1_BioInfer.d134.s1.p13
+--------------------
+Text with Marker: Analysis of the formation of the calf spleen complex in the presence of varying concentrations of divalent cations gave evidence for the presence of a high-affinity divalent-cation-binding site on the [E1]spleen actin[/E1] (beta, gamma) which appears to regulate the interaction with [E2]profilin[/E2].
+Found in IDs: BioInfer.d57.s0_BioInfer.d57.s0.p0, BioInfer.d57.s0_BioInfer.d57.s0.p1
+--------------------
+Text with Marker: Because other researchers have shown that the RAD51 and RAD52 proteins interact, [E1]RAD51[/E1] on a high copy number plasmid was tested and found to suppress the rad52-20 allele, but [E2]RAD[/E2] 54, 55 and 57 did not suppress.
+Found in IDs: BioInfer.d95.s0_BioInfer.d95.s0.p1, BioInfer.d95.s0_BioInfer.d95.s0.p2
+--------------------
+Text with Marker: Because other researchers have shown that the RAD51 and RAD52 proteins interact, RAD51 on a high copy number plasmid was tested and found to suppress the rad52-20 allele, but [E1-E2]RAD[/E1] 54[/E2], 55 and 57 did not suppress.
+Found in IDs: BioInfer.d95.s0_BioInfer.d95.s0.p6, BioInfer.d95.s0_BioInfer.d95.s0.p7
+--------------------
+Text with Marker: Because other researchers have shown that the [E1]RAD51[/E1] and RAD52 proteins interact, RAD51 on a high copy number plasmid was tested and found to suppress the rad52-20 allele, but [E2]RAD[/E2] 54, 55 and 57 did not suppress.
+Found in IDs: BioInfer.d95.s0_BioInfer.d95.s0.p12, BioInfer.d95.s0_BioInfer.d95.s0.p15
+--------------------
+Text with Marker: Because other researchers have shown that the RAD51 and [E1]RAD52[/E1] proteins interact, RAD51 on a high copy number plasmid was tested and found to suppress the rad52-20 allele, but [E2]RAD[/E2] 54, 55 and 57 did not suppress.
+Found in IDs: BioInfer.d95.s0_BioInfer.d95.s0.p13, BioInfer.d95.s0_BioInfer.d95.s0.p16
+--------------------
+Text with Marker: Because other researchers have shown that the RAD51 and RAD52 proteins interact, RAD51 on a high copy number plasmid was tested and found to suppress the [E1]rad52-20[/E1] allele, but [E2]RAD[/E2] 54, 55 and 57 did not suppress.
+Found in IDs: BioInfer.d95.s0_BioInfer.d95.s0.p14, BioInfer.d95.s0_BioInfer.d95.s0.p17
+--------------------
+Text with Marker: U-73122 at 8 mumol.L-1 totally abolished the [E1]Oxy[/E1]-induced increases in [Ca2+]i and IP3; however it reduced the [E2]Oxy[/E2]-induced increase in insulin release only by 36% and 63% in the monolayer and suspended cell preparations, respectively
+Found in IDs: IEPA.d91.s218_IEPA.d91.s218.p1, IEPA.d91.s223_IEPA.d91.s223.p0
+--------------------
+Text with Marker: We present a comprehensive map of the interactions within the UtpB subcomplex and further show that the N-terminal domain of Utp6 interacts with [E1]Utp18[/E1] while the HAT domain interacts with Utp21.[E2][/E2]
+Found in IDs: Biocreative.d18725399.s93317_Biocreative.d18725399.s93317.p2, Biocreative.d18725399.s93317_Biocreative.d18725399.s93317.p3
+--------------------
+Text with Marker: Artemis C-terminal region facilitates V(D)J recombination through its interactions with [E1]DNA Ligase IV[/E1] and DNA-PKcs.[E2][/E2]
+Found in IDs: Biocreative.d22529269.s19252_Biocreative.d22529269.s19252.p0, Biocreative.d22529269.s19252_Biocreative.d22529269.s19252.p1, Biocreative.d22529269.s19252_Biocreative.d22529269.s19252.p2, Biocreative.d22529269.s19252_Biocreative.d22529269.s19252.p3, Biocreative.d22529269.s19252_Biocreative.d22529269.s19252.p4
+--------------------
+Text with Marker: Remarkably, mutation of F795 to alanine had little effect on [E1]calmodulin[/E1] binding to IQ3.[E2][/E2]
+Found in IDs: Biocreative.d18570893.s5974_Biocreative.d18570893.s5974.p0, Biocreative.d18570893.s5974_Biocreative.d18570893.s5974.p3
+--------------------
+Text with Marker: Isolation of a point-mutated [E1]p47[/E1] lacking binding affinity to p97ATPase.[E2][/E2]
+Found in IDs: Biocreative.d20691684.s33670_Biocreative.d20691684.s33670.p0, Biocreative.d20691684.s33670_Biocreative.d20691684.s33670.p1
+--------------------
+Text with Marker: [E1]p47[/E1], a p97-binding protein, functions in Golgi membrane fusion together with p97 and VCIP135, another p97-binding protein.[E2][/E2]
+Found in IDs: Biocreative.d20691684.s99210_Biocreative.d20691684.s99210.p2, Biocreative.d20691684.s99210_Biocreative.d20691684.s99210.p3
+--------------------
+Text with Marker: We have succeeded in creating [E1]p47[/E1] with a point mutation, F253S, which lacks p97-binding affinity.[E2][/E2]
+Found in IDs: Biocreative.d20691684.s29425_Biocreative.d20691684.s29425.p4, Biocreative.d20691684.s29425_Biocreative.d20691684.s29425.p5
+--------------------
+Text with Marker: [E1]p47[/E1] mapping experiments revealed that p47 had two p97-binding regions and the F253S mutation occurred in the first p97-binding site.[E2][/E2]
+Found in IDs: Biocreative.d20691684.s22976_Biocreative.d20691684.s22976.p6, Biocreative.d20691684.s22976_Biocreative.d20691684.s22976.p7
+--------------------
+Text with Marker: p47 mapping experiments revealed that [E1]p47[/E1] had two p97-binding regions and the F253S mutation occurred in the first p97-binding site.[E2][/E2]
+Found in IDs: Biocreative.d20691684.s22976_Biocreative.d20691684.s22976.p8, Biocreative.d20691684.s22976_Biocreative.d20691684.s22976.p9
+--------------------
+Text with Marker: [E1]p47[/E1](F253S) could not form a complex with p97 and did not caused any cisternal regrowth in an in vitro Golgi reassembly assay.[E2][/E2]
+Found in IDs: Biocreative.d20691684.s41625_Biocreative.d20691684.s41625.p10, Biocreative.d20691684.s41625_Biocreative.d20691684.s41625.p11
+--------------------
+Text with Marker: Experiments in cultured cells reveal that the fly orthologue of the adaptor protein [E1]MyD88[/E1] is essential for signal transduction from Toll to a second adaptor protein, Tube.[E2][/E2]
+Found in IDs: Biocreative.d12351681.s97975_Biocreative.d12351681.s97975.p0, Biocreative.d12351681.s97975_Biocreative.d12351681.s97975.p1
+--------------------
+Text with Marker: Nephronectin binds to [E1]heparan sulfate proteoglycans[/E1] via its MAM domain.[E2][/E2]
+Found in IDs: Biocreative.d23357641.s12273_Biocreative.d23357641.s12273.p0, Biocreative.d23357641.s12273_Biocreative.d23357641.s12273.p1
+--------------------
+Text with Marker: Consistent with these results, nephronectin bound to [E1]agrin[/E1] and perlecan, which are heparan sulfate proteoglycans (HSPGs) in basement membranes, in HS-dependent manners.[E2][/E2]
+Found in IDs: Biocreative.d23357641.s11057_Biocreative.d23357641.s11057.p5, Biocreative.d23357641.s11057_Biocreative.d23357641.s11057.p6, Biocreative.d23357641.s11057_Biocreative.d23357641.s11057.p7
+--------------------
+Text with Marker: Site-directed mutagenesis of the MAM domain revealed that multiple basic amino acid residues in the putative loop regions were involved in the binding of the MAM domain to [E1]agrin[/E1].[E2][/E2]
+Found in IDs: Biocreative.d23357641.s49814_Biocreative.d23357641.s49814.p8, Biocreative.d23357641.s49814_Biocreative.d23357641.s49814.p9, Biocreative.d23357641.s49814_Biocreative.d23357641.s49814.p10
+--------------------
+Text with Marker: To address how this domain can bind to disparate recognition mofits and to determine whether this results in variations in substrate-binding affinity, we compared crystal structures of the Cbl-TKB domain complexed with phosphorylated peptides of Sprouty2, [E1]Sprouty4[/E1], epidermal growth factor receptor, Syk, and c-Met receptors and validated the binding with point-mutational analyses using full-length proteins.[E2][/E2]
+Found in IDs: Biocreative.d18273061.s7624_Biocreative.d18273061.s7624.p1, Biocreative.d18273061.s7624_Biocreative.d18273061.s7624.p4
+--------------------
+Text with Marker: To address how this domain can bind to disparate recognition mofits and to determine whether this results in variations in substrate-binding affinity, we compared crystal structures of the Cbl-TKB domain complexed with phosphorylated peptides of Sprouty2, Sprouty4, [E1]epidermal growth factor receptor[/E1], Syk, and c-Met receptors and validated the binding with point-mutational analyses using full-length proteins.[E2][/E2]
+Found in IDs: Biocreative.d18273061.s7624_Biocreative.d18273061.s7624.p2, Biocreative.d18273061.s7624_Biocreative.d18273061.s7624.p5
+--------------------
+Text with Marker: To address how this domain can bind to disparate recognition mofits and to determine whether this results in variations in substrate-binding affinity, we compared crystal structures of the Cbl-TKB domain complexed with phosphorylated peptides of Sprouty2, Sprouty4, epidermal growth factor receptor, [E1]Syk[/E1], and c-Met receptors and validated the binding with point-mutational analyses using full-length proteins.[E2][/E2]
+Found in IDs: Biocreative.d18273061.s7624_Biocreative.d18273061.s7624.p3, Biocreative.d18273061.s7624_Biocreative.d18273061.s7624.p6
+--------------------
+Text with Marker: Complex formation between Mad1p, [E1]Bub1p[/E1] and Bub3p is crucial for spindle checkpoint function.[E2][/E2]
+Found in IDs: Biocreative.d10837255.s11387_Biocreative.d10837255.s11387.p0, Biocreative.d10837255.s11387_Biocreative.d10837255.s11387.p2, Biocreative.d10837255.s11387_Biocreative.d10837255.s11387.p3, Biocreative.d10837255.s11387_Biocreative.d10837255.s11387.p6
+--------------------
+Text with Marker: Complex formation between Mad1p, Bub1p and [E1]Bub3p[/E1] is crucial for spindle checkpoint function.[E2][/E2]
+Found in IDs: Biocreative.d10837255.s11387_Biocreative.d10837255.s11387.p1, Biocreative.d10837255.s11387_Biocreative.d10837255.s11387.p4, Biocreative.d10837255.s11387_Biocreative.d10837255.s11387.p5, Biocreative.d10837255.s11387_Biocreative.d10837255.s11387.p7
+--------------------
+Text with Marker: Similarly, [E1]Bub3p[/E1] binds to Bub1p [9] and may target it to kinetochores [10].[E2][/E2]
+Found in IDs: Biocreative.d10837255.s88206_Biocreative.d10837255.s88206.p8, Biocreative.d10837255.s88206_Biocreative.d10837255.s88206.p9, Biocreative.d10837255.s88206_Biocreative.d10837255.s88206.p12
+--------------------
+Text with Marker: Similarly, Bub3p binds to [E1]Bub1p[/E1] [9] and may target it to kinetochores [10].[E2][/E2]
+Found in IDs: Biocreative.d10837255.s88206_Biocreative.d10837255.s88206.p10, Biocreative.d10837255.s88206_Biocreative.d10837255.s88206.p11, Biocreative.d10837255.s88206_Biocreative.d10837255.s88206.p13
+--------------------
+Text with Marker: Mapping eIF5A binding sites for Dys1 and [E1]Lia1[/E1]: in vivo evidence for regulation of eIF5A hypusination.[E2][/E2]
+Found in IDs: Biocreative.d14675757.s55500_Biocreative.d14675757.s55500.p0, Biocreative.d14675757.s55500_Biocreative.d14675757.s55500.p1, Biocreative.d14675757.s55500_Biocreative.d14675757.s55500.p3, Biocreative.d14675757.s55500_Biocreative.d14675757.s55500.p5, Biocreative.d14675757.s55500_Biocreative.d14675757.s55500.p6
+--------------------
+Text with Marker: Mapping eIF5A binding sites for [E1]Dys1[/E1] and Lia1: in vivo evidence for regulation of eIF5A hypusination.[E2][/E2]
+Found in IDs: Biocreative.d14675757.s55500_Biocreative.d14675757.s55500.p2, Biocreative.d14675757.s55500_Biocreative.d14675757.s55500.p4
+--------------------
+Text with Marker: The evolutionarily conserved factor eIF5A is the only protein known to undergo hypusination, a unique posttranslational modification triggered by [E1]deoxyhypusine synthase[/E1] (Dys1).[E2][/E2]
+Found in IDs: Biocreative.d14675757.s23756_Biocreative.d14675757.s23756.p7, Biocreative.d14675757.s23756_Biocreative.d14675757.s23756.p9
+--------------------
+Text with Marker: The evolutionarily conserved factor eIF5A is the only protein known to undergo hypusination, a unique posttranslational modification triggered by deoxyhypusine synthase ([E1]Dys1[/E1]).[E2][/E2]
+Found in IDs: Biocreative.d14675757.s23756_Biocreative.d14675757.s23756.p8, Biocreative.d14675757.s23756_Biocreative.d14675757.s23756.p10
+--------------------
+Text with Marker: cerevisiae: Dys1 and the protein encoded by the gene YJR070C, named [E1]Lia1[/E1] (Ligand of eIF5A).[E2][/E2]
+Found in IDs: Biocreative.d14675757.s6245_Biocreative.d14675757.s6245.p12, Biocreative.d14675757.s6245_Biocreative.d14675757.s6245.p13
+--------------------
+Text with Marker: Identification of [E1]Alix[/E1]-type and Non-Alix-type ALG-2-binding sites in human phospholipid scramblase 3: differential binding to an alternatively spliced isoform and amino acid-substituted mutants.[E2][/E2]
+Found in IDs: Biocreative.d18256029.s55534_Biocreative.d18256029.s55534.p0, Biocreative.d18256029.s55534_Biocreative.d18256029.s55534.p9, Biocreative.d18256029.s55534_Biocreative.d18256029.s55534.p21, Biocreative.d18256029.s55534_Biocreative.d18256029.s55534.p23, Biocreative.d18256029.s55534_Biocreative.d18256029.s55534.p24
+--------------------
+Text with Marker: Identification of Alix-type and Non-Alix-type ALG-2-binding sites in human [E1]phospholipid scramblase 3[/E1]: differential binding to an alternatively spliced isoform and amino acid-substituted mutants.[E2][/E2]
+Found in IDs: Biocreative.d18256029.s55534_Biocreative.d18256029.s55534.p1, Biocreative.d18256029.s55534_Biocreative.d18256029.s55534.p6, Biocreative.d18256029.s55534_Biocreative.d18256029.s55534.p10, Biocreative.d18256029.s55534_Biocreative.d18256029.s55534.p14, Biocreative.d18256029.s55534_Biocreative.d18256029.s55534.p19, Biocreative.d18256029.s55534_Biocreative.d18256029.s55534.p30
+--------------------
+Text with Marker: Human [E1]phospholipid scramblase 3[/E1] (PLSCR3) has a similar sequence (ABS-1) in its N-terminal region.[E2][/E2]
+Found in IDs: Biocreative.d18256029.s26263_Biocreative.d18256029.s26263.p2, Biocreative.d18256029.s26263_Biocreative.d18256029.s26263.p11, Biocreative.d18256029.s26263_Biocreative.d18256029.s26263.p15, Biocreative.d18256029.s26263_Biocreative.d18256029.s26263.p36
+--------------------
+Text with Marker: In the present study, we found that ALG-2 interacts with [E1]PLSCR3[/E1] expressed in HEK293 cells in a Ca(2+)-dependent manner by co-immunoprecipitation, pulldown with glutathione S-transferase (GST) fused ALG-2 and an overlay assay using biotin-labeled ALG-2.[E2][/E2]
+Found in IDs: Biocreative.d18256029.s45045_Biocreative.d18256029.s45045.p3, Biocreative.d18256029.s45045_Biocreative.d18256029.s45045.p25, Biocreative.d18256029.s45045_Biocreative.d18256029.s45045.p33
+--------------------
+Text with Marker: ALG-2, a prototypic member of the penta-EF-hand protein family, interacts with [E1]Alix[/E1] at its C-terminal Pro-rich region containing four tandem PXY repeats.[E2][/E2]
+Found in IDs: Biocreative.d18256029.s42758_Biocreative.d18256029.s42758.p4, Biocreative.d18256029.s42758_Biocreative.d18256029.s42758.p18, Biocreative.d18256029.s42758_Biocreative.d18256029.s42758.p32, Biocreative.d18256029.s42758_Biocreative.d18256029.s42758.p35, Biocreative.d18256029.s42758_Biocreative.d18256029.s42758.p37
+--------------------
+Text with Marker: The GST fusion protein of an alternatively spliced isoform of ALG-2, GST-ALG-2(DeltaGF122), pulled down green fluorescent protein (GFP)-fused PLSCR3 but not GFP [E1]Alix[/E1].[E2][/E2]
+Found in IDs: Biocreative.d18256029.s69900_Biocreative.d18256029.s69900.p5, Biocreative.d18256029.s69900_Biocreative.d18256029.s69900.p7, Biocreative.d18256029.s69900_Biocreative.d18256029.s69900.p26, Biocreative.d18256029.s69900_Biocreative.d18256029.s69900.p29
+--------------------
+Text with Marker: Human phospholipid scramblase 3 ([E1]PLSCR3[/E1]) has a similar sequence (ABS-1) in its N-terminal region.[E2][/E2]
+Found in IDs: Biocreative.d18256029.s26263_Biocreative.d18256029.s26263.p8, Biocreative.d18256029.s26263_Biocreative.d18256029.s26263.p12, Biocreative.d18256029.s26263_Biocreative.d18256029.s26263.p20, Biocreative.d18256029.s26263_Biocreative.d18256029.s26263.p28
+--------------------
+Text with Marker: Identification of Alix-type and Non-[E1]Alix[/E1]-type ALG-2-binding sites in human phospholipid scramblase 3: differential binding to an alternatively spliced isoform and amino acid-substituted mutants.[E2][/E2]
+Found in IDs: Biocreative.d18256029.s55534_Biocreative.d18256029.s55534.p13, Biocreative.d18256029.s55534_Biocreative.d18256029.s55534.p16, Biocreative.d18256029.s55534_Biocreative.d18256029.s55534.p22, Biocreative.d18256029.s55534_Biocreative.d18256029.s55534.p27, Biocreative.d18256029.s55534_Biocreative.d18256029.s55534.p34
+--------------------
+Text with Marker: The GST fusion protein of an alternatively spliced isoform of ALG-2, GST-ALG-2(DeltaGF122), pulled down green fluorescent protein (GFP)-fused [E1]PLSCR3[/E1] but not GFP Alix.[E2][/E2]
+Found in IDs: Biocreative.d18256029.s69900_Biocreative.d18256029.s69900.p17, Biocreative.d18256029.s69900_Biocreative.d18256029.s69900.p31
+--------------------
+Text with Marker: BACKGROUND: [E1]DNA polymerase delta[/E1] is essential for eukaryotic DNA replication and also plays a role in DNA repair.[E2][/E2]
+Found in IDs: Biocreative.d16000169.s82699_Biocreative.d16000169.s82699.p0, Biocreative.d16000169.s82699_Biocreative.d16000169.s82699.p3, Biocreative.d16000169.s82699_Biocreative.d16000169.s82699.p6, Biocreative.d16000169.s82699_Biocreative.d16000169.s82699.p10, Biocreative.d16000169.s82699_Biocreative.d16000169.s82699.p12, Biocreative.d16000169.s82699_Biocreative.d16000169.s82699.p16, Biocreative.d16000169.s82699_Biocreative.d16000169.s82699.p22, Biocreative.d16000169.s82699_Biocreative.d16000169.s82699.p23, Biocreative.d16000169.s82699_Biocreative.d16000169.s82699.p25
+--------------------
+Text with Marker: We have analysed the interactions of the human p66 [E1]DNA polymerase delta[/E1] subunit with PCNA and with components of the DNA polymerase delta complex in vivo.[E2][/E2]
+Found in IDs: Biocreative.d16000169.s52546_Biocreative.d16000169.s52546.p1, Biocreative.d16000169.s52546_Biocreative.d16000169.s52546.p4, Biocreative.d16000169.s52546_Biocreative.d16000169.s52546.p8, Biocreative.d16000169.s52546_Biocreative.d16000169.s52546.p11, Biocreative.d16000169.s52546_Biocreative.d16000169.s52546.p14, Biocreative.d16000169.s52546_Biocreative.d16000169.s52546.p15, Biocreative.d16000169.s52546_Biocreative.d16000169.s52546.p17
+--------------------
+Text with Marker: An in vivo analysis of the localisation and interactions of human p66 [E1]DNA polymerase delta[/E1] subunit.[E2][/E2]
+Found in IDs: Biocreative.d16000169.s19790_Biocreative.d16000169.s19790.p2, Biocreative.d16000169.s19790_Biocreative.d16000169.s19790.p5, Biocreative.d16000169.s19790_Biocreative.d16000169.s19790.p7, Biocreative.d16000169.s19790_Biocreative.d16000169.s19790.p9, Biocreative.d16000169.s19790_Biocreative.d16000169.s19790.p13, Biocreative.d16000169.s19790_Biocreative.d16000169.s19790.p21, Biocreative.d16000169.s19790_Biocreative.d16000169.s19790.p24, Biocreative.d16000169.s19790_Biocreative.d16000169.s19790.p26, Biocreative.d16000169.s19790_Biocreative.d16000169.s19790.p27
+--------------------
+Text with Marker: We have analysed the interactions of the human p66 DNA polymerase delta subunit with PCNA and with components of the [E1]DNA polymerase delta[/E1] complex in vivo.[E2][/E2]
+Found in IDs: Biocreative.d16000169.s52546_Biocreative.d16000169.s52546.p18, Biocreative.d16000169.s52546_Biocreative.d16000169.s52546.p19
+--------------------
+Text with Marker: Stimulation of [E1]RAR[/E1] by MED25 was correlated with enhanced RA cytotoxicity in vivo.[E2][/E2]
+Found in IDs: Biocreative.d17641689.s27316_Biocreative.d17641689.s27316.p0, Biocreative.d17641689.s27316_Biocreative.d17641689.s27316.p19, Biocreative.d17641689.s27316_Biocreative.d17641689.s27316.p20, Biocreative.d17641689.s27316_Biocreative.d17641689.s27316.p46
+--------------------
+Text with Marker: Recruitment of [E1]CBP[/E1] and TRAP220 was diminished by the overexpression of a MED25 NR box deletion mutant, and by treatment with MED25 siRNA.[E2][/E2]
+Found in IDs: Biocreative.d17641689.s95937_Biocreative.d17641689.s95937.p1, Biocreative.d17641689.s95937_Biocreative.d17641689.s95937.p6, Biocreative.d17641689.s95937_Biocreative.d17641689.s95937.p15
+--------------------
+Text with Marker: When tethered to a promoter, MED25 showed intrinsic transcriptional activity in its PTOV domain, which is likely accomplished by direct association with [E1]CBP[/E1].[E2][/E2]
+Found in IDs: Biocreative.d17641689.s28925_Biocreative.d17641689.s28925.p2, Biocreative.d17641689.s28925_Biocreative.d17641689.s28925.p9, Biocreative.d17641689.s28925_Biocreative.d17641689.s28925.p25, Biocreative.d17641689.s28925_Biocreative.d17641689.s28925.p38, Biocreative.d17641689.s28925_Biocreative.d17641689.s28925.p39, Biocreative.d17641689.s28925_Biocreative.d17641689.s28925.p45
+--------------------
+Text with Marker: Reporter assays using dominant negatives of MED25 demonstrated the importance of the N-terminal Mediator-binding and C-terminal domains in [E1]CBP[/E1] and RAR/RXR binding, which affect MED25 activity.[E2][/E2]
+Found in IDs: Biocreative.d17641689.s90786_Biocreative.d17641689.s90786.p3, Biocreative.d17641689.s90786_Biocreative.d17641689.s90786.p7
+--------------------
+Text with Marker: Reporter assays using dominant negatives of MED25 demonstrated the importance of the N-terminal Mediator-binding and C-terminal domains in CBP and RAR/[E1]RXR[/E1] binding, which affect MED25 activity.[E2][/E2]
+Found in IDs: Biocreative.d17641689.s90786_Biocreative.d17641689.s90786.p4, Biocreative.d17641689.s90786_Biocreative.d17641689.s90786.p10, Biocreative.d17641689.s90786_Biocreative.d17641689.s90786.p12, Biocreative.d17641689.s90786_Biocreative.d17641689.s90786.p14, Biocreative.d17641689.s90786_Biocreative.d17641689.s90786.p42
+--------------------
+Text with Marker: MED25 is distinct from TRAP220/MED1 in cooperating with [E1]CBP[/E1] for retinoid receptor activation.[E2][/E2]
+Found in IDs: Biocreative.d17641689.s64254_Biocreative.d17641689.s64254.p8, Biocreative.d17641689.s64254_Biocreative.d17641689.s64254.p11, Biocreative.d17641689.s64254_Biocreative.d17641689.s64254.p16, Biocreative.d17641689.s64254_Biocreative.d17641689.s64254.p18, Biocreative.d17641689.s64254_Biocreative.d17641689.s64254.p24, Biocreative.d17641689.s64254_Biocreative.d17641689.s64254.p28, Biocreative.d17641689.s64254_Biocreative.d17641689.s64254.p43
+--------------------
+Text with Marker: We isolated MED25, which associates with retinoic acid (RA)-bound retinoic acid receptor (RAR) through the C-terminal nuclear hormone receptor (NR) box/LxxLL motif, and increases [E1]RAR[/E1]/RXR-mediated transcription.[E2][/E2]
+Found in IDs: Biocreative.d17641689.s98641_Biocreative.d17641689.s98641.p13, Biocreative.d17641689.s98641_Biocreative.d17641689.s98641.p21, Biocreative.d17641689.s98641_Biocreative.d17641689.s98641.p29, Biocreative.d17641689.s98641_Biocreative.d17641689.s98641.p33
+--------------------
+Text with Marker: Downregulation of MED25 specifically reduced [E1]RAR[/E1] but not thyroid hormone receptor (TR) activity.[E2][/E2]
+Found in IDs: Biocreative.d17641689.s9752_Biocreative.d17641689.s9752.p17, Biocreative.d17641689.s9752_Biocreative.d17641689.s9752.p35
+--------------------
+Text with Marker: We isolated MED25, which associates with retinoic acid (RA)-bound retinoic acid receptor ([E1]RAR[/E1]) through the C-terminal nuclear hormone receptor (NR) box/LxxLL motif, and increases RAR/RXR-mediated transcription.[E2][/E2]
+Found in IDs: Biocreative.d17641689.s98641_Biocreative.d17641689.s98641.p22, Biocreative.d17641689.s98641_Biocreative.d17641689.s98641.p23, Biocreative.d17641689.s98641_Biocreative.d17641689.s98641.p26, Biocreative.d17641689.s98641_Biocreative.d17641689.s98641.p36, Biocreative.d17641689.s98641_Biocreative.d17641689.s98641.p41
+--------------------
+Text with Marker: We isolated MED25, which associates with retinoic acid (RA)-bound retinoic acid receptor (RAR) through the C-terminal nuclear hormone receptor (NR) box/LxxLL motif, and increases RAR/[E1]RXR[/E1]-mediated transcription.[E2][/E2]
+Found in IDs: Biocreative.d17641689.s98641_Biocreative.d17641689.s98641.p27, Biocreative.d17641689.s98641_Biocreative.d17641689.s98641.p30, Biocreative.d17641689.s98641_Biocreative.d17641689.s98641.p44
+--------------------
+Text with Marker: Reporter assays using dominant negatives of MED25 demonstrated the importance of the N-terminal Mediator-binding and C-terminal domains in CBP and [E1]RAR[/E1]/RXR binding, which affect MED25 activity.[E2][/E2]
+Found in IDs: Biocreative.d17641689.s90786_Biocreative.d17641689.s90786.p31, Biocreative.d17641689.s90786_Biocreative.d17641689.s90786.p32, Biocreative.d17641689.s90786_Biocreative.d17641689.s90786.p34
+--------------------
+Text with Marker: We isolated MED25, which associates with retinoic acid (RA)-bound [E1]retinoic acid receptor[/E1] (RAR) through the C-terminal nuclear hormone receptor (NR) box/LxxLL motif, and increases RAR/RXR-mediated transcription.[E2][/E2]
+Found in IDs: Biocreative.d17641689.s98641_Biocreative.d17641689.s98641.p40, Biocreative.d17641689.s98641_Biocreative.d17641689.s98641.p47
+--------------------
+Text with Marker: Erk/Src phosphorylation of cortactin acts as a switch on-switch off mechanism that controls its ability to activate [E1]N-WASP[/E1].[E2][/E2]
+Found in IDs: Biocreative.d15169891.s87026_Biocreative.d15169891.s87026.p0, Biocreative.d15169891.s87026_Biocreative.d15169891.s87026.p1, Biocreative.d15169891.s87026_Biocreative.d15169891.s87026.p2, Biocreative.d15169891.s87026_Biocreative.d15169891.s87026.p3, Biocreative.d15169891.s87026_Biocreative.d15169891.s87026.p4
+--------------------
+Text with Marker: The Arp2/3 complex can be independently activated to initiate actin polymerization by the VCA domain of [E1]WASP[/E1] family members and by the acidic N-terminal and F-actin-binding repeat region of cortactin, which possesses a C-terminal SH3 domain.[E2][/E2]
+Found in IDs: Biocreative.d15169891.s26540_Biocreative.d15169891.s26540.p5, Biocreative.d15169891.s26540_Biocreative.d15169891.s26540.p6, Biocreative.d15169891.s26540_Biocreative.d15169891.s26540.p7, Biocreative.d15169891.s26540_Biocreative.d15169891.s26540.p8, Biocreative.d15169891.s26540_Biocreative.d15169891.s26540.p9, Biocreative.d15169891.s26540_Biocreative.d15169891.s26540.p10, Biocreative.d15169891.s26540_Biocreative.d15169891.s26540.p11, Biocreative.d15169891.s26540_Biocreative.d15169891.s26540.p12
+--------------------
+Text with Marker: Here we demonstrate that cortactin binds N-WASP and [E1]WASP[/E1] via its SH3 domain, induces in vitro N-WASP-mediated actin polymerization, and colocalizes with N-WASP and WASP at sites of active actin polymerization.[E2][/E2]
+Found in IDs: Biocreative.d15169891.s74022_Biocreative.d15169891.s74022.p13, Biocreative.d15169891.s74022_Biocreative.d15169891.s74022.p15, Biocreative.d15169891.s74022_Biocreative.d15169891.s74022.p17, Biocreative.d15169891.s74022_Biocreative.d15169891.s74022.p21, Biocreative.d15169891.s74022_Biocreative.d15169891.s74022.p22
+--------------------
+Text with Marker: Here we demonstrate that cortactin binds N-WASP and WASP via its SH3 domain, induces in vitro N-WASP-mediated actin polymerization, and colocalizes with N-WASP and [E1]WASP[/E1] at sites of active actin polymerization.[E2][/E2]
+Found in IDs: Biocreative.d15169891.s74022_Biocreative.d15169891.s74022.p14, Biocreative.d15169891.s74022_Biocreative.d15169891.s74022.p16, Biocreative.d15169891.s74022_Biocreative.d15169891.s74022.p18, Biocreative.d15169891.s74022_Biocreative.d15169891.s74022.p27, Biocreative.d15169891.s74022_Biocreative.d15169891.s74022.p28
+--------------------
+Text with Marker: Here we demonstrate that cortactin binds [E1]N-WASP[/E1] and WASP via its SH3 domain, induces in vitro N-WASP-mediated actin polymerization, and colocalizes with N-WASP and WASP at sites of active actin polymerization.[E2][/E2]
+Found in IDs: Biocreative.d15169891.s74022_Biocreative.d15169891.s74022.p19, Biocreative.d15169891.s74022_Biocreative.d15169891.s74022.p20
+--------------------
+Text with Marker: Here we demonstrate that cortactin binds N-WASP and WASP via its SH3 domain, induces in vitro [E1]N-WASP[/E1]-mediated actin polymerization, and colocalizes with N-WASP and WASP at sites of active actin polymerization.[E2][/E2]
+Found in IDs: Biocreative.d15169891.s74022_Biocreative.d15169891.s74022.p23, Biocreative.d15169891.s74022_Biocreative.d15169891.s74022.p24
+--------------------
+Text with Marker: Here we demonstrate that cortactin binds N-WASP and WASP via its SH3 domain, induces in vitro N-WASP-mediated actin polymerization, and colocalizes with [E1]N-WASP[/E1] and WASP at sites of active actin polymerization.[E2][/E2]
+Found in IDs: Biocreative.d15169891.s74022_Biocreative.d15169891.s74022.p25, Biocreative.d15169891.s74022_Biocreative.d15169891.s74022.p26
+--------------------
+Text with Marker: Erk phosphorylation and a mimicking S405,418D double mutation enhanced cortactin binding and activation of [E1]N-WASP[/E1].[E2][/E2]
+Found in IDs: Biocreative.d15169891.s91540_Biocreative.d15169891.s91540.p29, Biocreative.d15169891.s91540_Biocreative.d15169891.s91540.p30
+--------------------
+Text with Marker: In contrast, Src phosphorylation inhibited the ability of cortactin previously phosphorylated by Erk, and that of S405,418D double mutant cortactin, to bind and activate [E1]N-WASP[/E1].[E2][/E2]
+Found in IDs: Biocreative.d15169891.s23319_Biocreative.d15169891.s23319.p31, Biocreative.d15169891.s23319_Biocreative.d15169891.s23319.p32
+--------------------
+Text with Marker: Furthermore, Y-->D mutation of three tyrosine residues targeted by Src (Y421, Y466, and Y482) inhibited the ability of S405,418D cortactin to activate [E1]N-WASP[/E1].[E2][/E2]
+Found in IDs: Biocreative.d15169891.s69501_Biocreative.d15169891.s69501.p33, Biocreative.d15169891.s69501_Biocreative.d15169891.s69501.p34
+--------------------
+Text with Marker: Here, we show that Iqg1 is indeed a phosphoprotein that undergoes cell-cycle-dependent phosphorylation and can be phosphorylated by purified Clb-[E1]Cdc28[/E1] kinases in vitro.[E2][/E2]
+Found in IDs: Biocreative.d18923418.s55499_Biocreative.d18923418.s55499.p0, Biocreative.d18923418.s55499_Biocreative.d18923418.s55499.p1
+--------------------
+Text with Marker: Here, we compared the structural features of cIAP1 responsible for its interactions with two known target proteins, [E1]TRAF2[/E1] and SMAC.[E2][/E2]
+Found in IDs: Biocreative.d16282325.s16737_Biocreative.d16282325.s16737.p0, Biocreative.d16282325.s16737_Biocreative.d16282325.s16737.p2, Biocreative.d16282325.s16737_Biocreative.d16282325.s16737.p4
+--------------------
+Text with Marker: Here, we compared the structural features of cIAP1 responsible for its interactions with two known target proteins, TRAF2 and [E1]SMAC[/E1].[E2][/E2]
+Found in IDs: Biocreative.d16282325.s16737_Biocreative.d16282325.s16737.p1, Biocreative.d16282325.s16737_Biocreative.d16282325.s16737.p3, Biocreative.d16282325.s16737_Biocreative.d16282325.s16737.p5, Biocreative.d16282325.s16737_Biocreative.d16282325.s16737.p6, Biocreative.d16282325.s16737_Biocreative.d16282325.s16737.p7, Biocreative.d16282325.s16737_Biocreative.d16282325.s16737.p8, Biocreative.d16282325.s16737_Biocreative.d16282325.s16737.p9, Biocreative.d16282325.s16737_Biocreative.d16282325.s16737.p10, Biocreative.d16282325.s16737_Biocreative.d16282325.s16737.p11
+--------------------
+Text with Marker: The N-terminal (BIR1) and C-terminal (BIR3) BIR domains of cIAP1 were determined to be necessary and sufficient for binding [E1]TRAF2[/E1] and SMAC, respectively.[E2][/E2]
+Found in IDs: Biocreative.d16282325.s61758_Biocreative.d16282325.s61758.p12, Biocreative.d16282325.s61758_Biocreative.d16282325.s61758.p14
+--------------------
+Text with Marker: The N-terminal (BIR1) and C-terminal (BIR3) BIR domains of cIAP1 were determined to be necessary and sufficient for binding TRAF2 and [E1]SMAC[/E1], respectively.[E2][/E2]
+Found in IDs: Biocreative.d16282325.s61758_Biocreative.d16282325.s61758.p13, Biocreative.d16282325.s61758_Biocreative.d16282325.s61758.p15, Biocreative.d16282325.s61758_Biocreative.d16282325.s61758.p16, Biocreative.d16282325.s61758_Biocreative.d16282325.s61758.p17, Biocreative.d16282325.s61758_Biocreative.d16282325.s61758.p18, Biocreative.d16282325.s61758_Biocreative.d16282325.s61758.p19, Biocreative.d16282325.s61758_Biocreative.d16282325.s61758.p20, Biocreative.d16282325.s61758_Biocreative.d16282325.s61758.p21
+--------------------
+Text with Marker: Mutational analysis of the BIR1 and BIR3 domains identified critical residues required for TRAF2 and [E1]SMAC[/E1] binding.[E2][/E2]
+Found in IDs: Biocreative.d16282325.s25856_Biocreative.d16282325.s25856.p23, Biocreative.d16282325.s25856_Biocreative.d16282325.s25856.p24, Biocreative.d16282325.s25856_Biocreative.d16282325.s25856.p25, Biocreative.d16282325.s25856_Biocreative.d16282325.s25856.p26, Biocreative.d16282325.s25856_Biocreative.d16282325.s25856.p27, Biocreative.d16282325.s25856_Biocreative.d16282325.s25856.p28, Biocreative.d16282325.s25856_Biocreative.d16282325.s25856.p29
+--------------------
+Text with Marker: Using these mutants, cIAP1-mediated ubiquitination of TRAF2 and [E1]SMAC[/E1] in vitro was determined to be correspondingly dependent on intact binding sites on BIR1 and BIR3.[E2][/E2]
+Found in IDs: Biocreative.d16282325.s17669_Biocreative.d16282325.s17669.p30, Biocreative.d16282325.s17669_Biocreative.d16282325.s17669.p31, Biocreative.d16282325.s17669_Biocreative.d16282325.s17669.p32, Biocreative.d16282325.s17669_Biocreative.d16282325.s17669.p33, Biocreative.d16282325.s17669_Biocreative.d16282325.s17669.p34, Biocreative.d16282325.s17669_Biocreative.d16282325.s17669.p35
+--------------------
+Text with Marker: Here, we identified both catalytic gamma-isoforms of protein phosphatase 1C (PP1gamma1 and PP1gamma2) as binding partners of the group I metabotropic [E1]glutamate receptors type 1a[/E1], 5a, and 5b in yeast cells and pull-down assays, using recombinant and native protein preparations.[E2][/E2]
+Found in IDs: Biocreative.d14519764.s55437_Biocreative.d14519764.s55437.p0, Biocreative.d14519764.s55437_Biocreative.d14519764.s55437.p1
+--------------------
+Text with Marker: Here, we identified both catalytic gamma-isoforms of protein phosphatase 1C (PP1gamma1 and PP1gamma2) as binding partners of the group I metabotropic [E1]glutamate receptors type [/E1]1a, 5a, and 5b in yeast cells and pull-down assays, using recombinant and native protein preparations.[E2][/E2]
+Found in IDs: Biocreative.d14519764.s55437_Biocreative.d14519764.s55437.p2, Biocreative.d14519764.s55437_Biocreative.d14519764.s55437.p3
+--------------------
+Text with Marker: The same periplasmic ExbD residues mediate in vivo interactions between ExbD homodimers and ExbD-[E1]TonB[/E1] heterodimers.[E2][/E2]
+Found in IDs: Biocreative.d21984795.s87317_Biocreative.d21984795.s87317.p0, Biocreative.d21984795.s87317_Biocreative.d21984795.s87317.p1, Biocreative.d21984795.s87317_Biocreative.d21984795.s87317.p2
+--------------------
+Text with Marker: The [E1]TonB[/E1] system couples cytoplasmic membrane proton motive force to TonB-gated outer membrane transporters for active transport of nutrients into the periplasm.[E2][/E2]
+Found in IDs: Biocreative.d21984795.s99640_Biocreative.d21984795.s99640.p3, Biocreative.d21984795.s99640_Biocreative.d21984795.s99640.p5, Biocreative.d21984795.s99640_Biocreative.d21984795.s99640.p7
+--------------------
+Text with Marker: The TonB system couples cytoplasmic membrane proton motive force to [E1]TonB[/E1]-gated outer membrane transporters for active transport of nutrients into the periplasm.[E2][/E2]
+Found in IDs: Biocreative.d21984795.s99640_Biocreative.d21984795.s99640.p4, Biocreative.d21984795.s99640_Biocreative.d21984795.s99640.p6, Biocreative.d21984795.s99640_Biocreative.d21984795.s99640.p8
+--------------------
+Text with Marker: In Escherichia coli, cytoplasmic membrane proteins [E1]ExbB[/E1] and ExbD promote conformational changes in TonB, which transmits this energy to the transporters.[E2][/E2]
+Found in IDs: Biocreative.d21984795.s34366_Biocreative.d21984795.s34366.p9, Biocreative.d21984795.s34366_Biocreative.d21984795.s34366.p10, Biocreative.d21984795.s34366_Biocreative.d21984795.s34366.p11, Biocreative.d21984795.s34366_Biocreative.d21984795.s34366.p12, Biocreative.d21984795.s34366_Biocreative.d21984795.s34366.p14, Biocreative.d21984795.s34366_Biocreative.d21984795.s34366.p15, Biocreative.d21984795.s34366_Biocreative.d21984795.s34366.p17
+--------------------
+Text with Marker: In Escherichia coli, cytoplasmic membrane proteins ExbB and ExbD promote conformational changes in [E1]TonB[/E1], which transmits this energy to the transporters.[E2][/E2]
+Found in IDs: Biocreative.d21984795.s34366_Biocreative.d21984795.s34366.p13, Biocreative.d21984795.s34366_Biocreative.d21984795.s34366.p16
+--------------------
+Text with Marker: The only known energy-dependent interaction occurs between the periplasmic domains of [E1]TonB[/E1] and ExbD.[E2][/E2]
+Found in IDs: Biocreative.d21984795.s66311_Biocreative.d21984795.s66311.p18, Biocreative.d21984795.s66311_Biocreative.d21984795.s66311.p19
+--------------------
+Text with Marker: Most importantly, the majority of ExbD Cys substitutions that mediated homodimer formation also mediated ExbD-[E1]TonB[/E1] heterodimer formation with TonB A150C.[E2][/E2]
+Found in IDs: Biocreative.d21984795.s17696_Biocreative.d21984795.s17696.p20, Biocreative.d21984795.s17696_Biocreative.d21984795.s17696.p22
+--------------------
+Text with Marker: Most importantly, the majority of ExbD Cys substitutions that mediated homodimer formation also mediated ExbD-TonB heterodimer formation with [E1]TonB[/E1] A150C.[E2][/E2]
+Found in IDs: Biocreative.d21984795.s17696_Biocreative.d21984795.s17696.p21, Biocreative.d21984795.s17696_Biocreative.d21984795.s17696.p23
+--------------------
+Text with Marker: Consistent with the implied competition, ExbD homodimer formation increased in the absence of [E1]TonB[/E1].[E2][/E2]
+Found in IDs: Biocreative.d21984795.s14707_Biocreative.d21984795.s14707.p24, Biocreative.d21984795.s14707_Biocreative.d21984795.s14707.p25
+--------------------
+Text with Marker: Although ExbD D25 was not required for their formation, ExbD dimers interacted in vivo with [E1]ExbB[/E1].[E2][/E2]
+Found in IDs: Biocreative.d21984795.s54721_Biocreative.d21984795.s54721.p26, Biocreative.d21984795.s54721_Biocreative.d21984795.s54721.p27, Biocreative.d21984795.s54721_Biocreative.d21984795.s54721.p28
+--------------------
+Text with Marker: Structural basis for specific recognition of Lys 63-linked polyubiquitin chains by NZF domains of TAB2 and [E1]TAB3[/E1].[E2][/E2]
+Found in IDs: Biocreative.d19927120.s5368_Biocreative.d19927120.s5368.p1, Biocreative.d19927120.s5368_Biocreative.d19927120.s5368.p4, Biocreative.d19927120.s5368_Biocreative.d19927120.s5368.p5
+--------------------
+Text with Marker: Phosphorylation of receptor protein-tyrosine phosphatase alpha on Tyr789, a binding site for the SH3-SH2-SH3 adaptor protein [E1]GRB-2[/E1] in vivo.[E2][/E2]
+Found in IDs: Biocreative.d7518772.s6964_Biocreative.d7518772.s6964.p0, Biocreative.d7518772.s6964_Biocreative.d7518772.s6964.p1
+--------------------
+Text with Marker: Transient overexpression of [E1]c-Src[/E1] together with RPTP alpha in human embryonic kidney 293 cells increased phosphorylation of Tyr789, suggesting that c-Src may phosphorylate RPTP alpha in vivo.[E2][/E2]
+Found in IDs: Biocreative.d7518772.s83287_Biocreative.d7518772.s83287.p2, Biocreative.d7518772.s83287_Biocreative.d7518772.s83287.p4, Biocreative.d7518772.s83287_Biocreative.d7518772.s83287.p6, Biocreative.d7518772.s83287_Biocreative.d7518772.s83287.p7, Biocreative.d7518772.s83287_Biocreative.d7518772.s83287.p10, Biocreative.d7518772.s83287_Biocreative.d7518772.s83287.p12
+--------------------
+Text with Marker: Transient overexpression of c-Src together with RPTP alpha in human embryonic kidney 293 cells increased phosphorylation of Tyr789, suggesting that [E1]c-Src[/E1] may phosphorylate RPTP alpha in vivo.[E2][/E2]
+Found in IDs: Biocreative.d7518772.s83287_Biocreative.d7518772.s83287.p3, Biocreative.d7518772.s83287_Biocreative.d7518772.s83287.p5, Biocreative.d7518772.s83287_Biocreative.d7518772.s83287.p8, Biocreative.d7518772.s83287_Biocreative.d7518772.s83287.p9, Biocreative.d7518772.s83287_Biocreative.d7518772.s83287.p11, Biocreative.d7518772.s83287_Biocreative.d7518772.s83287.p13
+--------------------
+Text with Marker: Decreased interactions of mutant muscle LIM protein (MLP) with [E1]N-RAP[/E1] and alpha-actinin and their implication for hypertrophic cardiomyopathy.[E2][/E2]
+Found in IDs: Biocreative.d15205937.s97022_Biocreative.d15205937.s97022.p0, Biocreative.d15205937.s97022_Biocreative.d15205937.s97022.p2, Biocreative.d15205937.s97022_Biocreative.d15205937.s97022.p4
+--------------------
+Text with Marker: Decreased interactions of mutant muscle LIM protein (MLP) with N-RAP and [E1]alpha-actinin[/E1] and their implication for hypertrophic cardiomyopathy.[E2][/E2]
+Found in IDs: Biocreative.d15205937.s97022_Biocreative.d15205937.s97022.p1, Biocreative.d15205937.s97022_Biocreative.d15205937.s97022.p3, Biocreative.d15205937.s97022_Biocreative.d15205937.s97022.p5, Biocreative.d15205937.s97022_Biocreative.d15205937.s97022.p6
+--------------------
+Text with Marker: We show that MLP can form a ternary complex with two of its previously documented myofibrillar ligand proteins, [E1]N-RAP[/E1] and alpha-actinin, which indicates the presence of distinct, non-overlapping binding sites.[E2][/E2]
+Found in IDs: Biocreative.d15205937.s15136_Biocreative.d15205937.s15136.p7, Biocreative.d15205937.s15136_Biocreative.d15205937.s15136.p9
+--------------------
+Text with Marker: We show that MLP can form a ternary complex with two of its previously documented myofibrillar ligand proteins, N-RAP and [E1]alpha-actinin[/E1], which indicates the presence of distinct, non-overlapping binding sites.[E2][/E2]
+Found in IDs: Biocreative.d15205937.s15136_Biocreative.d15205937.s15136.p8, Biocreative.d15205937.s15136_Biocreative.d15205937.s15136.p10, Biocreative.d15205937.s15136_Biocreative.d15205937.s15136.p11
+--------------------
+Text with Marker: Our data also show that, in comparison to wild-type MLP, the capacity of the mutated MLP protein to bind both N-RAP and [E1]alpha-actinin[/E1] is significantly decreased. In addition, this single point mutation prevents zinc coordination and proper folding of the second zinc-finger in the first LIM domain, which consequently renders the protein less stable and more susceptible to proteolysis.[E2][/E2]
+Found in IDs: Biocreative.d15205937.s44096_Biocreative.d15205937.s44096.p13, Biocreative.d15205937.s44096_Biocreative.d15205937.s44096.p14
+--------------------
+Text with Marker: Here, we show that HIC1 interacts with both [E1]CtBP1[/E1] and CtBP2 and that this interaction is stimulated by agents increasing NADH levels.[E2][/E2]
+Found in IDs: Biocreative.d16762039.s83387_Biocreative.d16762039.s83387.p0, Biocreative.d16762039.s83387_Biocreative.d16762039.s83387.p1
+--------------------
+Text with Marker: We recovered two SKP1 homologues and a [E1]histone deacetylase[/E1].[E2][/E2]
+Found in IDs: Biocreative.d12445118.s14683_Biocreative.d12445118.s14683.p0, Biocreative.d12445118.s14683_Biocreative.d12445118.s14683.p8
+--------------------
+Text with Marker: We recovered two [E1]SKP1[/E1] homologues and a histone deacetylase.[E2][/E2]
+Found in IDs: Biocreative.d12445118.s14683_Biocreative.d12445118.s14683.p1, Biocreative.d12445118.s14683_Biocreative.d12445118.s14683.p5, Biocreative.d12445118.s14683_Biocreative.d12445118.s14683.p10
+--------------------
+Text with Marker: The Arabidopsis F-box protein TIR1 interacted with [E1]SKP1[/E1] proteins, but not with the histone deacetylase.[E2][/E2]
+Found in IDs: Biocreative.d12445118.s90364_Biocreative.d12445118.s90364.p2, Biocreative.d12445118.s90364_Biocreative.d12445118.s90364.p4, Biocreative.d12445118.s90364_Biocreative.d12445118.s90364.p9
+--------------------
+Text with Marker: Other F-box proteins interact with [E1]SKP1[/E1] and cullin proteins to form SCF complexes that selectively recruit regulatory proteins targeted for ubiquitination.[E2][/E2]
+Found in IDs: Biocreative.d12445118.s95272_Biocreative.d12445118.s95272.p3, Biocreative.d12445118.s95272_Biocreative.d12445118.s95272.p6, Biocreative.d12445118.s95272_Biocreative.d12445118.s95272.p11
+--------------------
+Text with Marker: Furthermore, VP35 blocks IFN-beta promoter activation induced by any of several components of the retinoic acid-inducible gene I (RIG-I)/melanoma differentiation-associated gene 5 (MDA-5)-activated signaling pathways including RIG-I, IFN-beta promoter stimulator 1 (IPS-1), TANK-binding kinase 1 ([E1]TBK-1[/E1]), and IkappaB kinase epsilon (IKKepsilon).[E2][/E2]
+Found in IDs: Biocreative.d19153231.s72393_Biocreative.d19153231.s72393.p3, Biocreative.d19153231.s72393_Biocreative.d19153231.s72393.p7, Biocreative.d19153231.s72393_Biocreative.d19153231.s72393.p8
+--------------------
+Text with Marker: Coimmunoprecipitation experiments now demonstrate physical interactions of [E1]VP35[/E1] with IKKepsilon and TBK-1, and the use of an IKKepsilon deletion construct further demonstrates that the amino-terminal kinase domain of IKKepsilon is sufficient for interactions with either IRF-3 or VP35.[E2][/E2]
+Found in IDs: Biocreative.d19153231.s22970_Biocreative.d19153231.s22970.p4, Biocreative.d19153231.s22970_Biocreative.d19153231.s22970.p5
+--------------------
+Text with Marker: Overexpression of CrkII inhibited dephosphorylation of focal adhesion components such as p130 Crk-associated substrate ([E1]p130cas[/E1]) and paxillin by protein tyrosine phosphatase 1B (PTP1B).[E2][/E2]
+Found in IDs: Biocreative.d12799422.s64385_Biocreative.d12799422.s64385.p0, Biocreative.d12799422.s64385_Biocreative.d12799422.s64385.p3
+--------------------
+Text with Marker: Overexpression of CrkII inhibited dephosphorylation of focal adhesion components such as p130 Crk-associated substrate (p130cas) and [E1]paxillin[/E1] by protein tyrosine phosphatase 1B (PTP1B).[E2][/E2]
+Found in IDs: Biocreative.d12799422.s64385_Biocreative.d12799422.s64385.p1, Biocreative.d12799422.s64385_Biocreative.d12799422.s64385.p2, Biocreative.d12799422.s64385_Biocreative.d12799422.s64385.p4, Biocreative.d12799422.s64385_Biocreative.d12799422.s64385.p5
+--------------------
+Text with Marker: A CrkII mutant in which tyrosine residue 221 was substituted by phenylalanine (CrkII-Y221F) could not be tyrosine phosphorylated, and it showed significantly increased binding to p130cas and [E1]paxillin[/E1].[E2][/E2]
+Found in IDs: Biocreative.d12799422.s12268_Biocreative.d12799422.s12268.p6, Biocreative.d12799422.s12268_Biocreative.d12799422.s12268.p8, Biocreative.d12799422.s12268_Biocreative.d12799422.s12268.p9
+--------------------
+Text with Marker: Superadditive and subadditive effects of "hot spot" mutations within the interfaces of placental ribonuclease inhibitor with [E1]angiogenin[/E1] and ribonuclease A.[E2][/E2]
+Found in IDs: Biocreative.d10413501.s99530_Biocreative.d10413501.s99530.p0, Biocreative.d10413501.s99530_Biocreative.d10413501.s99530.p1
+--------------------
+Text with Marker: Previous single-site mutagenesis studies on the complexes of ribonuclease inhibitor (RI) with angiogenin (Ang) and [E1]RNase A[/E1] suggested that in both cases a substantial fraction of the binding energy is concentrated within one small part of the crystallographically observed interface, involving RI residues 434-438.[E2][/E2]
+Found in IDs: Biocreative.d10413501.s32293_Biocreative.d10413501.s32293.p4, Biocreative.d10413501.s32293_Biocreative.d10413501.s32293.p5, Biocreative.d10413501.s32293_Biocreative.d10413501.s32293.p6, Biocreative.d10413501.s32293_Biocreative.d10413501.s32293.p7
+--------------------
+Text with Marker: The effects of Phe versus Ala substitutions show that the key residue Tyr434 interacts with both ligands primarily through its phenyl ring; for Tyr437, the OH group forms the important contacts with [E1]RNase A[/E1], whereas the phenyl group interacts with Ang.[E2][/E2]
+Found in IDs: Biocreative.d10413501.s31635_Biocreative.d10413501.s31635.p8, Biocreative.d10413501.s31635_Biocreative.d10413501.s31635.p9, Biocreative.d10413501.s31635_Biocreative.d10413501.s31635.p10
+--------------------
+Text with Marker: Moreover, the Ad12 E2 promoter is inducible by protein kinase A and repressed by either a dominant-negative cAMP-response element-binding protein ([E1]CREB[/E1]) mutant or the highly specific protein kinase A inhibitor protein underscoring the participation of CREB-1/ATF-1 in promoter activation.[E2][/E2]
+Found in IDs: Biocreative.d10722738.s90603_Biocreative.d10722738.s90603.p0, Biocreative.d10722738.s90603_Biocreative.d10722738.s90603.p9
+--------------------
+Text with Marker: Activation is mediated through a cAMP-response element that is bound by CREB-1 and [E1]ATF-1[/E1].[E2][/E2]
+Found in IDs: Biocreative.d10722738.s66070_Biocreative.d10722738.s66070.p1, Biocreative.d10722738.s66070_Biocreative.d10722738.s66070.p2, Biocreative.d10722738.s66070_Biocreative.d10722738.s66070.p10
+--------------------
+Text with Marker: cAMP-independent activation of the adenovirus type 12 E2 promoter correlates with the recruitment of CREB-1/[E1]ATF-1[/E1], E1A(12S), and CBP to the E2-CRE.[E2][/E2]
+Found in IDs: Biocreative.d10722738.s98937_Biocreative.d10722738.s98937.p3, Biocreative.d10722738.s98937_Biocreative.d10722738.s98937.p12
+--------------------
+Text with Marker: Moreover, the Ad12 E2 promoter is inducible by protein kinase A and repressed by either a dominant-negative cAMP-response element-binding protein (CREB) mutant or the highly specific protein kinase A inhibitor protein underscoring the participation of CREB-1/[E1]ATF-1[/E1] in promoter activation.[E2][/E2]
+Found in IDs: Biocreative.d10722738.s90603_Biocreative.d10722738.s90603.p4, Biocreative.d10722738.s90603_Biocreative.d10722738.s90603.p6
+--------------------
+Text with Marker: Activation is mediated through a cAMP-response element that is bound by [E1]CREB-1[/E1] and ATF-1.[E2][/E2]
+Found in IDs: Biocreative.d10722738.s66070_Biocreative.d10722738.s66070.p11, Biocreative.d10722738.s66070_Biocreative.d10722738.s66070.p15
+--------------------
+Text with Marker: Abl-SH3 binding protein 2, 3BP2, interacts with [E1]CIN85[/E1] and HIP-55.[E2][/E2]
+Found in IDs: Biocreative.d17306257.s72677_Biocreative.d17306257.s72677.p0, Biocreative.d17306257.s72677_Biocreative.d17306257.s72677.p2, Biocreative.d17306257.s72677_Biocreative.d17306257.s72677.p4, Biocreative.d17306257.s72677_Biocreative.d17306257.s72677.p6
+--------------------
+Text with Marker: Abl-SH3 binding protein 2, 3BP2, interacts with CIN85 and [E1]HIP-55[/E1].[E2][/E2]
+Found in IDs: Biocreative.d17306257.s72677_Biocreative.d17306257.s72677.p1, Biocreative.d17306257.s72677_Biocreative.d17306257.s72677.p3, Biocreative.d17306257.s72677_Biocreative.d17306257.s72677.p5, Biocreative.d17306257.s72677_Biocreative.d17306257.s72677.p7
+--------------------
+Text with Marker: Here, we show that 3BP2 directly interacts with the endocytic scaffold protein [E1]CIN85[/E1] and the actin-binding protein HIP-55.[E2][/E2]
+Found in IDs: Biocreative.d17306257.s51694_Biocreative.d17306257.s51694.p8, Biocreative.d17306257.s51694_Biocreative.d17306257.s51694.p10, Biocreative.d17306257.s51694_Biocreative.d17306257.s51694.p12
+--------------------
+Text with Marker: Here, we show that 3BP2 directly interacts with the endocytic scaffold protein CIN85 and the actin-binding protein [E1]HIP-55[/E1].[E2][/E2]
+Found in IDs: Biocreative.d17306257.s51694_Biocreative.d17306257.s51694.p9, Biocreative.d17306257.s51694_Biocreative.d17306257.s51694.p11, Biocreative.d17306257.s51694_Biocreative.d17306257.s51694.p13
+--------------------
+Text with Marker: 3BP2 co-localized with [E1]CIN85[/E1] and HIP-55 in T cell rafts and at the T cell/APC synapse, an active zone of receptors and proteins recycling.[E2][/E2]
+Found in IDs: Biocreative.d17306257.s62433_Biocreative.d17306257.s62433.p14, Biocreative.d17306257.s62433_Biocreative.d17306257.s62433.p16
+--------------------
+Text with Marker: 3BP2 co-localized with CIN85 and [E1]HIP-55[/E1] in T cell rafts and at the T cell/APC synapse, an active zone of receptors and proteins recycling.[E2][/E2]
+Found in IDs: Biocreative.d17306257.s62433_Biocreative.d17306257.s62433.p15, Biocreative.d17306257.s62433_Biocreative.d17306257.s62433.p17
+--------------------
+Text with Marker: Strikingly, a stretch of four basic amino acids in the [E1]ubiquitin chain assembly factor E4B[/E1] was also discovered to be critical for VCP binding, indicating that arginine/lysine-rich motifs might be generally utilized by VCP for the targeting of proteins.[E2][/E2]
+Found in IDs: Biocreative.d16525503.s9958_Biocreative.d16525503.s9958.p6, Biocreative.d16525503.s9958_Biocreative.d16525503.s9958.p7
+--------------------
+Text with Marker: Molecular recognition of [E1]p53[/E1] and MDM2 by USP7/HAUSP.[E2][/E2]
+Found in IDs: Biocreative.d16474402.s18495_Biocreative.d16474402.s18495.p0, Biocreative.d16474402.s18495_Biocreative.d16474402.s18495.p3, Biocreative.d16474402.s18495_Biocreative.d16474402.s18495.p4, Biocreative.d16474402.s18495_Biocreative.d16474402.s18495.p7
+--------------------
+Text with Marker: Molecular recognition of p53 and [E1]MDM2[/E1] by USP7/HAUSP.[E2][/E2]
+Found in IDs: Biocreative.d16474402.s18495_Biocreative.d16474402.s18495.p1, Biocreative.d16474402.s18495_Biocreative.d16474402.s18495.p2, Biocreative.d16474402.s18495_Biocreative.d16474402.s18495.p5, Biocreative.d16474402.s18495_Biocreative.d16474402.s18495.p6, Biocreative.d16474402.s18495_Biocreative.d16474402.s18495.p8, Biocreative.d16474402.s18495_Biocreative.d16474402.s18495.p9
+--------------------
+Text with Marker: The ubiquitin-specific protease, USP7, has key roles in the [E1]p53[/E1] pathway whereby it stabilizes both p53 and MDM2.[E2][/E2]
+Found in IDs: Biocreative.d16474402.s30872_Biocreative.d16474402.s30872.p10, Biocreative.d16474402.s30872_Biocreative.d16474402.s30872.p11, Biocreative.d16474402.s30872_Biocreative.d16474402.s30872.p16
+--------------------
+Text with Marker: The ubiquitin-specific protease, USP7, has key roles in the p53 pathway whereby it stabilizes both [E1]p53[/E1] and MDM2.[E2][/E2]
+Found in IDs: Biocreative.d16474402.s30872_Biocreative.d16474402.s30872.p12, Biocreative.d16474402.s30872_Biocreative.d16474402.s30872.p13, Biocreative.d16474402.s30872_Biocreative.d16474402.s30872.p17
+--------------------
+Text with Marker: The ubiquitin-specific protease, USP7, has key roles in the p53 pathway whereby it stabilizes both p53 and [E1]MDM2[/E1].[E2][/E2]
+Found in IDs: Biocreative.d16474402.s30872_Biocreative.d16474402.s30872.p14, Biocreative.d16474402.s30872_Biocreative.d16474402.s30872.p15, Biocreative.d16474402.s30872_Biocreative.d16474402.s30872.p18, Biocreative.d16474402.s30872_Biocreative.d16474402.s30872.p19
+--------------------
+Text with Marker: We show that the N-terminal domain of USP7 binds two closely spaced 4-residue sites in both p53 and [E1]MDM2[/E1], falling between p53 residues 359-367 and MDM2 residues 147-159.[E2][/E2]
+Found in IDs: Biocreative.d16474402.s48276_Biocreative.d16474402.s48276.p21, Biocreative.d16474402.s48276_Biocreative.d16474402.s48276.p24
+--------------------
+Text with Marker: We show that the N-terminal domain of USP7 binds two closely spaced 4-residue sites in both p53 and MDM2, falling between p53 residues 359-367 and [E1]MDM2[/E1] residues 147-159.[E2][/E2]
+Found in IDs: Biocreative.d16474402.s48276_Biocreative.d16474402.s48276.p23, Biocreative.d16474402.s48276_Biocreative.d16474402.s48276.p25
+--------------------
+Text with Marker: Functional analysis of the [E1]Notch[/E1] ligand Jagged1 missense mutant proteins underlying Alagille syndrome.[E2][/E2]
+Found in IDs: Biocreative.d22487239.s90841_Biocreative.d22487239.s90841.p0, Biocreative.d22487239.s90841_Biocreative.d22487239.s90841.p1
+--------------------
+Text with Marker: Heterozygous mutations in the JAG1 gene, encoding [E1]Notch[/E1] ligand Jagged1, cause Alagille syndrome (ALGS).[E2][/E2]
+Found in IDs: Biocreative.d22487239.s12962_Biocreative.d22487239.s12962.p2, Biocreative.d22487239.s12962_Biocreative.d22487239.s12962.p3
+--------------------
+Text with Marker: P163L and R184H showed [E1]Notch[/E1]-binding activities similar to that of the wild-type when assessed by immunoprecipitation.[E2][/E2]
+Found in IDs: Biocreative.d22487239.s31690_Biocreative.d22487239.s31690.p4, Biocreative.d22487239.s31690_Biocreative.d22487239.s31690.p5
+--------------------
+Text with Marker: The related RING domain proteins MdmX and Mdm2 are best known for their role as negative regulators of the tumor suppressor [E1]p53[/E1].[E2][/E2]
+Found in IDs: Biocreative.d20705607.s59314_Biocreative.d20705607.s59314.p1, Biocreative.d20705607.s59314_Biocreative.d20705607.s59314.p7
+--------------------
+Text with Marker: In this study, we performed a mutational analysis of the RING domain of MdmX, and we identified two distinct regions that, when replaced by the respective regions of Mdm2, turn MdmX into an active ubiquitin ligase for [E1]p53[/E1].[E2][/E2]
+Found in IDs: Biocreative.d20705607.s77962_Biocreative.d20705607.s77962.p2, Biocreative.d20705607.s77962_Biocreative.d20705607.s77962.p9
+--------------------
+Text with Marker: However, although [E1]Mdm2[/E1] functions as a ubiquitin ligase for p53, MdmX does not have appreciable ubiquitin ligase activity.[E2][/E2]
+Found in IDs: Biocreative.d20705607.s91932_Biocreative.d20705607.s91932.p5, Biocreative.d20705607.s91932_Biocreative.d20705607.s91932.p6
+--------------------
+Text with Marker: Three of the OT subunits (Ost4p, [E1]Ost3p[/E1], and Stt3p) have been proposed to exist in one subcomplex.[E2][/E2]
+Found in IDs: Biocreative.d10677492.s29518_Biocreative.d10677492.s29518.p0, Biocreative.d10677492.s29518_Biocreative.d10677492.s29518.p2
+--------------------
+Text with Marker: Three of the OT subunits (Ost4p, Ost3p, and [E1]Stt3p[/E1]) have been proposed to exist in one subcomplex.[E2][/E2]
+Found in IDs: Biocreative.d10677492.s29518_Biocreative.d10677492.s29518.p1, Biocreative.d10677492.s29518_Biocreative.d10677492.s29518.p3
+--------------------
+Text with Marker: Centrosomal proteins Nde1 and [E1]Su48[/E1] form a complex regulated by phosphorylation.[E2][/E2]
+Found in IDs: Biocreative.d16682949.s52774_Biocreative.d16682949.s52774.p0, Biocreative.d16682949.s52774_Biocreative.d16682949.s52774.p1
+--------------------
+Text with Marker: To explore the components of the centrosomes, we previously identified a novel centrosomal protein called [E1]Su48[/E1].[E2][/E2]
+Found in IDs: Biocreative.d16682949.s13486_Biocreative.d16682949.s13486.p2, Biocreative.d16682949.s13486_Biocreative.d16682949.s13486.p3
+--------------------
+Text with Marker: To further characterize the [E1]Su48[/E1]-containing protein ensemble in the centrosome, we performed yeast two-hybrid screens and isolated a number of Su48-interacting molecules, including the centrosomal protein Nde1.[E2][/E2]
+Found in IDs: Biocreative.d16682949.s83963_Biocreative.d16682949.s83963.p4, Biocreative.d16682949.s83963_Biocreative.d16682949.s83963.p5
+--------------------
+Text with Marker: To further characterize the Su48-containing protein ensemble in the centrosome, we performed yeast two-hybrid screens and isolated a number of [E1]Su48[/E1]-interacting molecules, including the centrosomal protein Nde1.[E2][/E2]
+Found in IDs: Biocreative.d16682949.s83963_Biocreative.d16682949.s83963.p6, Biocreative.d16682949.s83963_Biocreative.d16682949.s83963.p7
+--------------------
+Text with Marker: Here, we demonstrate that [E1]Su48[/E1] can associate with Nde1.[E2][/E2]
+Found in IDs: Biocreative.d16682949.s51776_Biocreative.d16682949.s51776.p8, Biocreative.d16682949.s51776_Biocreative.d16682949.s51776.p9
+--------------------
+Text with Marker: Two different in vitro qualitative assays-yeast two-hybrid and glutathion S-transferase pull-down competition-were performed in order to investigate functional changes in Tcap's interaction with MLP, titin, and [E1]calsarcin-1[/E1] caused by the identified mutations and a reported DCM-associated mutation, R87Q.[E2][/E2]
+Found in IDs: Biocreative.d15582318.s40108_Biocreative.d15582318.s40108.p0, Biocreative.d15582318.s40108_Biocreative.d15582318.s40108.p2, Biocreative.d15582318.s40108_Biocreative.d15582318.s40108.p15
+--------------------
+Text with Marker: The Z-disc plays a role in establishing the mechanical coupling of sarcomeric contraction and stretching, with the titin/Tcap/[E1]MLP[/E1] complex serving as a mechanical stretch sensor.[E2][/E2]
+Found in IDs: Biocreative.d15582318.s8386_Biocreative.d15582318.s8386.p1, Biocreative.d15582318.s8386_Biocreative.d15582318.s8386.p6, Biocreative.d15582318.s8386_Biocreative.d15582318.s8386.p8, Biocreative.d15582318.s8386_Biocreative.d15582318.s8386.p10, Biocreative.d15582318.s8386_Biocreative.d15582318.s8386.p17, Biocreative.d15582318.s8386_Biocreative.d15582318.s8386.p20
+--------------------
+Text with Marker: Recent genetic investigations have revealed that mutations of genes encoding Z-disc components, including titin and muscle LIM protein ([E1]MLP[/E1]), are the primary cause of both HCM and DCM.[E2][/E2]
+Found in IDs: Biocreative.d15582318.s67269_Biocreative.d15582318.s67269.p3, Biocreative.d15582318.s67269_Biocreative.d15582318.s67269.p12, Biocreative.d15582318.s67269_Biocreative.d15582318.s67269.p14, Biocreative.d15582318.s67269_Biocreative.d15582318.s67269.p16, Biocreative.d15582318.s67269_Biocreative.d15582318.s67269.p23
+--------------------
+Text with Marker: Two different in vitro qualitative assays-yeast two-hybrid and glutathion S-transferase pull-down competition-were performed in order to investigate functional changes in Tcap's interaction with [E1]MLP[/E1], titin, and calsarcin-1 caused by the identified mutations and a reported DCM-associated mutation, R87Q.[E2][/E2]
+Found in IDs: Biocreative.d15582318.s40108_Biocreative.d15582318.s40108.p4, Biocreative.d15582318.s40108_Biocreative.d15582318.s40108.p7, Biocreative.d15582318.s40108_Biocreative.d15582318.s40108.p18
+--------------------
+Text with Marker: Recent genetic investigations have revealed that mutations of genes encoding Z-disc components, including titin and [E1]muscle LIM protein[/E1] (MLP), are the primary cause of both HCM and DCM.[E2][/E2]
+Found in IDs: Biocreative.d15582318.s67269_Biocreative.d15582318.s67269.p5, Biocreative.d15582318.s67269_Biocreative.d15582318.s67269.p11, Biocreative.d15582318.s67269_Biocreative.d15582318.s67269.p19, Biocreative.d15582318.s67269_Biocreative.d15582318.s67269.p24
+--------------------
+Text with Marker: The Z-disc plays a role in establishing the mechanical coupling of sarcomeric contraction and stretching, with the [E1]titin[/E1]/Tcap/MLP complex serving as a mechanical stretch sensor.[E2][/E2]
+Found in IDs: Biocreative.d15582318.s8386_Biocreative.d15582318.s8386.p9, Biocreative.d15582318.s8386_Biocreative.d15582318.s8386.p21, Biocreative.d15582318.s8386_Biocreative.d15582318.s8386.p22
+--------------------
+Text with Marker: Paxillin phosphorylation at Ser273 localizes a GIT1-[E1]PIX[/E1]-PAK complex and regulates adhesion and protrusion dynamics.[E2][/E2]
+Found in IDs: Biocreative.d16717130.s41531_Biocreative.d16717130.s41531.p0, Biocreative.d16717130.s41531_Biocreative.d16717130.s41531.p1, Biocreative.d16717130.s41531_Biocreative.d16717130.s41531.p3, Biocreative.d16717130.s41531_Biocreative.d16717130.s41531.p4, Biocreative.d16717130.s41531_Biocreative.d16717130.s41531.p5
+--------------------
+Text with Marker: Paxillin phosphorylation at Ser273 localizes a GIT1-PIX-[E1]PAK[/E1] complex and regulates adhesion and protrusion dynamics.[E2][/E2]
+Found in IDs: Biocreative.d16717130.s41531_Biocreative.d16717130.s41531.p2, Biocreative.d16717130.s41531_Biocreative.d16717130.s41531.p6
+--------------------
+Text with Marker: We show that p21-activated kinase ([E1]PAK[/E1])-induced phosphorylation of serine 273 in paxillin is a critical regulator of this turnover.[E2][/E2]
+Found in IDs: Biocreative.d16717130.s31961_Biocreative.d16717130.s31961.p7, Biocreative.d16717130.s31961_Biocreative.d16717130.s31961.p8
+--------------------
+Text with Marker: Paxillin-S273 phosphorylation dramatically increases migration, protrusion, and adhesion turnover by increasing paxillin-GIT1 binding and promoting the localization of a GIT1-[E1]PIX[/E1]-PAK signaling module near the leading edge.[E2][/E2]
+Found in IDs: Biocreative.d16717130.s74488_Biocreative.d16717130.s74488.p9, Biocreative.d16717130.s74488_Biocreative.d16717130.s74488.p10, Biocreative.d16717130.s74488_Biocreative.d16717130.s74488.p11
+--------------------
+Text with Marker: Using the yeast two-hybrid screen, we have isolated a rat clone that interacts with Rab3A as well as with [E1]Rab1[/E1].[E2][/E2]
+Found in IDs: Biocreative.d9341137.s26318_Biocreative.d9341137.s26318.p1, Biocreative.d9341137.s26318_Biocreative.d9341137.s26318.p2, Biocreative.d9341137.s26318_Biocreative.d9341137.s26318.p3, Biocreative.d9341137.s26318_Biocreative.d9341137.s26318.p4, Biocreative.d9341137.s26318_Biocreative.d9341137.s26318.p5, Biocreative.d9341137.s26318_Biocreative.d9341137.s26318.p6, Biocreative.d9341137.s26318_Biocreative.d9341137.s26318.p7, Biocreative.d9341137.s26318_Biocreative.d9341137.s26318.p8
+--------------------
+Text with Marker: We show that cells transfected with AHI1-V443D, or a new JBTS-causing mutation, AHI1-R351L, have aberrant localization of AHI1 at the basal bodies of PC and at cell-cell junctions, likely through decreased binding of mutant AHI1 to [E1]NPHP1[/E1] (another JBTS-causing protein).[E2][/E2]
+Found in IDs: Biocreative.d23532844.s77068_Biocreative.d23532844.s77068.p0, Biocreative.d23532844.s77068_Biocreative.d23532844.s77068.p2, Biocreative.d23532844.s77068_Biocreative.d23532844.s77068.p6, Biocreative.d23532844.s77068_Biocreative.d23532844.s77068.p7, Biocreative.d23532844.s77068_Biocreative.d23532844.s77068.p10
+--------------------
+Text with Marker: RESULTS: Mutations in AHI1 decrease cilia formation, alter its localization and stability, and change its binding to HAP1 and [E1]NPHP1[/E1].[E2][/E2]
+Found in IDs: Biocreative.d23532844.s78344_Biocreative.d23532844.s78344.p1, Biocreative.d23532844.s78344_Biocreative.d23532844.s78344.p3, Biocreative.d23532844.s78344_Biocreative.d23532844.s78344.p4, Biocreative.d23532844.s78344_Biocreative.d23532844.s78344.p5, Biocreative.d23532844.s78344_Biocreative.d23532844.s78344.p9
+--------------------
+Text with Marker: Structural basis for Par-4 recognition by the SPRY domain- and SOCS box-containing proteins SPSB1, SPSB2, and [E1]SPSB4[/E1].[E2][/E2]
+Found in IDs: Biocreative.d20561531.s52997_Biocreative.d20561531.s52997.p0, Biocreative.d20561531.s52997_Biocreative.d20561531.s52997.p22
+--------------------
+Text with Marker: The mammalian SPRY domain- and SOCS box-containing proteins, [E1]SPSB1[/E1] to SPSB4, belong to the SOCS box family of E3 ubiquitin ligases.[E2][/E2]
+Found in IDs: Biocreative.d20561531.s91686_Biocreative.d20561531.s91686.p1, Biocreative.d20561531.s91686_Biocreative.d20561531.s91686.p6, Biocreative.d20561531.s91686_Biocreative.d20561531.s91686.p13, Biocreative.d20561531.s91686_Biocreative.d20561531.s91686.p24
+--------------------
+Text with Marker: To further investigate this consensus motif, we determined the crystal structures of SPSB1, SPSB2, and [E1]SPSB4[/E1], as well as their binding modes and affinities for both Par-4 and VASA.[E2][/E2]
+Found in IDs: Biocreative.d20561531.s81542_Biocreative.d20561531.s81542.p2, Biocreative.d20561531.s81542_Biocreative.d20561531.s81542.p11, Biocreative.d20561531.s81542_Biocreative.d20561531.s81542.p16, Biocreative.d20561531.s81542_Biocreative.d20561531.s81542.p18, Biocreative.d20561531.s81542_Biocreative.d20561531.s81542.p19
+--------------------
+Text with Marker: Structural basis for Par-4 recognition by the SPRY domain- and SOCS box-containing proteins SPSB1, [E1]SPSB2[/E1], and SPSB4.[E2][/E2]
+Found in IDs: Biocreative.d20561531.s52997_Biocreative.d20561531.s52997.p4, Biocreative.d20561531.s52997_Biocreative.d20561531.s52997.p5, Biocreative.d20561531.s52997_Biocreative.d20561531.s52997.p8, Biocreative.d20561531.s52997_Biocreative.d20561531.s52997.p15
+--------------------
+Text with Marker: By comparison to [E1]SPSB1[/E1] and SPSB4, the more divergent protein SPSB2 showed only weak binding to Par-4 and was hypersensitive to DI substitution.[E2][/E2]
+Found in IDs: Biocreative.d20561531.s44154_Biocreative.d20561531.s44154.p7, Biocreative.d20561531.s44154_Biocreative.d20561531.s44154.p17
+--------------------
+Text with Marker: To further investigate this consensus motif, we determined the crystal structures of [E1]SPSB1[/E1], SPSB2, and SPSB4, as well as their binding modes and affinities for both Par-4 and VASA.[E2][/E2]
+Found in IDs: Biocreative.d20561531.s81542_Biocreative.d20561531.s81542.p9, Biocreative.d20561531.s81542_Biocreative.d20561531.s81542.p21, Biocreative.d20561531.s81542_Biocreative.d20561531.s81542.p23
+--------------------
+Text with Marker: The mammalian SPRY domain- and SOCS box-containing proteins, SPSB1 to [E1]SPSB4[/E1], belong to the SOCS box family of E3 ubiquitin ligases.[E2][/E2]
+Found in IDs: Biocreative.d20561531.s91686_Biocreative.d20561531.s91686.p10, Biocreative.d20561531.s91686_Biocreative.d20561531.s91686.p20
+--------------------
+Text with Marker: The NR2B subunit interacts with post-synaptic density protein 95 ([E1]PSD-95[/E1]), SAP97 and members of the membrane-associated guanylate-like kinase (MAGUK) family of proteins.[E2][/E2]
+Found in IDs: Biocreative.d10336672.s88081_Biocreative.d10336672.s88081.p0, Biocreative.d10336672.s88081_Biocreative.d10336672.s88081.p7, Biocreative.d10336672.s88081_Biocreative.d10336672.s88081.p19
+--------------------
+Text with Marker: The NR2B subunit interacts with [E1]post-synaptic density protein 95[/E1] (PSD-95), SAP97 and members of the membrane-associated guanylate-like kinase (MAGUK) family of proteins.[E2][/E2]
+Found in IDs: Biocreative.d10336672.s88081_Biocreative.d10336672.s88081.p1, Biocreative.d10336672.s88081_Biocreative.d10336672.s88081.p16
+--------------------
+Text with Marker: The NR2B subunit interacts with post-synaptic density protein 95 (PSD-95), [E1]SAP97[/E1] and members of the membrane-associated guanylate-like kinase (MAGUK) family of proteins.[E2][/E2]
+Found in IDs: Biocreative.d10336672.s88081_Biocreative.d10336672.s88081.p2, Biocreative.d10336672.s88081_Biocreative.d10336672.s88081.p4, Biocreative.d10336672.s88081_Biocreative.d10336672.s88081.p17, Biocreative.d10336672.s88081_Biocreative.d10336672.s88081.p25
+--------------------
+Text with Marker: Differential interaction of the tSXV motifs of the NR1 and NR2A NMDA receptor subunits with PSD-95 and [E1]SAP97[/E1].[E2][/E2]
+Found in IDs: Biocreative.d10336672.s60128_Biocreative.d10336672.s60128.p3, Biocreative.d10336672.s60128_Biocreative.d10336672.s60128.p6, Biocreative.d10336672.s60128_Biocreative.d10336672.s60128.p9, Biocreative.d10336672.s60128_Biocreative.d10336672.s60128.p11, Biocreative.d10336672.s60128_Biocreative.d10336672.s60128.p21, Biocreative.d10336672.s60128_Biocreative.d10336672.s60128.p28
+--------------------
+Text with Marker: Differential interaction of the tSXV motifs of the NR1 and NR2A NMDA receptor subunits with [E1]PSD-95[/E1] and SAP97.[E2][/E2]
+Found in IDs: Biocreative.d10336672.s60128_Biocreative.d10336672.s60128.p5, Biocreative.d10336672.s60128_Biocreative.d10336672.s60128.p13
+--------------------
+Text with Marker: This interaction occurs through the binding of the C-terminal tSXV intracellular motif of the NR2B subunit to the N-terminal PDZ (PSD-95, discs-large, ZO-1) domains of the PSD-95 and [E1]SAP97[/E1] proteins.[E2][/E2]
+Found in IDs: Biocreative.d10336672.s34593_Biocreative.d10336672.s34593.p8, Biocreative.d10336672.s34593_Biocreative.d10336672.s34593.p15
+--------------------
+Text with Marker: This interaction occurs through the binding of the C-terminal tSXV intracellular motif of the NR2B subunit to the N-terminal PDZ (PSD-95, discs-large, ZO-1) domains of the [E1]PSD-95[/E1] and SAP97 proteins.[E2][/E2]
+Found in IDs: Biocreative.d10336672.s34593_Biocreative.d10336672.s34593.p14, Biocreative.d10336672.s34593_Biocreative.d10336672.s34593.p24, Biocreative.d10336672.s34593_Biocreative.d10336672.s34593.p26
+--------------------
+Text with Marker: This interaction occurs through the binding of the C-terminal tSXV intracellular motif of the NR2B subunit to the N-terminal PDZ ([E1]PSD-95[/E1], discs-large, ZO-1) domains of the PSD-95 and SAP97 proteins.[E2][/E2]
+Found in IDs: Biocreative.d10336672.s34593_Biocreative.d10336672.s34593.p18, Biocreative.d10336672.s34593_Biocreative.d10336672.s34593.p27
+--------------------
+Text with Marker: Peptides derived from this domain were able to completely inhibit the dimerization of [E1]BAD[/E1] with BCL-XL.[E2][/E2]
+Found in IDs: Biocreative.d9388232.s94845_Biocreative.d9388232.s94845.p0, Biocreative.d9388232.s94845_Biocreative.d9388232.s94845.p42
+--------------------
+Text with Marker: Identification of a BH-3 domain and analysis of its binding to mutant [E1]BCL-2[/E1] and BCL-XL proteins.[E2][/E2]
+Found in IDs: Biocreative.d9388232.s78972_Biocreative.d9388232.s78972.p1, Biocreative.d9388232.s78972_Biocreative.d9388232.s78972.p11, Biocreative.d9388232.s78972_Biocreative.d9388232.s78972.p18, Biocreative.d9388232.s78972_Biocreative.d9388232.s78972.p20, Biocreative.d9388232.s78972_Biocreative.d9388232.s78972.p46
+--------------------
+Text with Marker: To further analyze the role of BAD in the network of homo- and heterodimers formed by the BCL-2 family, we have cloned the human homologue of BAD and assessed its biological activity and its interactions with wild type and mutant [E1]BCL-2[/E1] family proteins.[E2][/E2]
+Found in IDs: Biocreative.d9388232.s81222_Biocreative.d9388232.s81222.p3, Biocreative.d9388232.s81222_Biocreative.d9388232.s81222.p43, Biocreative.d9388232.s81222_Biocreative.d9388232.s81222.p47
+--------------------
+Text with Marker: Identification of a BH-3 domain and analysis of its binding to mutant BCL-2 and [E1]BCL-XL[/E1] proteins.[E2][/E2]
+Found in IDs: Biocreative.d9388232.s78972_Biocreative.d9388232.s78972.p4, Biocreative.d9388232.s78972_Biocreative.d9388232.s78972.p13, Biocreative.d9388232.s78972_Biocreative.d9388232.s78972.p38, Biocreative.d9388232.s78972_Biocreative.d9388232.s78972.p48, Biocreative.d9388232.s78972_Biocreative.d9388232.s78972.p50
+--------------------
+Text with Marker: Sequence analysis suggested that Bad was a member of the [E1]BCL-2[/E1] gene family that encodes both inducers and inhibitors of programmed cell death.[E2][/E2]
+Found in IDs: Biocreative.d9388232.s33622_Biocreative.d9388232.s33622.p5, Biocreative.d9388232.s33622_Biocreative.d9388232.s33622.p8, Biocreative.d9388232.s33622_Biocreative.d9388232.s33622.p31, Biocreative.d9388232.s33622_Biocreative.d9388232.s33622.p41
+--------------------
+Text with Marker: Thus, as previously shown for BAX, BAK, [E1]BCL-2[/E1], and BCL-XL, the BH3 domain of BAD is required for its dimerization with other BCL-2 family proteins.[E2][/E2]
+Found in IDs: Biocreative.d9388232.s89568_Biocreative.d9388232.s89568.p6, Biocreative.d9388232.s89568_Biocreative.d9388232.s89568.p34
+--------------------
+Text with Marker: Furthermore, in yeast two-hybrid assays as well as quantitative in vitro interaction assays, human Bad interacted with BCL-2 and [E1]BCL-XL[/E1].[E2][/E2]
+Found in IDs: Biocreative.d9388232.s57296_Biocreative.d9388232.s57296.p9, Biocreative.d9388232.s57296_Biocreative.d9388232.s57296.p15, Biocreative.d9388232.s57296_Biocreative.d9388232.s57296.p17, Biocreative.d9388232.s57296_Biocreative.d9388232.s57296.p21
+--------------------
+Text with Marker: To further analyze the role of BAD in the network of homo- and heterodimers formed by the [E1]BCL-2[/E1] family, we have cloned the human homologue of BAD and assessed its biological activity and its interactions with wild type and mutant BCL-2 family proteins.[E2][/E2]
+Found in IDs: Biocreative.d9388232.s81222_Biocreative.d9388232.s81222.p10, Biocreative.d9388232.s81222_Biocreative.d9388232.s81222.p16, Biocreative.d9388232.s81222_Biocreative.d9388232.s81222.p26, Biocreative.d9388232.s81222_Biocreative.d9388232.s81222.p33, Biocreative.d9388232.s81222_Biocreative.d9388232.s81222.p40
+--------------------
+Text with Marker: Dimerization properties of human [E1]BAD[/E1].[E2][/E2]
+Found in IDs: Biocreative.d9388232.s71131_Biocreative.d9388232.s71131.p12, Biocreative.d9388232.s71131_Biocreative.d9388232.s71131.p14
+--------------------
+Text with Marker: Sequence alignments of human BAD revealed the presence of a BH-3 homology domain as seen in other [E1]BCL-2[/E1] family proteins.[E2][/E2]
+Found in IDs: Biocreative.d9388232.s22051_Biocreative.d9388232.s22051.p22, Biocreative.d9388232.s22051_Biocreative.d9388232.s22051.p25, Biocreative.d9388232.s22051_Biocreative.d9388232.s22051.p32
+--------------------
+Text with Marker: Peptides derived from this domain were able to completely inhibit the dimerization of BAD with [E1]BCL-XL[/E1].[E2][/E2]
+Found in IDs: Biocreative.d9388232.s94845_Biocreative.d9388232.s94845.p23, Biocreative.d9388232.s94845_Biocreative.d9388232.s94845.p45, Biocreative.d9388232.s94845_Biocreative.d9388232.s94845.p49
+--------------------
+Text with Marker: Thus, as previously shown for BAX, BAK, BCL-2, and [E1]BCL-XL[/E1], the BH3 domain of BAD is required for its dimerization with other BCL-2 family proteins.[E2][/E2]
+Found in IDs: Biocreative.d9388232.s89568_Biocreative.d9388232.s89568.p24, Biocreative.d9388232.s89568_Biocreative.d9388232.s89568.p44
+--------------------
+Text with Marker: Furthermore, in yeast two-hybrid assays as well as quantitative in vitro interaction assays, human Bad interacted with [E1]BCL-2[/E1] and BCL-XL.[E2][/E2]
+Found in IDs: Biocreative.d9388232.s57296_Biocreative.d9388232.s57296.p29, Biocreative.d9388232.s57296_Biocreative.d9388232.s57296.p37
+--------------------
+Text with Marker: To further analyze the role of BAD in the network of homo- and heterodimers formed by the BCL-2 family, we have cloned the human homologue of [E1]BAD[/E1] and assessed its biological activity and its interactions with wild type and mutant BCL-2 family proteins.[E2][/E2]
+Found in IDs: Biocreative.d9388232.s81222_Biocreative.d9388232.s81222.p30, Biocreative.d9388232.s81222_Biocreative.d9388232.s81222.p36
+--------------------
+Text with Marker: One domain involves a minimal region of 73 amino acids in the C-terminal cytoplasmic tail of PKD2 shown previously to constitute an interacting domain with [E1]PKD1[/E1].[E2][/E2]
+Found in IDs: Biocreative.d10097141.s16922_Biocreative.d10097141.s16922.p0, Biocreative.d10097141.s16922_Biocreative.d10097141.s16922.p10
+--------------------
+Text with Marker: While PKD1 encodes a large integral membrane protein containing several structural motifs found in known proteins involved in cell-cell or cell-matrix interactions, PKD2 has homology to [E1]PKD1[/E1] and the major subunit of the voltage-activated Ca2+ channels.[E2][/E2]
+Found in IDs: Biocreative.d10097141.s73680_Biocreative.d10097141.s73680.p1, Biocreative.d10097141.s73680_Biocreative.d10097141.s73680.p2, Biocreative.d10097141.s73680_Biocreative.d10097141.s73680.p5
+--------------------
+Text with Marker: Specific association of the gene product of PKD2 with the [E1]TRPC1[/E1] channel.[E2][/E2]
+Found in IDs: Biocreative.d10097141.s16001_Biocreative.d10097141.s16001.p3, Biocreative.d10097141.s16001_Biocreative.d10097141.s16001.p8, Biocreative.d10097141.s16001_Biocreative.d10097141.s16001.p9, Biocreative.d10097141.s16001_Biocreative.d10097141.s16001.p16, Biocreative.d10097141.s16001_Biocreative.d10097141.s16001.p17
+--------------------
+Text with Marker: The function(s) of the genes ([E1]PKD1[/E1] and PKD2) responsible for the majority of cases of autosomal dominant polycystic kidney disease is unknown.[E2][/E2]
+Found in IDs: Biocreative.d10097141.s77308_Biocreative.d10097141.s77308.p4, Biocreative.d10097141.s77308_Biocreative.d10097141.s77308.p6, Biocreative.d10097141.s77308_Biocreative.d10097141.s77308.p13
+--------------------
+Text with Marker: While [E1]PKD1[/E1] encodes a large integral membrane protein containing several structural motifs found in known proteins involved in cell-cell or cell-matrix interactions, PKD2 has homology to PKD1 and the major subunit of the voltage-activated Ca2+ channels.[E2][/E2]
+Found in IDs: Biocreative.d10097141.s73680_Biocreative.d10097141.s73680.p11, Biocreative.d10097141.s73680_Biocreative.d10097141.s73680.p12, Biocreative.d10097141.s73680_Biocreative.d10097141.s73680.p15
+--------------------
+Text with Marker: The tumor suppressor phosphatase PTEN is a key regulator of cell growth and apoptosis that interacts with PDZ domains from regulatory proteins, including [E1]MAGI-1/2/3[/E1], hDlg, and MAST205.[E2][/E2]
+Found in IDs: Biocreative.d15951562.s88288_Biocreative.d15951562.s88288.p0, Biocreative.d15951562.s88288_Biocreative.d15951562.s88288.p2, Biocreative.d15951562.s88288_Biocreative.d15951562.s88288.p3
+--------------------
+Text with Marker: The tumor suppressor phosphatase PTEN is a key regulator of cell growth and apoptosis that interacts with PDZ domains from regulatory proteins, including MAGI-1/2/3, [E1]hDlg[/E1], and MAST205.[E2][/E2]
+Found in IDs: Biocreative.d15951562.s88288_Biocreative.d15951562.s88288.p1, Biocreative.d15951562.s88288_Biocreative.d15951562.s88288.p4, Biocreative.d15951562.s88288_Biocreative.d15951562.s88288.p5, Biocreative.d15951562.s88288_Biocreative.d15951562.s88288.p8
+--------------------
+Text with Marker: The tumor suppressor phosphatase PTEN is a key regulator of cell growth and apoptosis that interacts with PDZ domains from regulatory proteins, including MAGI-1/2/3, hDlg, and [E1]MAST205[/E1].[E2][/E2]
+Found in IDs: Biocreative.d15951562.s88288_Biocreative.d15951562.s88288.p6, Biocreative.d15951562.s88288_Biocreative.d15951562.s88288.p7, Biocreative.d15951562.s88288_Biocreative.d15951562.s88288.p9
+--------------------
+Text with Marker: Here we identified novel PTEN-binding PDZ domains within the [E1]MAST205[/E1]-related proteins, syntrophin-associated serine/threonine kinase and MAST3, characterized the regions of PTEN involved in its interaction with distinctive PDZ domains, and analyzed the functional consequences on PTEN of PDZ domain binding.[E2][/E2]
+Found in IDs: Biocreative.d15951562.s43850_Biocreative.d15951562.s43850.p10, Biocreative.d15951562.s43850_Biocreative.d15951562.s43850.p11, Biocreative.d15951562.s43850_Biocreative.d15951562.s43850.p12
+--------------------
+Text with Marker: Yth1 was previously shown to interact with pre-mRNA and with two CPF subunits, [E1]Brr5[/E1]/Ysh1 and the polyadenylation-specific Fip1, and to act in both steps of mRNA 3' end processing.[E2][/E2]
+Found in IDs: Biocreative.d12626716.s54977_Biocreative.d12626716.s54977.p0, Biocreative.d12626716.s54977_Biocreative.d12626716.s54977.p3, Biocreative.d12626716.s54977_Biocreative.d12626716.s54977.p4
+--------------------
+Text with Marker: Yth1 was previously shown to interact with pre-mRNA and with two CPF subunits, Brr5/[E1]Ysh1[/E1] and the polyadenylation-specific Fip1, and to act in both steps of mRNA 3' end processing.[E2][/E2]
+Found in IDs: Biocreative.d12626716.s54977_Biocreative.d12626716.s54977.p1, Biocreative.d12626716.s54977_Biocreative.d12626716.s54977.p5, Biocreative.d12626716.s54977_Biocreative.d12626716.s54977.p6
+--------------------
+Text with Marker: Deletion of the essential N-terminal region that includes the ZF1 or deletion of ZF4 weakened the interaction with [E1]Brr5[/E1] in vitro.[E2][/E2]
+Found in IDs: Biocreative.d12626716.s9651_Biocreative.d12626716.s9651.p8, Biocreative.d12626716.s9651_Biocreative.d12626716.s9651.p9
+--------------------
+Text with Marker: [E1]S100A6[/E1] and S100A11 are specific targets of the calcium- and zinc-binding S100B protein in vivo.[E2][/E2]
+Found in IDs: Biocreative.d10913138.s29217_Biocreative.d10913138.s29217.p0, Biocreative.d10913138.s29217_Biocreative.d10913138.s29217.p2, Biocreative.d10913138.s29217_Biocreative.d10913138.s29217.p3, Biocreative.d10913138.s29217_Biocreative.d10913138.s29217.p6, Biocreative.d10913138.s29217_Biocreative.d10913138.s29217.p8, Biocreative.d10913138.s29217_Biocreative.d10913138.s29217.p10, Biocreative.d10913138.s29217_Biocreative.d10913138.s29217.p11, Biocreative.d10913138.s29217_Biocreative.d10913138.s29217.p14
+--------------------
+Text with Marker: S100A6 and [E1]S100A11[/E1] are specific targets of the calcium- and zinc-binding S100B protein in vivo.[E2][/E2]
+Found in IDs: Biocreative.d10913138.s29217_Biocreative.d10913138.s29217.p1, Biocreative.d10913138.s29217_Biocreative.d10913138.s29217.p4, Biocreative.d10913138.s29217_Biocreative.d10913138.s29217.p5, Biocreative.d10913138.s29217_Biocreative.d10913138.s29217.p7, Biocreative.d10913138.s29217_Biocreative.d10913138.s29217.p9, Biocreative.d10913138.s29217_Biocreative.d10913138.s29217.p12, Biocreative.d10913138.s29217_Biocreative.d10913138.s29217.p13, Biocreative.d10913138.s29217_Biocreative.d10913138.s29217.p15
+--------------------
+Text with Marker: Using S100B as bait, we identify [E1]S100A6[/E1] and S100A11 as specific targets for S100B.[E2][/E2]
+Found in IDs: Biocreative.d10913138.s769_Biocreative.d10913138.s769.p16, Biocreative.d10913138.s769_Biocreative.d10913138.s769.p17, Biocreative.d10913138.s769_Biocreative.d10913138.s769.p20, Biocreative.d10913138.s769_Biocreative.d10913138.s769.p22, Biocreative.d10913138.s769_Biocreative.d10913138.s769.p24, Biocreative.d10913138.s769_Biocreative.d10913138.s769.p25, Biocreative.d10913138.s769_Biocreative.d10913138.s769.p28
+--------------------
+Text with Marker: Using S100B as bait, we identify S100A6 and [E1]S100A11[/E1] as specific targets for S100B.[E2][/E2]
+Found in IDs: Biocreative.d10913138.s769_Biocreative.d10913138.s769.p18, Biocreative.d10913138.s769_Biocreative.d10913138.s769.p19, Biocreative.d10913138.s769_Biocreative.d10913138.s769.p21, Biocreative.d10913138.s769_Biocreative.d10913138.s769.p23, Biocreative.d10913138.s769_Biocreative.d10913138.s769.p26, Biocreative.d10913138.s769_Biocreative.d10913138.s769.p27, Biocreative.d10913138.s769_Biocreative.d10913138.s769.p29
+--------------------
+Text with Marker: [E1]S100A1[/E1], the closest homologue of S100B, is capable of interaction with S100B but does not interact with S100A6 or S100A11.[E2][/E2]
+Found in IDs: Biocreative.d10913138.s90548_Biocreative.d10913138.s90548.p30, Biocreative.d10913138.s90548_Biocreative.d10913138.s90548.p31, Biocreative.d10913138.s90548_Biocreative.d10913138.s90548.p34, Biocreative.d10913138.s90548_Biocreative.d10913138.s90548.p35, Biocreative.d10913138.s90548_Biocreative.d10913138.s90548.p38, Biocreative.d10913138.s90548_Biocreative.d10913138.s90548.p39, Biocreative.d10913138.s90548_Biocreative.d10913138.s90548.p44, Biocreative.d10913138.s90548_Biocreative.d10913138.s90548.p45
+--------------------
+Text with Marker: S100A1, the closest homologue of S100B, is capable of interaction with S100B but does not interact with [E1]S100A6[/E1] or S100A11.[E2][/E2]
+Found in IDs: Biocreative.d10913138.s90548_Biocreative.d10913138.s90548.p32, Biocreative.d10913138.s90548_Biocreative.d10913138.s90548.p36, Biocreative.d10913138.s90548_Biocreative.d10913138.s90548.p40, Biocreative.d10913138.s90548_Biocreative.d10913138.s90548.p41, Biocreative.d10913138.s90548_Biocreative.d10913138.s90548.p46
+--------------------
+Text with Marker: S100A1, the closest homologue of S100B, is capable of interaction with S100B but does not interact with S100A6 or [E1]S100A11[/E1].[E2][/E2]
+Found in IDs: Biocreative.d10913138.s90548_Biocreative.d10913138.s90548.p33, Biocreative.d10913138.s90548_Biocreative.d10913138.s90548.p37, Biocreative.d10913138.s90548_Biocreative.d10913138.s90548.p42, Biocreative.d10913138.s90548_Biocreative.d10913138.s90548.p43, Biocreative.d10913138.s90548_Biocreative.d10913138.s90548.p47
+--------------------
+Text with Marker: S100B, [E1]S100A6[/E1], and S100A11 isoforms are co-regulated and co-localized in astrocytoma U373 cells.[E2][/E2]
+Found in IDs: Biocreative.d10913138.s58812_Biocreative.d10913138.s58812.p48, Biocreative.d10913138.s58812_Biocreative.d10913138.s58812.p50, Biocreative.d10913138.s58812_Biocreative.d10913138.s58812.p51, Biocreative.d10913138.s58812_Biocreative.d10913138.s58812.p54
+--------------------
+Text with Marker: S100B, S100A6, and [E1]S100A11[/E1] isoforms are co-regulated and co-localized in astrocytoma U373 cells.[E2][/E2]
+Found in IDs: Biocreative.d10913138.s58812_Biocreative.d10913138.s58812.p49, Biocreative.d10913138.s58812_Biocreative.d10913138.s58812.p52, Biocreative.d10913138.s58812_Biocreative.d10913138.s58812.p53, Biocreative.d10913138.s58812_Biocreative.d10913138.s58812.p55
+--------------------
+Text with Marker: Furthermore, co-immunoprecipitation experiments demonstrated that Ca(2+)/Zn(2+) stabilizes S100B-[E1]S100A6[/E1] and S100B-S100A11 heterocomplexes.[E2][/E2]
+Found in IDs: Biocreative.d10913138.s71010_Biocreative.d10913138.s71010.p56, Biocreative.d10913138.s71010_Biocreative.d10913138.s71010.p57, Biocreative.d10913138.s71010_Biocreative.d10913138.s71010.p60
+--------------------
+Text with Marker: Furthermore, co-immunoprecipitation experiments demonstrated that Ca(2+)/Zn(2+) stabilizes S100B-S100A6 and S100B-[E1]S100A11[/E1] heterocomplexes.[E2][/E2]
+Found in IDs: Biocreative.d10913138.s71010_Biocreative.d10913138.s71010.p58, Biocreative.d10913138.s71010_Biocreative.d10913138.s71010.p59, Biocreative.d10913138.s71010_Biocreative.d10913138.s71010.p61
+--------------------
+Text with Marker: Deletion of the C-terminal domain or mutation of Phe(87) and Phe(88) residues has no effect on S100B homodimerization and heterodimerization with [E1]S100A1[/E1] but drastically decreases interaction between S100B and S100A6 or S100A11.[E2][/E2]
+Found in IDs: Biocreative.d10913138.s29651_Biocreative.d10913138.s29651.p62, Biocreative.d10913138.s29651_Biocreative.d10913138.s29651.p63
+--------------------
+Text with Marker: A specific domain in alpha-catenin mediates binding to [E1]beta-catenin[/E1] or plakoglobin.[E2][/E2]
+Found in IDs: Biocreative.d9264463.s32563_Biocreative.d9264463.s32563.p1, Biocreative.d9264463.s32563_Biocreative.d9264463.s32563.p4, Biocreative.d9264463.s32563_Biocreative.d9264463.s32563.p15, Biocreative.d9264463.s32563_Biocreative.d9264463.s32563.p18
+--------------------
+Text with Marker: A specific domain in alpha-catenin mediates binding to beta-catenin or [E1]plakoglobin[/E1].[E2][/E2]
+Found in IDs: Biocreative.d9264463.s32563_Biocreative.d9264463.s32563.p2, Biocreative.d9264463.s32563_Biocreative.d9264463.s32563.p3, Biocreative.d9264463.s32563_Biocreative.d9264463.s32563.p13, Biocreative.d9264463.s32563_Biocreative.d9264463.s32563.p17
+--------------------
+Text with Marker: Recently we have identified an alpha-catenin binding site in [E1]beta-catenin[/E1] and plakoglobin and postulated, based on sequence analysis, that these protein-protein interactions are mediated by a hydrophobic interaction mechanism.[E2][/E2]
+Found in IDs: Biocreative.d9264463.s38796_Biocreative.d9264463.s38796.p5, Biocreative.d9264463.s38796_Biocreative.d9264463.s38796.p7
+--------------------
+Text with Marker: It is well established that the cytoplasmic domain of E-cadherin binds either [E1]beta-catenin[/E1] or plakoglobin, which both can assemble alpha-catenin into the complex.[E2][/E2]
+Found in IDs: Biocreative.d9264463.s76180_Biocreative.d9264463.s76180.p6, Biocreative.d9264463.s76180_Biocreative.d9264463.s76180.p10, Biocreative.d9264463.s76180_Biocreative.d9264463.s76180.p12
+--------------------
+Text with Marker: It is well established that the cytoplasmic domain of E-cadherin binds either beta-catenin or [E1]plakoglobin[/E1], which both can assemble alpha-catenin into the complex.[E2][/E2]
+Found in IDs: Biocreative.d9264463.s76180_Biocreative.d9264463.s76180.p9, Biocreative.d9264463.s76180_Biocreative.d9264463.s76180.p14, Biocreative.d9264463.s76180_Biocreative.d9264463.s76180.p16
+--------------------
+Text with Marker: In an effort to identify key domains of the Pseudomonas aeruginosa [E1]MexAB[/E1]-OprM drug efflux system involved in component interactions, extragenic suppressors of various inactivating mutations in individual pump constituents were isolated and studied. The multidrug hypersusceptibility of P.[E2][/E2]
+Found in IDs: Biocreative.d17586626.s30151_Biocreative.d17586626.s30151.p0, Biocreative.d17586626.s30151_Biocreative.d17586626.s30151.p3, Biocreative.d17586626.s30151_Biocreative.d17586626.s30151.p8, Biocreative.d17586626.s30151_Biocreative.d17586626.s30151.p12, Biocreative.d17586626.s30151_Biocreative.d17586626.s30151.p13, Biocreative.d17586626.s30151_Biocreative.d17586626.s30151.p17, Biocreative.d17586626.s30151_Biocreative.d17586626.s30151.p18, Biocreative.d17586626.s30151_Biocreative.d17586626.s30151.p19
+--------------------
+Text with Marker: Assembly of the MexAB-[E1]OprM[/E1] multidrug pump of Pseudomonas aeruginosa: component interactions defined by the study of pump mutant suppressors.[E2][/E2]
+Found in IDs: Biocreative.d17586626.s93456_Biocreative.d17586626.s93456.p1, Biocreative.d17586626.s93456_Biocreative.d17586626.s93456.p2, Biocreative.d17586626.s93456_Biocreative.d17586626.s93456.p4, Biocreative.d17586626.s93456_Biocreative.d17586626.s93456.p7, Biocreative.d17586626.s93456_Biocreative.d17586626.s93456.p10, Biocreative.d17586626.s93456_Biocreative.d17586626.s93456.p11, Biocreative.d17586626.s93456_Biocreative.d17586626.s93456.p15, Biocreative.d17586626.s93456_Biocreative.d17586626.s93456.p21
+--------------------
+Text with Marker: Assembly of the [E1]MexAB[/E1]-OprM multidrug pump of Pseudomonas aeruginosa: component interactions defined by the study of pump mutant suppressors.[E2][/E2]
+Found in IDs: Biocreative.d17586626.s93456_Biocreative.d17586626.s93456.p5, Biocreative.d17586626.s93456_Biocreative.d17586626.s93456.p6, Biocreative.d17586626.s93456_Biocreative.d17586626.s93456.p9, Biocreative.d17586626.s93456_Biocreative.d17586626.s93456.p14, Biocreative.d17586626.s93456_Biocreative.d17586626.s93456.p16, Biocreative.d17586626.s93456_Biocreative.d17586626.s93456.p20, Biocreative.d17586626.s93456_Biocreative.d17586626.s93456.p22, Biocreative.d17586626.s93456_Biocreative.d17586626.s93456.p23
+--------------------
+Text with Marker: [E1]Pex5[/E1] and Pex19 ligand helices bind competitively to the same surface in Pex14(N) albeit with opposite directionality.[E2][/E2]
+Found in IDs: Biocreative.d19197237.s82739_Biocreative.d19197237.s82739.p0, Biocreative.d19197237.s82739_Biocreative.d19197237.s82739.p19
+--------------------
+Text with Marker: Structural basis for competitive interactions of Pex14 with the import receptors Pex5 and [E1]Pex19[/E1].[E2][/E2]
+Found in IDs: Biocreative.d19197237.s80898_Biocreative.d19197237.s80898.p1, Biocreative.d19197237.s80898_Biocreative.d19197237.s80898.p2, Biocreative.d19197237.s80898_Biocreative.d19197237.s80898.p9, Biocreative.d19197237.s80898_Biocreative.d19197237.s80898.p13, Biocreative.d19197237.s80898_Biocreative.d19197237.s80898.p16
+--------------------
+Text with Marker: Pex14 is a central component of the peroxisomal import machinery and binds the soluble receptors Pex5 and [E1]Pex19[/E1], which have important function in the assembly of peroxisome matrix and membrane, respectively.[E2][/E2]
+Found in IDs: Biocreative.d19197237.s2257_Biocreative.d19197237.s2257.p3, Biocreative.d19197237.s2257_Biocreative.d19197237.s2257.p7, Biocreative.d19197237.s2257_Biocreative.d19197237.s2257.p8, Biocreative.d19197237.s2257_Biocreative.d19197237.s2257.p14, Biocreative.d19197237.s2257_Biocreative.d19197237.s2257.p21
+--------------------
+Text with Marker: Pex5 and [E1]Pex19[/E1] ligand helices bind competitively to the same surface in Pex14(N) albeit with opposite directionality.[E2][/E2]
+Found in IDs: Biocreative.d19197237.s82739_Biocreative.d19197237.s82739.p4, Biocreative.d19197237.s82739_Biocreative.d19197237.s82739.p11, Biocreative.d19197237.s82739_Biocreative.d19197237.s82739.p15
+--------------------
+Text with Marker: Structural basis for competitive interactions of Pex14 with the import receptors [E1]Pex5[/E1] and Pex19.[E2][/E2]
+Found in IDs: Biocreative.d19197237.s80898_Biocreative.d19197237.s80898.p5, Biocreative.d19197237.s80898_Biocreative.d19197237.s80898.p10, Biocreative.d19197237.s80898_Biocreative.d19197237.s80898.p18, Biocreative.d19197237.s80898_Biocreative.d19197237.s80898.p20
+--------------------
+Text with Marker: The molecular recognition involves conserved aromatic side chains in the Pex5 WxxxF/Y motif and a newly identified F/YFxxxF sequence in [E1]Pex19[/E1].[E2][/E2]
+Found in IDs: Biocreative.d19197237.s83619_Biocreative.d19197237.s83619.p6, Biocreative.d19197237.s83619_Biocreative.d19197237.s83619.p17
+--------------------
+Text with Marker: We have analyzed the contribution of specific residues of ERK2 in the physical and functional interaction with the ERK2 phosphatase inactivators PTP-SL and [E1]MKP-3[/E1] and with its activator MEK1.[E2][/E2]
+Found in IDs: Biocreative.d16148006.s35721_Biocreative.d16148006.s35721.p1, Biocreative.d16148006.s35721_Biocreative.d16148006.s35721.p2
+--------------------
+Text with Marker: Six TGA family members were tested and shown to differentially interact with NPR1: [E1]TGA2[/E1] and TGA3 showed strong affinity for NPR1; TGA5 and TGA6 exhibited weaker affinity; and TGA1 and TGA4 displayed little or no detectable interaction with NPR1, respectively.[E2][/E2]
+Found in IDs: Biocreative.d10659709.s75491_Biocreative.d10659709.s75491.p0, Biocreative.d10659709.s75491_Biocreative.d10659709.s75491.p2
+--------------------
+Text with Marker: Six TGA family members were tested and shown to differentially interact with NPR1: TGA2 and [E1]TGA3[/E1] showed strong affinity for NPR1; TGA5 and TGA6 exhibited weaker affinity; and TGA1 and TGA4 displayed little or no detectable interaction with NPR1, respectively.[E2][/E2]
+Found in IDs: Biocreative.d10659709.s75491_Biocreative.d10659709.s75491.p1, Biocreative.d10659709.s75491_Biocreative.d10659709.s75491.p3
+--------------------
+Text with Marker: SUN1 and SUN2 interact with lamin A, but lamin A is only required for NE localization of SUN2, and it remains unclear how SUN1 is anchored. Here, we identify emerin and short [E1]nesprin-2[/E1] isoforms as novel nucleoplasmic binding partners of SUN1/2.[E2][/E2]
+Found in IDs: Biocreative.d19933576.s42725_Biocreative.d19933576.s42725.p0, Biocreative.d19933576.s42725_Biocreative.d19933576.s42725.p1, Biocreative.d19933576.s42725_Biocreative.d19933576.s42725.p2, Biocreative.d19933576.s42725_Biocreative.d19933576.s42725.p3, Biocreative.d19933576.s42725_Biocreative.d19933576.s42725.p4, Biocreative.d19933576.s42725_Biocreative.d19933576.s42725.p5, Biocreative.d19933576.s42725_Biocreative.d19933576.s42725.p6, Biocreative.d19933576.s42725_Biocreative.d19933576.s42725.p7, Biocreative.d19933576.s42725_Biocreative.d19933576.s42725.p8
+--------------------
+Text with Marker: We show here that [E1]Cdc20[/E1], which had previously been shown to interact physically with Mad2 and Mad3, associates also with Bub3 and association is up-regulated upon checkpoint activation.[E2][/E2]
+Found in IDs: Biocreative.d11726501.s33357_Biocreative.d11726501.s33357.p0, Biocreative.d11726501.s33357_Biocreative.d11726501.s33357.p16, Biocreative.d11726501.s33357_Biocreative.d11726501.s33357.p32
+--------------------
+Text with Marker: Bub3 interaction with [E1]Mad2[/E1], Mad3 and Cdc20 is mediated by WD40 repeats and does not require intact kinetochores.[E2][/E2]
+Found in IDs: Biocreative.d11726501.s79975_Biocreative.d11726501.s79975.p1, Biocreative.d11726501.s79975_Biocreative.d11726501.s79975.p2, Biocreative.d11726501.s79975_Biocreative.d11726501.s79975.p6, Biocreative.d11726501.s79975_Biocreative.d11726501.s79975.p11, Biocreative.d11726501.s79975_Biocreative.d11726501.s79975.p26, Biocreative.d11726501.s79975_Biocreative.d11726501.s79975.p27
+--------------------
+Text with Marker: We show here that Cdc20, which had previously been shown to interact physically with Mad2 and [E1]Mad3[/E1], associates also with Bub3 and association is up-regulated upon checkpoint activation.[E2][/E2]
+Found in IDs: Biocreative.d11726501.s33357_Biocreative.d11726501.s33357.p3, Biocreative.d11726501.s33357_Biocreative.d11726501.s33357.p12
+--------------------
+Text with Marker: Bub3 interaction with Mad2, Mad3 and [E1]Cdc20[/E1] is mediated by WD40 repeats and does not require intact kinetochores.[E2][/E2]
+Found in IDs: Biocreative.d11726501.s79975_Biocreative.d11726501.s79975.p4, Biocreative.d11726501.s79975_Biocreative.d11726501.s79975.p20, Biocreative.d11726501.s79975_Biocreative.d11726501.s79975.p21, Biocreative.d11726501.s79975_Biocreative.d11726501.s79975.p30, Biocreative.d11726501.s79975_Biocreative.d11726501.s79975.p31
+--------------------
+Text with Marker: Bub3 interaction with Mad2, [E1]Mad3[/E1] and Cdc20 is mediated by WD40 repeats and does not require intact kinetochores.[E2][/E2]
+Found in IDs: Biocreative.d11726501.s79975_Biocreative.d11726501.s79975.p5, Biocreative.d11726501.s79975_Biocreative.d11726501.s79975.p7, Biocreative.d11726501.s79975_Biocreative.d11726501.s79975.p28
+--------------------
+Text with Marker: Moreover, co-fractionation experiments suggest that [E1]Mad2[/E1], Mad3 and Bub3 may be concomitantly present in protein complexes with Cdc20.[E2][/E2]
+Found in IDs: Biocreative.d11726501.s75909_Biocreative.d11726501.s75909.p8, Biocreative.d11726501.s75909_Biocreative.d11726501.s75909.p33
+--------------------
+Text with Marker: The kinetochore checkpoint pathway, involving the Mad1, Mad2, [E1]Mad3[/E1], Bub1, Bub3 and Mps1 proteins, prevents anaphase entry and mitotic exit by inhibiting the anaphase promoting complex activator Cdc20 in response to monopolar attachment of sister kinetochores to spindle fibres.[E2][/E2]
+Found in IDs: Biocreative.d11726501.s26634_Biocreative.d11726501.s26634.p9, Biocreative.d11726501.s26634_Biocreative.d11726501.s26634.p13, Biocreative.d11726501.s26634_Biocreative.d11726501.s26634.p29, Biocreative.d11726501.s26634_Biocreative.d11726501.s26634.p37
+--------------------
+Text with Marker: We show here that Cdc20, which had previously been shown to interact physically with [E1]Mad2[/E1] and Mad3, associates also with Bub3 and association is up-regulated upon checkpoint activation.[E2][/E2]
+Found in IDs: Biocreative.d11726501.s33357_Biocreative.d11726501.s33357.p10, Biocreative.d11726501.s33357_Biocreative.d11726501.s33357.p23
+--------------------
+Text with Marker: The kinetochore checkpoint pathway, involving the Mad1, [E1]Mad2[/E1], Mad3, Bub1, Bub3 and Mps1 proteins, prevents anaphase entry and mitotic exit by inhibiting the anaphase promoting complex activator Cdc20 in response to monopolar attachment of sister kinetochores to spindle fibres.[E2][/E2]
+Found in IDs: Biocreative.d11726501.s26634_Biocreative.d11726501.s26634.p14, Biocreative.d11726501.s26634_Biocreative.d11726501.s26634.p24
+--------------------
+Text with Marker: The kinetochore checkpoint pathway, involving the Mad1, Mad2, Mad3, Bub1, Bub3 and Mps1 proteins, prevents anaphase entry and mitotic exit by inhibiting the anaphase promoting complex activator [E1]Cdc20[/E1] in response to monopolar attachment of sister kinetochores to spindle fibres.[E2][/E2]
+Found in IDs: Biocreative.d11726501.s26634_Biocreative.d11726501.s26634.p15, Biocreative.d11726501.s26634_Biocreative.d11726501.s26634.p34, Biocreative.d11726501.s26634_Biocreative.d11726501.s26634.p35, Biocreative.d11726501.s26634_Biocreative.d11726501.s26634.p38
+--------------------
+Text with Marker: Moreover, co-fractionation experiments suggest that Mad2, Mad3 and Bub3 may be concomitantly present in protein complexes with [E1]Cdc20[/E1].[E2][/E2]
+Found in IDs: Biocreative.d11726501.s75909_Biocreative.d11726501.s75909.p18, Biocreative.d11726501.s75909_Biocreative.d11726501.s75909.p19, Biocreative.d11726501.s75909_Biocreative.d11726501.s75909.p36
+--------------------
+Text with Marker: Eight FA complementation groups have been identified. The FANCA, FANCC, FANCE, FANCF, and FANCG proteins form a nuclear complex required for the monoubiquination of the [E1]FANCD2[/E1] protein.[E2][/E2]
+Found in IDs: Biocreative.d12649160.s94133_Biocreative.d12649160.s94133.p1, Biocreative.d12649160.s94133_Biocreative.d12649160.s94133.p4, Biocreative.d12649160.s94133_Biocreative.d12649160.s94133.p7, Biocreative.d12649160.s94133_Biocreative.d12649160.s94133.p14, Biocreative.d12649160.s94133_Biocreative.d12649160.s94133.p18, Biocreative.d12649160.s94133_Biocreative.d12649160.s94133.p24
+--------------------
+Text with Marker: Eight FA complementation groups have been identified. The [E1]FANCA[/E1], FANCC, FANCE, FANCF, and FANCG proteins form a nuclear complex required for the monoubiquination of the FANCD2 protein.[E2][/E2]
+Found in IDs: Biocreative.d12649160.s94133_Biocreative.d12649160.s94133.p2, Biocreative.d12649160.s94133_Biocreative.d12649160.s94133.p15
+--------------------
+Text with Marker: To investigate the architecture of the FA protein complex, the yeast 2-hybrid system was used to map contact points of the FANCA/FANCG, FANCC/[E1]FANCE[/E1], and FANCF/FANCG interactions.[E2][/E2]
+Found in IDs: Biocreative.d12649160.s74262_Biocreative.d12649160.s74262.p3, Biocreative.d12649160.s74262_Biocreative.d12649160.s74262.p12
+--------------------
+Text with Marker: The interaction between [E1]FANCG[/E1] and FANCF was ablated by a Leu71Pro mutant of FANCG.[E2][/E2]
+Found in IDs: Biocreative.d12649160.s38660_Biocreative.d12649160.s38660.p6, Biocreative.d12649160.s38660_Biocreative.d12649160.s38660.p10, Biocreative.d12649160.s38660_Biocreative.d12649160.s38660.p20
+--------------------
+Text with Marker: FANCG was shown to interact with both the amino-terminus of [E1]FANCA[/E1] and the carboxyl-terminal region of FANCF.[E2][/E2]
+Found in IDs: Biocreative.d12649160.s72211_Biocreative.d12649160.s72211.p8, Biocreative.d12649160.s72211_Biocreative.d12649160.s72211.p32
+--------------------
+Text with Marker: To investigate the architecture of the FA protein complex, the yeast 2-hybrid system was used to map contact points of the FANCA/FANCG, FANCC/FANCE, and [E1]FANCF[/E1]/FANCG interactions.[E2][/E2]
+Found in IDs: Biocreative.d12649160.s74262_Biocreative.d12649160.s74262.p13, Biocreative.d12649160.s74262_Biocreative.d12649160.s74262.p31
+--------------------
+Text with Marker: Eight FA complementation groups have been identified. The FANCA, [E1]FANCC[/E1], FANCE, FANCF, and FANCG proteins form a nuclear complex required for the monoubiquination of the FANCD2 protein.[E2][/E2]
+Found in IDs: Biocreative.d12649160.s94133_Biocreative.d12649160.s94133.p22, Biocreative.d12649160.s94133_Biocreative.d12649160.s94133.p25, Biocreative.d12649160.s94133_Biocreative.d12649160.s94133.p26, Biocreative.d12649160.s94133_Biocreative.d12649160.s94133.p33
+--------------------
+Text with Marker: While SEMCAP-1(GIPC) also interacts with [E1]SemC[/E1], it does not interact with other proteins containing a class I PDZ binding motif, nor does M-SemF interact with other class I PDZ proteins.[E2][/E2]
+Found in IDs: Biocreative.d10318831.s90388_Biocreative.d10318831.s90388.p5, Biocreative.d10318831.s90388_Biocreative.d10318831.s90388.p6
+--------------------
+Text with Marker: The third subunit, DPM3, comprises 92 amino acids associated with DPM1 via its C-terminal domain and with [E1]DPM2[/E1] via its N-terminal portion.[E2][/E2]
+Found in IDs: Biocreative.d10835346.s15769_Biocreative.d10835346.s15769.p0, Biocreative.d10835346.s15769_Biocreative.d10835346.s15769.p17, Biocreative.d10835346.s15769_Biocreative.d10835346.s15769.p19
+--------------------
+Text with Marker: We reported previously that mammalian DPM synthase contains catalytic DPM1 and regulatory DPM2 subunits, and that [E1]DPM1[/E1] requires DPM2 for its stable expression in the endoplasmic reticulum.[E2][/E2]
+Found in IDs: Biocreative.d10835346.s90028_Biocreative.d10835346.s90028.p2, Biocreative.d10835346.s90028_Biocreative.d10835346.s90028.p4, Biocreative.d10835346.s90028_Biocreative.d10835346.s90028.p5, Biocreative.d10835346.s90028_Biocreative.d10835346.s90028.p20
+--------------------
+Text with Marker: Human dolichol-phosphate-mannose synthase consists of three subunits, [E1]DPM1[/E1], DPM2 and DPM3.[E2][/E2]
+Found in IDs: Biocreative.d10835346.s37189_Biocreative.d10835346.s37189.p3, Biocreative.d10835346.s37189_Biocreative.d10835346.s37189.p7, Biocreative.d10835346.s37189_Biocreative.d10835346.s37189.p10, Biocreative.d10835346.s37189_Biocreative.d10835346.s37189.p26, Biocreative.d10835346.s37189_Biocreative.d10835346.s37189.p28
+--------------------
+Text with Marker: We reported previously that mammalian DPM synthase contains catalytic DPM1 and regulatory [E1]DPM2[/E1] subunits, and that DPM1 requires DPM2 for its stable expression in the endoplasmic reticulum.[E2][/E2]
+Found in IDs: Biocreative.d10835346.s90028_Biocreative.d10835346.s90028.p6, Biocreative.d10835346.s90028_Biocreative.d10835346.s90028.p11
+--------------------
+Text with Marker: We reported previously that mammalian DPM synthase contains catalytic [E1]DPM1[/E1] and regulatory DPM2 subunits, and that DPM1 requires DPM2 for its stable expression in the endoplasmic reticulum.[E2][/E2]
+Found in IDs: Biocreative.d10835346.s90028_Biocreative.d10835346.s90028.p9, Biocreative.d10835346.s90028_Biocreative.d10835346.s90028.p15, Biocreative.d10835346.s90028_Biocreative.d10835346.s90028.p22
+--------------------
+Text with Marker: Human dolichol-phosphate-mannose synthase consists of three subunits, DPM1, [E1]DPM2[/E1] and DPM3.[E2][/E2]
+Found in IDs: Biocreative.d10835346.s37189_Biocreative.d10835346.s37189.p12, Biocreative.d10835346.s37189_Biocreative.d10835346.s37189.p13, Biocreative.d10835346.s37189_Biocreative.d10835346.s37189.p25
+--------------------
+Text with Marker: We reported previously that mammalian DPM synthase contains catalytic DPM1 and regulatory DPM2 subunits, and that DPM1 requires [E1]DPM2[/E1] for its stable expression in the endoplasmic reticulum.[E2][/E2]
+Found in IDs: Biocreative.d10835346.s90028_Biocreative.d10835346.s90028.p14, Biocreative.d10835346.s90028_Biocreative.d10835346.s90028.p27
+--------------------
+Text with Marker: However, overexpression of DPM3 in Lec15 cells, a null mutant of DPM2, restored the biosynthesis of DPM with an increase in [E1]DPM1[/E1], indicating that DPM3 directly stabilized DPM1.[E2][/E2]
+Found in IDs: Biocreative.d10835346.s37256_Biocreative.d10835346.s37256.p16, Biocreative.d10835346.s37256_Biocreative.d10835346.s37256.p18
+--------------------
+Text with Marker: However, overexpression of DPM3 in Lec15 cells, a null mutant of DPM2, restored the biosynthesis of DPM with an increase in DPM1, indicating that DPM3 directly stabilized [E1]DPM1[/E1].[E2][/E2]
+Found in IDs: Biocreative.d10835346.s37256_Biocreative.d10835346.s37256.p21, Biocreative.d10835346.s37256_Biocreative.d10835346.s37256.p23
+--------------------
+Text with Marker: In this study we demonstrate that [E1]IRS-1[/E1], SHC, and the p85 subunit of phosphatidylinositol 3-kinase interact directly and specifically with the IGFIR.[E2][/E2]
+Found in IDs: Biocreative.d7541045.s37909_Biocreative.d7541045.s37909.p0, Biocreative.d7541045.s37909_Biocreative.d7541045.s37909.p14, Biocreative.d7541045.s37909_Biocreative.d7541045.s37909.p20, Biocreative.d7541045.s37909_Biocreative.d7541045.s37909.p30, Biocreative.d7541045.s37909_Biocreative.d7541045.s37909.p45
+--------------------
+Text with Marker: Insulin receptor substrate-1 (IRS-1) and [E1]SHC[/E1] become rapidly phosphorylated upon tyrosines after insulin-like growth factor I receptor (IGFIR) activation.[E2][/E2]
+Found in IDs: Biocreative.d7541045.s56399_Biocreative.d7541045.s56399.p1, Biocreative.d7541045.s56399_Biocreative.d7541045.s56399.p8, Biocreative.d7541045.s56399_Biocreative.d7541045.s56399.p17, Biocreative.d7541045.s56399_Biocreative.d7541045.s56399.p31
+--------------------
+Text with Marker: The interaction of all three proteins is dependent upon IGFIR kinase activity and, furthermore, substitution of Tyr-950 with Phe within the NPEY motif of the IGFIR eliminated interaction with both SHC and [E1]IRS-1[/E1] but had no effect upon p85 interaction.[E2][/E2]
+Found in IDs: Biocreative.d7541045.s72238_Biocreative.d7541045.s72238.p2, Biocreative.d7541045.s72238_Biocreative.d7541045.s72238.p6, Biocreative.d7541045.s72238_Biocreative.d7541045.s72238.p44
+--------------------
+Text with Marker: We show that residues 160-516 of [E1]IRS-1 and 1[/E1]-238 of SHC are sufficient and necessary for receptor interaction in the yeast two-hybrid assay.[E2][/E2]
+Found in IDs: Biocreative.d7541045.s66046_Biocreative.d7541045.s66046.p3, Biocreative.d7541045.s66046_Biocreative.d7541045.s66046.p36
+--------------------
+Text with Marker: Non-SH2 domains within insulin receptor substrate-1 and [E1]SHC[/E1] mediate their phosphotyrosine-dependent interaction with the NPEY motif of the insulin-like growth factor I receptor.[E2][/E2]
+Found in IDs: Biocreative.d7541045.s11049_Biocreative.d7541045.s11049.p4, Biocreative.d7541045.s11049_Biocreative.d7541045.s11049.p19, Biocreative.d7541045.s11049_Biocreative.d7541045.s11049.p35, Biocreative.d7541045.s11049_Biocreative.d7541045.s11049.p37, Biocreative.d7541045.s11049_Biocreative.d7541045.s11049.p38
+--------------------
+Text with Marker: Non-SH2 domains within [E1]insulin receptor substrate-1[/E1] and SHC mediate their phosphotyrosine-dependent interaction with the NPEY motif of the insulin-like growth factor I receptor.[E2][/E2]
+Found in IDs: Biocreative.d7541045.s11049_Biocreative.d7541045.s11049.p5, Biocreative.d7541045.s11049_Biocreative.d7541045.s11049.p11, Biocreative.d7541045.s11049_Biocreative.d7541045.s11049.p12, Biocreative.d7541045.s11049_Biocreative.d7541045.s11049.p22, Biocreative.d7541045.s11049_Biocreative.d7541045.s11049.p27, Biocreative.d7541045.s11049_Biocreative.d7541045.s11049.p32, Biocreative.d7541045.s11049_Biocreative.d7541045.s11049.p40, Biocreative.d7541045.s11049_Biocreative.d7541045.s11049.p43
+--------------------
+Text with Marker: [E1]Insulin receptor substrate-1[/E1] (IRS-1) and SHC become rapidly phosphorylated upon tyrosines after insulin-like growth factor I receptor (IGFIR) activation.[E2][/E2]
+Found in IDs: Biocreative.d7541045.s56399_Biocreative.d7541045.s56399.p7, Biocreative.d7541045.s56399_Biocreative.d7541045.s56399.p15, Biocreative.d7541045.s56399_Biocreative.d7541045.s56399.p24, Biocreative.d7541045.s56399_Biocreative.d7541045.s56399.p26, Biocreative.d7541045.s56399_Biocreative.d7541045.s56399.p29
+--------------------
+Text with Marker: In this study we demonstrate that IRS-1, [E1]SHC[/E1], and the p85 subunit of phosphatidylinositol 3-kinase interact directly and specifically with the IGFIR.[E2][/E2]
+Found in IDs: Biocreative.d7541045.s37909_Biocreative.d7541045.s37909.p9, Biocreative.d7541045.s37909_Biocreative.d7541045.s37909.p33, Biocreative.d7541045.s37909_Biocreative.d7541045.s37909.p34, Biocreative.d7541045.s37909_Biocreative.d7541045.s37909.p41
+--------------------
+Text with Marker: Insulin receptor substrate-1 ([E1]IRS-1[/E1]) and SHC become rapidly phosphorylated upon tyrosines after insulin-like growth factor I receptor (IGFIR) activation.[E2][/E2]
+Found in IDs: Biocreative.d7541045.s56399_Biocreative.d7541045.s56399.p10, Biocreative.d7541045.s56399_Biocreative.d7541045.s56399.p21, Biocreative.d7541045.s56399_Biocreative.d7541045.s56399.p39, Biocreative.d7541045.s56399_Biocreative.d7541045.s56399.p42
+--------------------
+Text with Marker: The interaction of all three proteins is dependent upon IGFIR kinase activity and, furthermore, substitution of Tyr-950 with Phe within the NPEY motif of the IGFIR eliminated interaction with both [E1]SHC[/E1] and IRS-1 but had no effect upon p85 interaction.[E2][/E2]
+Found in IDs: Biocreative.d7541045.s72238_Biocreative.d7541045.s72238.p13, Biocreative.d7541045.s72238_Biocreative.d7541045.s72238.p18
+--------------------
+Text with Marker: The current study extends those findings to the following crystallin genes involved in some congenital cataracts: CRYAA (R116C), CRYAB (R120G), and [E1]CRYGC[/E1] (T5P).[E2][/E2]
+Found in IDs: Biocreative.d12601044.s24955_Biocreative.d12601044.s24955.p1, Biocreative.d12601044.s24955_Biocreative.d12601044.s24955.p2, Biocreative.d12601044.s24955_Biocreative.d12601044.s24955.p3, Biocreative.d12601044.s24955_Biocreative.d12601044.s24955.p4
+--------------------
+Text with Marker: Yeast interaction assays comparing GL3 with gl3-sst proteins show that the mutant protein interaction with GL1 and [E1]TTG1[/E1] is decreased by 75% and 50%, respectively, but there is no difference in its interaction with TRY.[E2][/E2]
+Found in IDs: Biocreative.d14561633.s54765_Biocreative.d14561633.s54765.p0, Biocreative.d14561633.s54765_Biocreative.d14561633.s54765.p1, Biocreative.d14561633.s54765_Biocreative.d14561633.s54765.p2
+--------------------
+Text with Marker: ARH is a modular adaptor protein that interacts with the [E1]LDL receptor[/E1], clathrin, and AP-2.[E2][/E2]
+Found in IDs: Biocreative.d12221107.s4753_Biocreative.d12221107.s4753.p0, Biocreative.d12221107.s4753_Biocreative.d12221107.s4753.p1
+--------------------
+Text with Marker: Mutations in the phosphotyrosine binding domain protein ARH cause autosomal recessive hypercholesterolemia, a disorder caused by defective internalization of [E1]low density lipoprotein receptors[/E1] (LDLR) in the liver.[E2][/E2]
+Found in IDs: Biocreative.d12221107.s44588_Biocreative.d12221107.s44588.p2, Biocreative.d12221107.s44588_Biocreative.d12221107.s44588.p4
+--------------------
+Text with Marker: Mutations in the phosphotyrosine binding domain protein ARH cause autosomal recessive hypercholesterolemia, a disorder caused by defective internalization of low density lipoprotein receptors ([E1]LDLR[/E1]) in the liver.[E2][/E2]
+Found in IDs: Biocreative.d12221107.s44588_Biocreative.d12221107.s44588.p3, Biocreative.d12221107.s44588_Biocreative.d12221107.s44588.p5
+--------------------
+Text with Marker: To examine the function of ARH, we used pull-down experiments to test for interactions between ARH, the [E1]LDLR[/E1], and proteins involved in clathrin-mediated endocytosis.[E2][/E2]
+Found in IDs: Biocreative.d12221107.s99217_Biocreative.d12221107.s99217.p6, Biocreative.d12221107.s99217_Biocreative.d12221107.s99217.p7
+--------------------
+Text with Marker: The phosphotyrosine binding domain of ARH interacted with the internalization sequence (NPVY) in the cytoplasmic tail of [E1]LDLR[/E1] in a sequence-specific manner.[E2][/E2]
+Found in IDs: Biocreative.d12221107.s49087_Biocreative.d12221107.s49087.p8, Biocreative.d12221107.s49087_Biocreative.d12221107.s49087.p9
+--------------------
+Text with Marker: Mutations in the NPVY sequence that were previously shown to decrease [E1]LDLR[/E1] internalization abolished in vitro binding to ARH.[E2][/E2]
+Found in IDs: Biocreative.d12221107.s51754_Biocreative.d12221107.s51754.p10, Biocreative.d12221107.s51754_Biocreative.d12221107.s51754.p11
+--------------------
+Text with Marker: Phosphorylation of CLIP-170 by [E1]Plk1[/E1] and CK2 promotes timely formation of kinetochore-microtubule attachments.[E2][/E2]
+Found in IDs: Biocreative.d20664522.s32_Biocreative.d20664522.s32.p0, Biocreative.d20664522.s32_Biocreative.d20664522.s32.p1, Biocreative.d20664522.s32_Biocreative.d20664522.s32.p2, Biocreative.d20664522.s32_Biocreative.d20664522.s32.p5, Biocreative.d20664522.s32_Biocreative.d20664522.s32.p6, Biocreative.d20664522.s32_Biocreative.d20664522.s32.p7, Biocreative.d20664522.s32_Biocreative.d20664522.s32.p8, Biocreative.d20664522.s32_Biocreative.d20664522.s32.p9, Biocreative.d20664522.s32_Biocreative.d20664522.s32.p11
+--------------------
+Text with Marker: Phosphorylation of CLIP-170 by Plk1 and [E1]CK2[/E1] promotes timely formation of kinetochore-microtubule attachments.[E2][/E2]
+Found in IDs: Biocreative.d20664522.s32_Biocreative.d20664522.s32.p3, Biocreative.d20664522.s32_Biocreative.d20664522.s32.p4, Biocreative.d20664522.s32_Biocreative.d20664522.s32.p10, Biocreative.d20664522.s32_Biocreative.d20664522.s32.p12
+--------------------
+Text with Marker: CLIP-170 is implicated in the formation of kinetochore-microtubule attachments through direct interaction with the dynein/[E1]dynactin[/E1] complex.[E2][/E2]
+Found in IDs: Biocreative.d20664522.s85581_Biocreative.d20664522.s85581.p13, Biocreative.d20664522.s85581_Biocreative.d20664522.s85581.p14, Biocreative.d20664522.s85581_Biocreative.d20664522.s85581.p15, Biocreative.d20664522.s85581_Biocreative.d20664522.s85581.p16
+--------------------
+Text with Marker: Herein, we have identified [E1]polo-like kinase 1[/E1] (Plk1) and casein kinase 2 (CK2) as two kinases of CLIP-170 and mapped S195 and S1318 as their respective phosphorylation sites.[E2][/E2]
+Found in IDs: Biocreative.d20664522.s95647_Biocreative.d20664522.s95647.p17, Biocreative.d20664522.s95647_Biocreative.d20664522.s95647.p18, Biocreative.d20664522.s95647_Biocreative.d20664522.s95647.p19, Biocreative.d20664522.s95647_Biocreative.d20664522.s95647.p20, Biocreative.d20664522.s95647_Biocreative.d20664522.s95647.p25, Biocreative.d20664522.s95647_Biocreative.d20664522.s95647.p29
+--------------------
+Text with Marker: Herein, we have identified polo-like kinase 1 ([E1]Plk1[/E1]) and casein kinase 2 (CK2) as two kinases of CLIP-170 and mapped S195 and S1318 as their respective phosphorylation sites.[E2][/E2]
+Found in IDs: Biocreative.d20664522.s95647_Biocreative.d20664522.s95647.p21, Biocreative.d20664522.s95647_Biocreative.d20664522.s95647.p22, Biocreative.d20664522.s95647_Biocreative.d20664522.s95647.p23, Biocreative.d20664522.s95647_Biocreative.d20664522.s95647.p24, Biocreative.d20664522.s95647_Biocreative.d20664522.s95647.p26, Biocreative.d20664522.s95647_Biocreative.d20664522.s95647.p30
+--------------------
+Text with Marker: Herein, we have identified polo-like kinase 1 (Plk1) and [E1]casein kinase 2[/E1] (CK2) as two kinases of CLIP-170 and mapped S195 and S1318 as their respective phosphorylation sites.[E2][/E2]
+Found in IDs: Biocreative.d20664522.s95647_Biocreative.d20664522.s95647.p27, Biocreative.d20664522.s95647_Biocreative.d20664522.s95647.p31
+--------------------
+Text with Marker: Herein, we have identified polo-like kinase 1 (Plk1) and casein kinase 2 ([E1]CK2[/E1]) as two kinases of CLIP-170 and mapped S195 and S1318 as their respective phosphorylation sites.[E2][/E2]
+Found in IDs: Biocreative.d20664522.s95647_Biocreative.d20664522.s95647.p28, Biocreative.d20664522.s95647_Biocreative.d20664522.s95647.p32
+--------------------
+Text with Marker: We showed that a [E1]CK2[/E1] unphosphorylatable mutant lost its ability to bind to dynactin and to localize to kinetochores during prometaphase, indicating that the CK2 phosphorylation of CLIP-170 is involved in its dynactin-mediated kinetochore localization.[E2][/E2]
+Found in IDs: Biocreative.d20664522.s41919_Biocreative.d20664522.s41919.p33, Biocreative.d20664522.s41919_Biocreative.d20664522.s41919.p37
+--------------------
+Text with Marker: We showed that a CK2 unphosphorylatable mutant lost its ability to bind to [E1]dynactin[/E1] and to localize to kinetochores during prometaphase, indicating that the CK2 phosphorylation of CLIP-170 is involved in its dynactin-mediated kinetochore localization.[E2][/E2]
+Found in IDs: Biocreative.d20664522.s41919_Biocreative.d20664522.s41919.p34, Biocreative.d20664522.s41919_Biocreative.d20664522.s41919.p38
+--------------------
+Text with Marker: We showed that a CK2 unphosphorylatable mutant lost its ability to bind to dynactin and to localize to kinetochores during prometaphase, indicating that the [E1]CK2[/E1] phosphorylation of CLIP-170 is involved in its dynactin-mediated kinetochore localization.[E2][/E2]
+Found in IDs: Biocreative.d20664522.s41919_Biocreative.d20664522.s41919.p35, Biocreative.d20664522.s41919_Biocreative.d20664522.s41919.p39
+--------------------
+Text with Marker: We showed that a CK2 unphosphorylatable mutant lost its ability to bind to dynactin and to localize to kinetochores during prometaphase, indicating that the CK2 phosphorylation of CLIP-170 is involved in its [E1]dynactin[/E1]-mediated kinetochore localization.[E2][/E2]
+Found in IDs: Biocreative.d20664522.s41919_Biocreative.d20664522.s41919.p36, Biocreative.d20664522.s41919_Biocreative.d20664522.s41919.p40
+--------------------
+Text with Marker: Emerin and specific isoforms of [E1]nesprin[/E1]-1 and -2 are nuclear membrane proteins which are binding partners in multi-protein complexes spanning the nuclear envelope.[E2][/E2]
+Found in IDs: Biocreative.d17462627.s83893_Biocreative.d17462627.s83893.p0, Biocreative.d17462627.s83893_Biocreative.d17462627.s83893.p1, Biocreative.d17462627.s83893_Biocreative.d17462627.s83893.p4
+--------------------
+Text with Marker: Emerin and specific isoforms of [E1]nesprin-1[/E1] and -2 are nuclear membrane proteins which are binding partners in multi-protein complexes spanning the nuclear envelope.[E2][/E2]
+Found in IDs: Biocreative.d17462627.s83893_Biocreative.d17462627.s83893.p2, Biocreative.d17462627.s83893_Biocreative.d17462627.s83893.p3, Biocreative.d17462627.s83893_Biocreative.d17462627.s83893.p5
+--------------------
+Text with Marker: Differential interactions of human [E1]Sos1[/E1] and Sos2 with Grb2.[E2][/E2]
+Found in IDs: Biocreative.d7629138.s60527_Biocreative.d7629138.s60527.p0, Biocreative.d7629138.s60527_Biocreative.d7629138.s60527.p3, Biocreative.d7629138.s60527_Biocreative.d7629138.s60527.p6, Biocreative.d7629138.s60527_Biocreative.d7629138.s60527.p9
+--------------------
+Text with Marker: Mammalian cells contain two related but distinct Sos proteins, [E1]Sos1[/E1] and Sos2.[E2][/E2]
+Found in IDs: Biocreative.d7629138.s55619_Biocreative.d7629138.s55619.p1, Biocreative.d7629138.s55619_Biocreative.d7629138.s55619.p7, Biocreative.d7629138.s55619_Biocreative.d7629138.s55619.p19
+--------------------
+Text with Marker: We show that [E1]hSos2[/E1] interacts with Grb2 via its proline-rich COOH-terminal domain and that this interaction is dependent on the SH3 domains of Grb2.[E2][/E2]
+Found in IDs: Biocreative.d7629138.s92295_Biocreative.d7629138.s92295.p2, Biocreative.d7629138.s92295_Biocreative.d7629138.s92295.p15
+--------------------
+Text with Marker: Although they share a high degree of overall similarity, it is not known to what extent their biological and biochemical properties overlap. In the present study, we have compared the interactions of the two human homologues of Sos, hSos1 and [E1]hSos2[/E1], with the adaptor protein Grb2.[E2][/E2]
+Found in IDs: Biocreative.d7629138.s82416_Biocreative.d7629138.s82416.p4, Biocreative.d7629138.s82416_Biocreative.d7629138.s82416.p11, Biocreative.d7629138.s82416_Biocreative.d7629138.s82416.p20
+--------------------
+Text with Marker: Although they share a high degree of overall similarity, it is not known to what extent their biological and biochemical properties overlap. In the present study, we have compared the interactions of the two human homologues of Sos, [E1]hSos1[/E1] and hSos2, with the adaptor protein Grb2.[E2][/E2]
+Found in IDs: Biocreative.d7629138.s82416_Biocreative.d7629138.s82416.p12, Biocreative.d7629138.s82416_Biocreative.d7629138.s82416.p13, Biocreative.d7629138.s82416_Biocreative.d7629138.s82416.p16
+--------------------
+Text with Marker: Differential interactions of human Sos1 and [E1]Sos2[/E1] with Grb2.[E2][/E2]
+Found in IDs: Biocreative.d7629138.s60527_Biocreative.d7629138.s60527.p17, Biocreative.d7629138.s60527_Biocreative.d7629138.s60527.p18
+--------------------
+Text with Marker: Induction of apoptosis in Drosophila requires the activity of three closely linked genes, [E1]reaper[/E1], hid and grim.[E2][/E2]
+Found in IDs: Biocreative.d10675328.s21275_Biocreative.d10675328.s21275.p0, Biocreative.d10675328.s21275_Biocreative.d10675328.s21275.p9, Biocreative.d10675328.s21275_Biocreative.d10675328.s21275.p20, Biocreative.d10675328.s21275_Biocreative.d10675328.s21275.p30
+--------------------
+Text with Marker: Induction of apoptosis by Drosophila [E1]reaper[/E1], hid and grim through inhibition of IAP function.[E2][/E2]
+Found in IDs: Biocreative.d10675328.s80407_Biocreative.d10675328.s80407.p1, Biocreative.d10675328.s80407_Biocreative.d10675328.s80407.p29, Biocreative.d10675328.s80407_Biocreative.d10675328.s80407.p33, Biocreative.d10675328.s80407_Biocreative.d10675328.s80407.p35, Biocreative.d10675328.s80407_Biocreative.d10675328.s80407.p46
+--------------------
+Text with Marker: Here we show that the proteins encoded by reaper, hid and [E1]grim[/E1] activate cell death by inhibiting the anti-apoptotic activity of the Drosophila IAP1 (diap1) protein.[E2][/E2]
+Found in IDs: Biocreative.d10675328.s14974_Biocreative.d10675328.s14974.p2, Biocreative.d10675328.s14974_Biocreative.d10675328.s14974.p21, Biocreative.d10675328.s14974_Biocreative.d10675328.s14974.p31, Biocreative.d10675328.s14974_Biocreative.d10675328.s14974.p36
+--------------------
+Text with Marker: Here we show that the proteins encoded by [E1]reaper[/E1], hid and grim activate cell death by inhibiting the anti-apoptotic activity of the Drosophila IAP1 (diap1) protein.[E2][/E2]
+Found in IDs: Biocreative.d10675328.s14974_Biocreative.d10675328.s14974.p3, Biocreative.d10675328.s14974_Biocreative.d10675328.s14974.p22, Biocreative.d10675328.s14974_Biocreative.d10675328.s14974.p25, Biocreative.d10675328.s14974_Biocreative.d10675328.s14974.p34, Biocreative.d10675328.s14974_Biocreative.d10675328.s14974.p40, Biocreative.d10675328.s14974_Biocreative.d10675328.s14974.p45
+--------------------
+Text with Marker: Induction of apoptosis by Drosophila reaper, [E1]hid[/E1] and grim through inhibition of IAP function.[E2][/E2]
+Found in IDs: Biocreative.d10675328.s80407_Biocreative.d10675328.s80407.p4, Biocreative.d10675328.s80407_Biocreative.d10675328.s80407.p6, Biocreative.d10675328.s80407_Biocreative.d10675328.s80407.p23, Biocreative.d10675328.s80407_Biocreative.d10675328.s80407.p26, Biocreative.d10675328.s80407_Biocreative.d10675328.s80407.p27, Biocreative.d10675328.s80407_Biocreative.d10675328.s80407.p37, Biocreative.d10675328.s80407_Biocreative.d10675328.s80407.p44
+--------------------
+Text with Marker: In a genetic modifier screen, both loss-of-function and gain-of-function alleles in the endogenous diap1 gene were obtained, and the mutant proteins were functionally and biochemically characterized. Gain-of-function mutations in diap1 strongly suppressed reaper-, [E1]hid[/E1]- and grim-induced apoptosis.[E2][/E2]
+Found in IDs: Biocreative.d10675328.s29738_Biocreative.d10675328.s29738.p5, Biocreative.d10675328.s29738_Biocreative.d10675328.s29738.p14, Biocreative.d10675328.s29738_Biocreative.d10675328.s29738.p15
+--------------------
+Text with Marker: Induction of apoptosis by Drosophila reaper, hid and [E1]grim[/E1] through inhibition of IAP function.[E2][/E2]
+Found in IDs: Biocreative.d10675328.s80407_Biocreative.d10675328.s80407.p7, Biocreative.d10675328.s80407_Biocreative.d10675328.s80407.p42, Biocreative.d10675328.s80407_Biocreative.d10675328.s80407.p43
+--------------------
+Text with Marker: Here we show that the proteins encoded by reaper, [E1]hid[/E1] and grim activate cell death by inhibiting the anti-apoptotic activity of the Drosophila IAP1 (diap1) protein.[E2][/E2]
+Found in IDs: Biocreative.d10675328.s14974_Biocreative.d10675328.s14974.p8, Biocreative.d10675328.s14974_Biocreative.d10675328.s14974.p24, Biocreative.d10675328.s14974_Biocreative.d10675328.s14974.p28, Biocreative.d10675328.s14974_Biocreative.d10675328.s14974.p32, Biocreative.d10675328.s14974_Biocreative.d10675328.s14974.p38
+--------------------
+Text with Marker: Induction of apoptosis in Drosophila requires the activity of three closely linked genes, reaper, hid and [E1]grim[/E1].[E2][/E2]
+Found in IDs: Biocreative.d10675328.s21275_Biocreative.d10675328.s21275.p10, Biocreative.d10675328.s21275_Biocreative.d10675328.s21275.p12, Biocreative.d10675328.s21275_Biocreative.d10675328.s21275.p16, Biocreative.d10675328.s21275_Biocreative.d10675328.s21275.p19, Biocreative.d10675328.s21275_Biocreative.d10675328.s21275.p39
+--------------------
+Text with Marker: Induction of apoptosis in Drosophila requires the activity of three closely linked genes, reaper, [E1]hid[/E1] and grim.[E2][/E2]
+Found in IDs: Biocreative.d10675328.s21275_Biocreative.d10675328.s21275.p11, Biocreative.d10675328.s21275_Biocreative.d10675328.s21275.p13, Biocreative.d10675328.s21275_Biocreative.d10675328.s21275.p17
+--------------------
+Text with Marker: Bone morphogenetic protein-4 interacts with [E1]activin[/E1] and GnRH to modulate gonadotrophin secretion in LbetaT2 gonadotrophs. We have shown previously that, in sheep primary pituitary cells, bone morphogenetic proteins (BMP)-4 inhibits [E2]FSHbeta[/E2] mRNA expression and FSH release. In contrast, in mouse LbetaT2 gonadotrophs, others have shown a stimulatory effect of BMPs on basal or activin-stimulated FSHbeta promoter-driven transcription. As a species comparison with our previous results, we used LbetaT2 cells to investigate the effects of BMP-4 on gonadotrophin mRNA and secretion modulated by activin and GnRH. BMP-4 alone had no effect on FSH production, but enhanced the activin+GnRH-induced stimulation of FSHbeta mRNA and FSH secretion, without any effect on follistatin mRNA. BMP-4 reduced LHbeta mRNA up-regulation in response to GnRH (+/-activin) and decreased GnRH receptor expression, which would favour FSH, rather than LH, synthesis and secretion. In contrast to sheep pituitary gonadotrophs, which express only BMP receptor types IA (BMPRIA) and II (BMPRII), LbetaT2 cells also express BMPRIB. Smad1/5 phosphorylation induced by BMP-4, indicating activation of BMP signalling, was the same whether BMP-4 was used alone or combined with activin+/-GnRH. We hypothesized that activin and/or GnRH pathways may be modulated by BMP-4, but neither the activin-stimulated phosphorylation of Smad2/3 nor the GnRH-induced ERK1/2 or cAMP response element-binding phosphorylation were modified. However, the GnRH-induced activation of p38 MAPK was decreased by BMP-4. This was associated with increased FSHbeta mRNA levels and FSH secretion, but decreased LHbeta mRNA levels. These results confirm 1. BMPs as important modulators of activin and/or GnRH-stimulated gonadotrophin synthesis and release and 2. important species differences in these effects, which could relate to differences in BMP receptor expression in gonadotrophs.
+Found in IDs: BioRED.d18310445.s0_BioRED.d18310445.s0.p112, BioRED.d18310445.s0_BioRED.d18310445.s0.p113
+--------------------
+Text with Marker: Bone morphogenetic protein-4 interacts with activin and [E1]GnRH[/E1] to modulate gonadotrophin secretion in LbetaT2 gonadotrophs. We have shown previously that, in sheep primary pituitary cells, bone morphogenetic proteins (BMP)-4 inhibits [E2]FSHbeta[/E2] mRNA expression and FSH release. In contrast, in mouse LbetaT2 gonadotrophs, others have shown a stimulatory effect of BMPs on basal or activin-stimulated FSHbeta promoter-driven transcription. As a species comparison with our previous results, we used LbetaT2 cells to investigate the effects of BMP-4 on gonadotrophin mRNA and secretion modulated by activin and GnRH. BMP-4 alone had no effect on FSH production, but enhanced the activin+GnRH-induced stimulation of FSHbeta mRNA and FSH secretion, without any effect on follistatin mRNA. BMP-4 reduced LHbeta mRNA up-regulation in response to GnRH (+/-activin) and decreased GnRH receptor expression, which would favour FSH, rather than LH, synthesis and secretion. In contrast to sheep pituitary gonadotrophs, which express only BMP receptor types IA (BMPRIA) and II (BMPRII), LbetaT2 cells also express BMPRIB. Smad1/5 phosphorylation induced by BMP-4, indicating activation of BMP signalling, was the same whether BMP-4 was used alone or combined with activin+/-GnRH. We hypothesized that activin and/or GnRH pathways may be modulated by BMP-4, but neither the activin-stimulated phosphorylation of Smad2/3 nor the GnRH-induced ERK1/2 or cAMP response element-binding phosphorylation were modified. However, the GnRH-induced activation of p38 MAPK was decreased by BMP-4. This was associated with increased FSHbeta mRNA levels and FSH secretion, but decreased LHbeta mRNA levels. These results confirm 1. BMPs as important modulators of activin and/or GnRH-stimulated gonadotrophin synthesis and release and 2. important species differences in these effects, which could relate to differences in BMP receptor expression in gonadotrophs.
+Found in IDs: BioRED.d18310445.s0_BioRED.d18310445.s0.p121, BioRED.d18310445.s0_BioRED.d18310445.s0.p122
+--------------------
+Text with Marker: Zebrafish [E1]chordin-like[/E1] and chordin are functionally redundant in regulating patterning of the dorsoventral axis. Chordin is the prototype of a group of cysteine-rich domain-containing proteins that bind and modulate signaling of various TGFbeta-like ligands. Chordin-like 1 and 2 (CHL1 and 2) are two members of this group that have been described in human, mouse, and chick. However, in vivo roles for CHL1 and 2 in early development are unknown due to lack of loss-of-function analysis. Here we identify and characterize zebrafish, Danio rerio, CHL (Chl). The chl gene is on a region of chromosome 21 syntenic with the area of murine chromosome 7 bearing the [E2]CHL2[/E2] gene. Inability to identify a separate zebrafish gene corresponding to the mammalian CHL1 gene suggests that Chl may serve roles in zebrafish distributed between CHL1 and CHL2 in other species. Chl is a maternal factor that is also zygotically expressed later in development and has spatiotemporal expression patterns that differ from but overlap those of zebrafish chordin (Chd), suggesting differences but also possible overlap in developmental roles of the two proteins. Chl, like Chd, dorsalizes embryos upon overexpression and is cleaved by BMP1, which antagonizes this activity. Loss-of-function experiments demonstrate that Chl serves as a BMP antagonist with functions that overlap and are redundant with those of Chd in forming the dorsoventral axis.
+Found in IDs: BioRED.d20226780.s0_BioRED.d20226780.s0.p197, BioRED.d20226780.s0_BioRED.d20226780.s0.p199
+--------------------
+Text with Marker: The autotaxin-[E1]LPA[/E1]2 GPCR axis is modulated by gamma-irradiation and facilitates DNA damage repair. In this study we characterized the effects of radiation injury on the expression and function of the autotaxin (ATX)-LPA2 GPCR axis. In IEC-6 crypt cells and jejunum enteroids quantitative RT-PCR showed a time- and dose-dependent upregulation of lpa2 in response to gamma-irradiation that was abolished by mutation of the NF-kappaB site in the lpa2 promoter or by inhibition of ATM/ATR kinases with CGK-733, suggesting that lpa2 is a DNA damage response gene upregulated by ATM via NF-kappaB. The resolution kinetics of the DNA damage marker [E2]gamma-H2AX[/E2] in LPA-treated IEC-6 cells exposed to gamma-irradiation was accelerated compared to vehicle, whereas pharmacological inhibition of LPA2 delayed the resolution of gamma-H2AX. In LPA2-reconstituted MEF cells lacking LPA1    '3 the levels of gamma-H2AX decreased rapidly, whereas in Vector MEF were high and remained sustained. Inhibition of ERK1    '2 or PI3K/AKT signaling axis by pertussis toxin or the C311A/C314A/L351A mutation in the C-terminus of LPA2 abrogated the effect of LPA on DNA repair. LPA2 transcripts in Lin(-)Sca-1(+)c-Kit(+) enriched for bone marrow stem cells were 27- and 5-fold higher than in common myeloid or lymphoid progenitors, respectively. Furthermore, after irradiation higher residual gamma-H2AX levels were detected in the bone marrow or jejunum of irradiated LPA2-KO mice compared to WT mice. We found that gamma-irradiation increases plasma ATX activity and LPA level that is in part due to the previously established radiation-induced upregulation of TNFalpha. These findings identify ATX and LPA2 as radiation-regulated genes that appear to play a physiological role in DNA repair. 
+Found in IDs: BioRED.d26027517.s0_BioRED.d26027517.s0.p225, BioRED.d26027517.s0_BioRED.d26027517.s0.p231
+--------------------
+Text with Marker: Disease-associated mutations in human [E1]BICD2[/E1] hyperactivate motility of dynein-[E2]dynactin[/E2]. Bicaudal D2 (BICD2) joins dynein with dynactin into a ternary complex (termed DDB) capable of processive movement. Point mutations in the BICD2 gene have been identified in patients with a dominant form of spinal muscular atrophy, but how these mutations cause disease is unknown. To investigate this question, we have developed in vitro motility assays with purified DDB and BICD2's membrane vesicle partner, the GTPase Rab6a. Rab6a-GTP, either in solution or bound to artificial liposomes, released BICD2 from an autoinhibited state and promoted robust dynein-dynactin transport. In these assays, BICD2 mutants showed an enhanced ability to form motile DDB complexes. Increased retrograde transport by BICD2 mutants also was observed in cells using an inducible organelle transport assay. When overexpressed in rat hippocampal neurons, the hyperactive BICD2 mutants decreased neurite growth. Our results reveal that dominant mutations in BICD2 hyperactivate DDB motility and suggest that an imbalance of minus versus plus end-directed microtubule motility in neurons may underlie spinal muscular atrophy.
+Found in IDs: BioRED.d28883039.s0_BioRED.d28883039.s0.p244, BioRED.d28883039.s0_BioRED.d28883039.s0.p250
+--------------------
+Text with Marker: Disease-associated mutations in human [E1]BICD2[/E1] hyperactivate motility of [E2]dynein[/E2]-dynactin. Bicaudal D2 (BICD2) joins dynein with dynactin into a ternary complex (termed DDB) capable of processive movement. Point mutations in the BICD2 gene have been identified in patients with a dominant form of spinal muscular atrophy, but how these mutations cause disease is unknown. To investigate this question, we have developed in vitro motility assays with purified DDB and BICD2's membrane vesicle partner, the GTPase Rab6a. Rab6a-GTP, either in solution or bound to artificial liposomes, released BICD2 from an autoinhibited state and promoted robust dynein-dynactin transport. In these assays, BICD2 mutants showed an enhanced ability to form motile DDB complexes. Increased retrograde transport by BICD2 mutants also was observed in cells using an inducible organelle transport assay. When overexpressed in rat hippocampal neurons, the hyperactive BICD2 mutants decreased neurite growth. Our results reveal that dominant mutations in BICD2 hyperactivate DDB motility and suggest that an imbalance of minus versus plus end-directed microtubule motility in neurons may underlie spinal muscular atrophy.
+Found in IDs: BioRED.d28883039.s0_BioRED.d28883039.s0.p245, BioRED.d28883039.s0_BioRED.d28883039.s0.p251
+--------------------
+Text with Marker: The interaction between [E1]83529[/E1] and [E2]desmin[/E2] was reported.
+Found in IDs: BioRED.d27941998.s0_BioRED.d27941998.s0.p391, BioRED.d27941998.s0_BioRED.d27941998.s0.p392
+--------------------
+Text with Marker: Voltage-Dependent Anion Channel 1([E1]VDAC1[/E1]) Participates the Apoptosis of the Mitochondrial Dysfunction in [E2]Desmin[/E2]opathy. Desminopathies caused by the mutation in the gene coding for desmin are genetically protein aggregation myopathies. Mitochondrial dysfunction is one of pathological changes in the desminopathies at the earliest stage. The molecular mechanisms of mitochondria dysfunction in desminopathies remain exclusive. VDAC1 regulates mitochondrial uptake across the outer membrane and mitochondrial outer membrane permeabilization (MOMP). Relationships between desminopathies and Voltage-dependent anion channel 1 (VDAC1) remain unclear. Here we successfully constructed the desminopathy rat model, evaluated with conventional stains, containing hematoxylin and eosin (HE), Gomori Trichrome (MGT), (PAS), red oil (ORO), NADH-TR, SDH staining and immunohistochemistry. Immunofluorescence results showed that VDAC1 was accumulated in the desmin highly stained area of muscle fibers of desminopathy patients or desminopathy rat model compared to the normal ones. Meanwhile apoptosis related proteins bax and ATF2 were involved in desminopathy patients and desminopathy rat model, but not bcl-2, bcl-xl or HK2.VDAC1 and desmin are closely relevant in the tissue splices of deminopathies patients and rats with desminopathy at protein lever. Moreover, apoptotic proteins are also involved in the desminopathies, like bax, ATF2, but not bcl-2, bcl-xl or HK2. This pathological analysis presents the correlation between VDAC1 and desmin, and apoptosis related proteins are correlated in the desminopathy. Furthermore, we provide a rat model of desminopathy for the investigation of desmin related myopathy.
+Found in IDs: BioRED.d27941998.s0_BioRED.d27941998.s0.p393, BioRED.d27941998.s0_BioRED.d27941998.s0.p394
+--------------------
+Text with Marker: Melanocortin-4 receptor activation inhibits c-Jun N-terminal kinase activity and promotes [E1]insulin[/E1] signaling. The melanocortin system is crucial to regulation of energy homeostasis. The melanocortin receptor type 4 (MC4R) modulates insulin signaling via effects on c-Jun N-terminal kinase (JNK). The melanocortin agonist NDP-MSH dose-dependently inhibited JNK activity in HEK293 cells stably expressing the human MC4R; effects were reversed by melanocortin receptor antagonist. NDP-MSH time- and dose-dependently inhibited IRS-1(ser307) phosphorylation, effects also reversed by a specific melanocortin receptor antagonist. NDP-MSH augmented insulin-stimulated [E2]AKT[/E2] phosphorylation in vitro. The melanocortin agonist melanotan II increased insulin-stimulated AKT phosphorylation in the rat hypothalamus in vivo. NDP-MSH increased insulin-stimulated glucose uptake in hypothalamic GT1-1 cells. The current study shows that the melanocortinergic system interacts with insulin signaling via novel effects on JNK activity.
+Found in IDs: BioRED.d19463742.s0_BioRED.d19463742.s0.p644, BioRED.d19463742.s0_BioRED.d19463742.s0.p648
+--------------------
+Text with Marker: Melanocortin-4 receptor activation inhibits [E1]c-Jun N-terminal kinase[/E1] activity and promotes [E2]insulin[/E2] signaling. The melanocortin system is crucial to regulation of energy homeostasis. The melanocortin receptor type 4 (MC4R) modulates insulin signaling via effects on c-Jun N-terminal kinase (JNK). The melanocortin agonist NDP-MSH dose-dependently inhibited JNK activity in HEK293 cells stably expressing the human MC4R; effects were reversed by melanocortin receptor antagonist. NDP-MSH time- and dose-dependently inhibited IRS-1(ser307) phosphorylation, effects also reversed by a specific melanocortin receptor antagonist. NDP-MSH augmented insulin-stimulated AKT phosphorylation in vitro. The melanocortin agonist melanotan II increased insulin-stimulated AKT phosphorylation in the rat hypothalamus in vivo. NDP-MSH increased insulin-stimulated glucose uptake in hypothalamic GT1-1 cells. The current study shows that the melanocortinergic system interacts with insulin signaling via novel effects on JNK activity.
+Found in IDs: BioRED.d19463742.s0_BioRED.d19463742.s0.p645, BioRED.d19463742.s0_BioRED.d19463742.s0.p649, BioRED.d19463742.s0_BioRED.d19463742.s0.p652
+--------------------
+Text with Marker: The interaction between [E1]insulin[/E1] and [E2]26419[/E2] was reported.
+Found in IDs: BioRED.d19463742.s0_BioRED.d19463742.s0.p646, BioRED.d19463742.s0_BioRED.d19463742.s0.p650, BioRED.d19463742.s0_BioRED.d19463742.s0.p653
+--------------------
+Text with Marker: The interaction between [E1]insulin[/E1] and [E2]116554[/E2] was reported.
+Found in IDs: BioRED.d19463742.s0_BioRED.d19463742.s0.p647, BioRED.d19463742.s0_BioRED.d19463742.s0.p651, BioRED.d19463742.s0_BioRED.d19463742.s0.p654
+--------------------
+Text with Marker: Melanocortin-4 receptor activation inhibits c-Jun N-terminal kinase activity and promotes [E1]insulin[/E1] signaling. The melanocortin system is crucial to regulation of energy homeostasis. The [E2]melanocortin receptor type 4[/E2] (MC4R) modulates insulin signaling via effects on c-Jun N-terminal kinase (JNK). The melanocortin agonist NDP-MSH dose-dependently inhibited JNK activity in HEK293 cells stably expressing the human MC4R; effects were reversed by melanocortin receptor antagonist. NDP-MSH time- and dose-dependently inhibited IRS-1(ser307) phosphorylation, effects also reversed by a specific melanocortin receptor antagonist. NDP-MSH augmented insulin-stimulated AKT phosphorylation in vitro. The melanocortin agonist melanotan II increased insulin-stimulated AKT phosphorylation in the rat hypothalamus in vivo. NDP-MSH increased insulin-stimulated glucose uptake in hypothalamic GT1-1 cells. The current study shows that the melanocortinergic system interacts with insulin signaling via novel effects on JNK activity.
+Found in IDs: BioRED.d19463742.s0_BioRED.d19463742.s0.p655, BioRED.d19463742.s0_BioRED.d19463742.s0.p656, BioRED.d19463742.s0_BioRED.d19463742.s0.p657
+--------------------
+Text with Marker: The interaction between [E1]25635[/E1] and [E2]insulin[/E2] was reported.
+Found in IDs: BioRED.d19463742.s0_BioRED.d19463742.s0.p661, BioRED.d19463742.s0_BioRED.d19463742.s0.p662, BioRED.d19463742.s0_BioRED.d19463742.s0.p663
+--------------------
+Text with Marker: The interaction between [E1]17202[/E1] and [E2]insulin[/E2] was reported.
+Found in IDs: BioRED.d19463742.s0_BioRED.d19463742.s0.p667, BioRED.d19463742.s0_BioRED.d19463742.s0.p668, BioRED.d19463742.s0_BioRED.d19463742.s0.p669
+--------------------
+Text with Marker: Changes in microRNA (miRNA) expression during pancreatic cancer development and progression in a genetically engineered [E1]Kras[/E1]G12D;Pdx1-Cre mouse (KC) model. Differential expression of microRNAs (miRNAs) has been demonstrated in various cancers, including pancreatic cancer (PC). Due to the lack of tissue samples from early-stages of PC, the stage-specific alteration of miRNAs during PC initiation and progression is largely unknown. In this study, we investigated the global miRNA expression profile and their processing machinery during PC progression using the KrasG12D;Pdx1-Cre (KC) mouse model. At 25 weeks, the miRNA microarray analysis revealed significant downregulation of miR-150, miR-494, miR-138, miR-148a, miR-216a, and miR-217 and upregulation of miR-146b, miR-205, miR-31, miR-192, and miR-21 in KC mice compared to controls. Further, expression of miRNA biosynthetic machinery including Dicer, Exportin-5, TRKRA, and TARBP2 were downregulated, while DGCR8 and Ago2 were upregulated in KC mice. In addition, from 10 to 50 weeks of age, stage-specific expression profiling of miRNA in KC mice revealed downregulation of miR-216, miR-217, miR-100, miR-345, miR-141, miR-483-3p, miR-26b, miR-150, miR-195, [E2]Let-7b[/E2] and Let-96 and upregulation of miR-21, miR-205, miR-146b, miR-34c, miR-1273, miR-223 and miR-195 compared to control mice. Interestingly, the differential expression of miRNA in mice also corroborated with the miRNA expression in human PC cell lines and tissue samples; ectopic expression of Let-7b in CD18/HPAF and Capan1 cells resulted in the downregulation of KRAS and MSST1 expression. Overall, the present study aids an understanding of miRNA expression patterns during PC pathogenesis and helps to facilitate the identification of promising and novel early diagnostic/prognostic markers and therapeutic targets. 
+Found in IDs: BioRED.d26516699.s0_BioRED.d26516699.s0.p673, BioRED.d26516699.s0_BioRED.d26516699.s0.p680
+--------------------

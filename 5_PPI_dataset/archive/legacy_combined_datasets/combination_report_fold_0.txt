@@ -1,0 +1,28 @@
+================================================================================
+DATASET COMBINATION REPORT - FOLD 0
+================================================================================
+
+Datasets combined: AImed, BioInfer, HPRD50, IEPA, LLL
+
+Individual Dataset Statistics:
+------------------------------------------------------------
+Dataset         Test Samples    Train Samples   Total          
+------------------------------------------------------------
+AImed                      621          5,213          5,834
+BioInfer                   962          8,704          9,666
+HPRD50                      44            389            433
+IEPA                        82            735            817
+LLL                         33            297            330
+------------------------------------------------------------
+COMBINED                 1,742         15,338         17,080
+------------------------------------------------------------
+
+Output Files:
+  - Combined test: combined_test_0.json (1,742 samples)
+  - Combined train: combined_train_0.json (15,338 samples)
+  - Combined all: combined_all_0.json (17,080 samples)
+
+Duplicate Check:
+  - Test set duplicates: No
+  - Train set duplicates: No
+  - Full dataset duplicates: No

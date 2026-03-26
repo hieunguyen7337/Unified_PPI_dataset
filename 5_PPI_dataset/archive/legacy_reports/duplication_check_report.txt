@@ -1,0 +1,76 @@
+================================================================================
+DUPLICATION CHECK REPORT: Combined 5 Datasets vs Typed_PPI (Fold 0)
+================================================================================
+
+Dataset Sizes:
+  Combined Test: 1,742
+  Combined Train: 15,338
+  Combined All: 17,080
+
+  Typed_PPI Test: 836
+  Typed_PPI Train: 7,310
+  Typed_PPI All: 8,146
+
+Overlap Analysis:
+  Combined Test vs Typed_PPI Test: 88
+  Combined Train vs Typed_PPI Train: 6,209
+  Combined Test vs Typed_PPI Train: 685
+  Combined Train vs Typed_PPI Test: 703
+  Total Overlap: 7,685
+
+Unique Samples:
+  Only in Combined: 9,395
+  Only in Typed_PPI: 461
+  In Both: 7,685
+
+Overlapping IDs (first 50):
+  1. AIMed.d0.s5_AIMed.d0.s5.p0
+  2. AIMed.d0.s6_AIMed.d0.s6.p0
+  3. AIMed.d0.s7_AIMed.d0.s7.p0
+  4. AIMed.d0.s7_AIMed.d0.s7.p1
+  5. AIMed.d0.s7_AIMed.d0.s7.p2
+  6. AIMed.d0.s7_AIMed.d0.s7.p3
+  7. AIMed.d0.s7_AIMed.d0.s7.p4
+  8. AIMed.d0.s7_AIMed.d0.s7.p5
+  9. AIMed.d1.s12_AIMed.d1.s12.p0
+  10. AIMed.d1.s12_AIMed.d1.s12.p1
+  11. AIMed.d1.s12_AIMed.d1.s12.p2
+  12. AIMed.d1.s12_AIMed.d1.s12.p3
+  13. AIMed.d1.s12_AIMed.d1.s12.p4
+  14. AIMed.d1.s12_AIMed.d1.s12.p5
+  15. AIMed.d1.s12_AIMed.d1.s12.p6
+  16. AIMed.d1.s12_AIMed.d1.s12.p7
+  17. AIMed.d1.s12_AIMed.d1.s12.p8
+  18. AIMed.d1.s12_AIMed.d1.s12.p9
+  19. AIMed.d1.s14_AIMed.d1.s14.p0
+  20. AIMed.d1.s14_AIMed.d1.s14.p1
+  21. AIMed.d1.s14_AIMed.d1.s14.p2
+  22. AIMed.d1.s16_AIMed.d1.s16.p0
+  23. AIMed.d10.s81_AIMed.d10.s81.p0
+  24. AIMed.d10.s84_AIMed.d10.s84.p0
+  25. AIMed.d100.s849_AIMed.d100.s849.p0
+  26. AIMed.d101.s852_AIMed.d101.s852.p1
+  27. AIMed.d101.s852_AIMed.d101.s852.p2
+  28. AIMed.d101.s853_AIMed.d101.s853.p0
+  29. AIMed.d101.s855_AIMed.d101.s855.p1
+  30. AIMed.d101.s855_AIMed.d101.s855.p2
+  31. AIMed.d101.s855_AIMed.d101.s855.p3
+  32. AIMed.d101.s855_AIMed.d101.s855.p4
+  33. AIMed.d101.s856_AIMed.d101.s856.p1
+  34. AIMed.d101.s856_AIMed.d101.s856.p13
+  35. AIMed.d101.s856_AIMed.d101.s856.p14
+  36. AIMed.d101.s856_AIMed.d101.s856.p5
+  37. AIMed.d101.s857_AIMed.d101.s857.p0
+  38. AIMed.d101.s857_AIMed.d101.s857.p1
+  39. AIMed.d101.s857_AIMed.d101.s857.p2
+  40. AIMed.d101.s858_AIMed.d101.s858.p1
+  41. AIMed.d101.s858_AIMed.d101.s858.p2
+  42. AIMed.d102.s859_AIMed.d102.s859.p2
+  43. AIMed.d102.s860_AIMed.d102.s860.p0
+  44. AIMed.d102.s863_AIMed.d102.s863.p0
+  45. AIMed.d102.s863_AIMed.d102.s863.p1
+  46. AIMed.d102.s863_AIMed.d102.s863.p2
+  47. AIMed.d102.s863_AIMed.d102.s863.p3
+  48. AIMed.d102.s863_AIMed.d102.s863.p4
+  49. AIMed.d102.s863_AIMed.d102.s863.p5
+  50. AIMed.d102.s865_AIMed.d102.s865.p0

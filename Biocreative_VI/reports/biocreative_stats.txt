@@ -1,0 +1,8 @@
+Analyzing: biocreative_vi_converted.json
+  Total Data Points (rows): 8495
+  Total Unique Sentences: 2725
+  Positive Relations: 4392
+  Negative Relations: 4103
+  [E1] before [E2]: 8495
+  [E2] before [E1]: 0
+------------------------------

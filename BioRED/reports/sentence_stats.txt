@@ -1,0 +1,31 @@
+Analyzing: BioRED converted (all splits)
+  Total Records: 298
+  Sentence Count Distribution:
+    1 sentences: 110 (36.91%)
+    6 sentences: 3 (1.01%)
+    8 sentences: 11 (3.69%)
+    9 sentences: 21 (7.05%)
+    10 sentences: 15 (5.03%)
+    11 sentences: 42 (14.09%)
+    12 sentences: 61 (20.47%)
+    13 sentences: 8 (2.68%)
+    17 sentences: 20 (6.71%)
+    19 sentences: 1 (0.34%)
+    23 sentences: 6 (2.01%)
+------------------------------
+Analyzing: combined_all_ppi_dataset_0.json
+  Total Records: 17080
+  Sentence Count Distribution:
+    1 sentences: 16418 (96.12%)
+    2 sentences: 366 (2.14%)
+    3 sentences: 224 (1.31%)
+    4 sentences: 8 (0.05%)
+    5 sentences: 34 (0.20%)
+    6 sentences: 1 (0.01%)
+    7 sentences: 9 (0.05%)
+    9 sentences: 9 (0.05%)
+    10 sentences: 1 (0.01%)
+    14 sentences: 3 (0.02%)
+    16 sentences: 6 (0.04%)
+    18 sentences: 1 (0.01%)
+------------------------------

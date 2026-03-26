@@ -1,0 +1,33 @@
+# Python cache and local tooling
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Large generated datasets
+5_PPI_dataset/derived/*.json
+Biocreative_VI/derived/*.json
+BioRED/derived/*.json
+Unclean_combined_dataset/derived/*.json
+Unified_PPI_dataset/derived/*.json
+Unified_PPI_dataset/derived/*.PubTator
+Unified_PPI_dataset/derived/*.tsv
+
+# Large legacy intermediate outputs
+5_PPI_dataset/archive/legacy_combined_datasets/*.json
+
+# Large raw/source payloads
+5_PPI_dataset/raw/**/*.json
+Typed_PPI_dataset/raw/**/*.json
+Biocreative_VI/raw/*.json
+Biocreative_VI/raw/*.xml
+BioRED/raw/*.JSON
+BioRED/raw/*.XML
+BioRED/raw/*.PubTator
+BioRED/raw/*.pdf
+
+# Keep small metadata files that help document provenance
+!5_PPI_dataset/raw/**/relation_types.json

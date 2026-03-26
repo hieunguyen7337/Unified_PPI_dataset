@@ -1,0 +1,192 @@
+================================================================================
+10-FOLD CROSS-VALIDATION VERIFICATION
+================================================================================
+
+Checking AImed...
+================================================================================
+10-Fold Cross-Validation Verification Report: AImed
+================================================================================
+
+Number of folds detected: 10
+Total unique samples in dataset: 5834
+Valid 10-fold CV structure: [PASS] YES
+
+----------------------------------------
+Fold Details:
+----------------------------------------
+Fold   Test       Train      Total      Overlap   
+----------------------------------------------
+0      621        5213       5834       0         
+1      546        5288       5834       0         
+2      593        5241       5834       0         
+3      587        5247       5834       0         
+4      523        5311       5834       0         
+5      599        5235       5834       0         
+6      605        5229       5834       0         
+7      716        5118       5834       0         
+8      491        5343       5834       0         
+9      553        5281       5834       0         
+
+[PASS] All folds have the same total count: 5834
+
+----------------------------------------
+Test Set Coverage Analysis:
+----------------------------------------
+[PASS] All test sets combined cover the entire dataset
+[PASS] Each sample appears in exactly one test set (proper 10-fold CV)
+
+[PASS] No issues found - dataset is properly structured for 10-fold CV
+
+================================================================================
+
+Checking BioInfer...
+================================================================================
+10-Fold Cross-Validation Verification Report: BioInfer
+================================================================================
+
+Number of folds detected: 10
+Total unique samples in dataset: 9666
+Valid 10-fold CV structure: [PASS] YES
+
+----------------------------------------
+Fold Details:
+----------------------------------------
+Fold   Test       Train      Total      Overlap   
+----------------------------------------------
+0      962        8704       9666       0         
+1      988        8678       9666       0         
+2      938        8728       9666       0         
+3      1010       8656       9666       0         
+4      1016       8650       9666       0         
+5      938        8728       9666       0         
+6      1019       8647       9666       0         
+7      940        8726       9666       0         
+8      956        8710       9666       0         
+9      899        8767       9666       0         
+
+[PASS] All folds have the same total count: 9666
+
+----------------------------------------
+Test Set Coverage Analysis:
+----------------------------------------
+[PASS] All test sets combined cover the entire dataset
+[PASS] Each sample appears in exactly one test set (proper 10-fold CV)
+
+[PASS] No issues found - dataset is properly structured for 10-fold CV
+
+================================================================================
+
+Checking HPRD50...
+================================================================================
+10-Fold Cross-Validation Verification Report: HPRD50
+================================================================================
+
+Number of folds detected: 10
+Total unique samples in dataset: 433
+Valid 10-fold CV structure: [PASS] YES
+
+----------------------------------------
+Fold Details:
+----------------------------------------
+Fold   Test       Train      Total      Overlap   
+----------------------------------------------
+0      44         389        433        0         
+1      44         389        433        0         
+2      44         389        433        0         
+3      43         390        433        0         
+4      43         390        433        0         
+5      43         390        433        0         
+6      43         390        433        0         
+7      43         390        433        0         
+8      43         390        433        0         
+9      43         390        433        0         
+
+[PASS] All folds have the same total count: 433
+
+----------------------------------------
+Test Set Coverage Analysis:
+----------------------------------------
+[PASS] All test sets combined cover the entire dataset
+[PASS] Each sample appears in exactly one test set (proper 10-fold CV)
+
+[PASS] No issues found - dataset is properly structured for 10-fold CV
+
+================================================================================
+
+Checking IEPA...
+================================================================================
+10-Fold Cross-Validation Verification Report: IEPA
+================================================================================
+
+Number of folds detected: 10
+Total unique samples in dataset: 817
+Valid 10-fold CV structure: [PASS] YES
+
+----------------------------------------
+Fold Details:
+----------------------------------------
+Fold   Test       Train      Total      Overlap   
+----------------------------------------------
+0      82         735        817        0         
+1      82         735        817        0         
+2      82         735        817        0         
+3      82         735        817        0         
+4      82         735        817        0         
+5      82         735        817        0         
+6      82         735        817        0         
+7      81         736        817        0         
+8      81         736        817        0         
+9      81         736        817        0         
+
+[PASS] All folds have the same total count: 817
+
+----------------------------------------
+Test Set Coverage Analysis:
+----------------------------------------
+[PASS] All test sets combined cover the entire dataset
+[PASS] Each sample appears in exactly one test set (proper 10-fold CV)
+
+[PASS] No issues found - dataset is properly structured for 10-fold CV
+
+================================================================================
+
+Checking LLL...
+================================================================================
+10-Fold Cross-Validation Verification Report: LLL
+================================================================================
+
+Number of folds detected: 10
+Total unique samples in dataset: 330
+Valid 10-fold CV structure: [PASS] YES
+
+----------------------------------------
+Fold Details:
+----------------------------------------
+Fold   Test       Train      Total      Overlap   
+----------------------------------------------
+0      33         297        330        0         
+1      33         297        330        0         
+2      33         297        330        0         
+3      33         297        330        0         
+4      33         297        330        0         
+5      33         297        330        0         
+6      33         297        330        0         
+7      33         297        330        0         
+8      33         297        330        0         
+9      33         297        330        0         
+
+[PASS] All folds have the same total count: 330
+
+----------------------------------------
+Test Set Coverage Analysis:
+----------------------------------------
+[PASS] All test sets combined cover the entire dataset
+[PASS] Each sample appears in exactly one test set (proper 10-fold CV)
+
+[PASS] No issues found - dataset is properly structured for 10-fold CV
+
+================================================================================
+
+================================================================================
+SUMMARY: All datasets are properly structured for 10-fold cross-validation!
+================================================================================

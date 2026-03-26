@@ -1,0 +1,59 @@
+Consistency Analysis Report
+Total Duplicate Groups: 419
+Identical Groups: 5
+Different Groups: 414
+Different Relation Types: 13
+
+Details of groups with different relation types:
+--------------------
+Text with Marker: In this recombinant expression system, the [E1]dystrophin[/E1] relatives, human [E2]dystrophin related protein[/E2] (DRP or utrophin) and the 87K postsynaptic protein from Torpedo electric organ, also bind to translated beta 1-syntrophin.
+IDs: ['AIMed.d114.s968_AIMed.d114.s968.p1', 'BioInfer.d376.s0_BioInfer.d376.s0.p8']
+Relation Types: [['negative'], ['positive']]
+--------------------
+Text with Marker: In this recombinant expression system, the [E1]dystrophin[/E1] relatives, human dystrophin related protein ([E2]DRP[/E2] or utrophin) and the 87K postsynaptic protein from Torpedo electric organ, also bind to translated beta 1-syntrophin.
+IDs: ['AIMed.d114.s968_AIMed.d114.s968.p2', 'BioInfer.d376.s0_BioInfer.d376.s0.p4']
+Relation Types: [['negative'], ['positive']]
+--------------------
+Text with Marker: In this recombinant expression system, the [E1]dystrophin[/E1] relatives, human dystrophin related protein (DRP or [E2]utrophin[/E2]) and the 87K postsynaptic protein from Torpedo electric organ, also bind to translated beta 1-syntrophin.
+IDs: ['AIMed.d114.s968_AIMed.d114.s968.p3', 'BioInfer.d376.s0_BioInfer.d376.s0.p13']
+Relation Types: [['negative'], ['positive']]
+--------------------
+Text with Marker: In this recombinant expression system, the [E1]dystrophin[/E1] relatives, human dystrophin related protein (DRP or utrophin) and the [E2]87K postsynaptic protein[/E2] from Torpedo electric organ, also bind to translated beta 1-syntrophin.
+IDs: ['AIMed.d114.s968_AIMed.d114.s968.p4', 'BioInfer.d376.s0_BioInfer.d376.s0.p11']
+Relation Types: [['negative'], ['positive']]
+--------------------
+Text with Marker: Lastly, in agreement with our findings for yeast cells, we show that the [E1]insulin receptor[/E1] is unable to phosphorylate an [E2]IRS-1[/E2] protein containing a deletion of amino acids 45 to 516 when expressed in COS cells.
+IDs: ['AIMed.d123.s1052_AIMed.d123.s1052.p0', 'Biocreative.d7935368.s50318_Biocreative.d7935368.s50318.p0']
+Relation Types: [['negative'], ['positive']]
+--------------------
+Text with Marker: Immunohistochemistry for a variety of [E1-E2]cytokeratins[/E1-E2] (CKs) (8/18, 1/10, 7, and 20), epithelial membrane antigen (EMA), S-100 protein, vimentin CD34, type IV collagen, smooth muscle actin, smooth muscle myosin heavy chain, calponin, and glial fibrillary acid protein was performed.
+IDs: ['BioInfer.d294.s0_BioInfer.d294.s0.p0', 'BioInfer.d294.s0_BioInfer.d294.s0.p10', 'BioInfer.d294.s0_BioInfer.d294.s0.p11', 'BioInfer.d294.s0_BioInfer.d294.s0.p14', 'BioInfer.d294.s0_BioInfer.d294.s0.p15', 'BioInfer.d294.s0_BioInfer.d294.s0.p25', 'BioInfer.d294.s0_BioInfer.d294.s0.p26', 'BioInfer.d294.s0_BioInfer.d294.s0.p29', 'BioInfer.d294.s0_BioInfer.d294.s0.p30', 'BioInfer.d294.s0_BioInfer.d294.s0.p121', 'BioInfer.d294.s0_BioInfer.d294.s0.p124', 'BioInfer.d294.s0_BioInfer.d294.s0.p125', 'BioInfer.d294.s0_BioInfer.d294.s0.p128', 'BioInfer.d294.s0_BioInfer.d294.s0.p129', 'BioInfer.d294.s0_BioInfer.d294.s0.p135']
+Relation Types: [['negative'], ['negative'], ['negative'], ['positive'], ['negative'], ['negative'], ['negative'], ['negative'], ['positive'], ['negative'], ['negative'], ['negative'], ['negative'], ['negative'], ['negative']]
+--------------------
+Text with Marker: Newly disclosed interactions between gephyrin, exchange factors for [E1]G proteins[/E1] of the [E2]Rho[/E2] and Rac families, the translational regulator RAFT1, and actin-binding proteins like profilin might integrate activity-dependent and trophic-factor-mediated signals at developing postsynaptic sites.
+IDs: ['BioInfer.d451.s0_BioInfer.d451.s0.p0', 'BioInfer.d451.s0_BioInfer.d451.s0.p1']
+Relation Types: [['negative'], ['positive']]
+--------------------
+Text with Marker: Newly disclosed interactions between gephyrin, exchange factors for [E1]G proteins[/E1] of the Rho and Rac families, the translational regulator [E2]RAFT1[/E2], and actin-binding proteins like profilin might integrate activity-dependent and trophic-factor-mediated signals at developing postsynaptic sites.
+IDs: ['BioInfer.d451.s0_BioInfer.d451.s0.p8', 'BioInfer.d451.s0_BioInfer.d451.s0.p13']
+Relation Types: [['negative'], ['positive']]
+--------------------
+Text with Marker: Newly disclosed interactions between gephyrin, exchange factors for [E1]G proteins[/E1] of the Rho and Rac families, the translational regulator RAFT1, and [E2]actin-binding proteins[/E2] like profilin might integrate activity-dependent and trophic-factor-mediated signals at developing postsynaptic sites.
+IDs: ['BioInfer.d451.s0_BioInfer.d451.s0.p10', 'BioInfer.d451.s0_BioInfer.d451.s0.p15']
+Relation Types: [['negative'], ['positive']]
+--------------------
+Text with Marker: Newly disclosed interactions between [E1]gephyrin[/E1], exchange factors for [E2]G proteins[/E2] of the Rho and Rac families, the translational regulator RAFT1, and actin-binding proteins like profilin might integrate activity-dependent and trophic-factor-mediated signals at developing postsynaptic sites.
+IDs: ['BioInfer.d451.s0_BioInfer.d451.s0.p11', 'BioInfer.d451.s0_BioInfer.d451.s0.p16']
+Relation Types: [['negative'], ['positive']]
+--------------------
+Text with Marker: Newly disclosed interactions between gephyrin, exchange factors for [E1]G proteins[/E1] of the Rho and [E2]Rac[/E2] families, the translational regulator RAFT1, and actin-binding proteins like profilin might integrate activity-dependent and trophic-factor-mediated signals at developing postsynaptic sites.
+IDs: ['BioInfer.d451.s0_BioInfer.d451.s0.p12', 'BioInfer.d451.s0_BioInfer.d451.s0.p17']
+Relation Types: [['negative'], ['positive']]
+--------------------
+Text with Marker: A 2.2-kb truncated NRP1 cDNA was cloned that encodes a 644-aa soluble NRP1 (sNRP1) isoform containing just the a/[E1]CUB[/E1] and b/coagulation factor homology extracellular domains of [E2]NRP1[/E2].
+IDs: ['BioInfer.d109.s1_BioInfer.d109.s1.p8', 'BioInfer.d109.s1_BioInfer.d109.s1.p10']
+Relation Types: [['positive'], ['negative']]
+--------------------
+Text with Marker: A 2.2-kb truncated NRP1 cDNA was cloned that encodes a 644-aa soluble NRP1 (sNRP1) isoform containing just the a/CUB and b/[E1]coagulation factor[/E1] homology extracellular domains of [E2]NRP1[/E2].
+IDs: ['BioInfer.d109.s1_BioInfer.d109.s1.p15', 'BioInfer.d109.s1_BioInfer.d109.s1.p17']
+Relation Types: [['positive'], ['negative']]
